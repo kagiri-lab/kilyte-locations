@@ -1,0 +1,1742 @@
+[
+  {
+    "county": "1",
+    "id": "1",
+    "name": "CHANGAMWE",
+    "count": "93561"
+  },
+  {
+    "county": "1",
+    "id": "2",
+    "name": "JOMVU",
+    "count": "75085"
+  },
+  {
+    "county": "1",
+    "id": "3",
+    "name": "KISAUNI",
+    "count": "135276"
+  },
+  {
+    "county": "1",
+    "id": "4",
+    "name": "NYALI",
+    "count": "124253"
+  },
+  {
+    "county": "1",
+    "id": "5",
+    "name": "LIKONI",
+    "count": "94764"
+  },
+  {
+    "county": "1",
+    "id": "6",
+    "name": "MVITA",
+    "count": "118974"
+  },
+  {
+    "county": "2",
+    "id": "7",
+    "name": "MSAMBWENI",
+    "count": "82261"
+  },
+  {
+    "county": "2",
+    "id": "8",
+    "name": "LUNGALUNGA",
+    "count": "64854"
+  },
+  {
+    "county": "2",
+    "id": "9",
+    "name": "MATUGA",
+    "count": "83015"
+  },
+  {
+    "county": "2",
+    "id": "010",
+    "name": "KINANGO",
+    "count": "98123"
+  },
+  {
+    "county": "3",
+    "id": "011",
+    "name": "KILIFI NORTH",
+    "count": "116742"
+  },
+  {
+    "county": "3",
+    "id": "012",
+    "name": "KILIFI SOUTH",
+    "count": "97696"
+  },
+  {
+    "county": "3",
+    "id": "013",
+    "name": "KALOLENI",
+    "count": "73009"
+  },
+  {
+    "county": "3",
+    "id": "014",
+    "name": "RABAI",
+    "count": "59165"
+  },
+  {
+    "county": "3",
+    "id": "015",
+    "name": "GANZE",
+    "count": "67257"
+  },
+  {
+    "county": "3",
+    "id": "016",
+    "name": "MALINDI",
+    "count": "94605"
+  },
+  {
+    "county": "3",
+    "id": "017",
+    "name": "MAGARINI",
+    "count": "80128"
+  },
+  {
+    "county": "4",
+    "id": "018",
+    "name": "GARSEN",
+    "count": "55453"
+  },
+  {
+    "county": "4",
+    "id": "019",
+    "name": "GALOLE",
+    "count": "39965"
+  },
+  {
+    "county": "4",
+    "id": "020",
+    "name": "BURA",
+    "count": "45678"
+  },
+  {
+    "county": "5",
+    "id": "021",
+    "name": "LAMU EAST",
+    "count": "22047"
+  },
+  {
+    "county": "5",
+    "id": "022",
+    "name": "LAMU WEST",
+    "count": "59406"
+  },
+  {
+    "county": "6",
+    "id": "023",
+    "name": "TAVETA",
+    "count": "41031"
+  },
+  {
+    "county": "6",
+    "id": "024",
+    "name": "WUNDANYI",
+    "count": "35008"
+  },
+  {
+    "county": "6",
+    "id": "025",
+    "name": "MWATATE",
+    "count": "44411"
+  },
+  {
+    "county": "6",
+    "id": "026",
+    "name": "VOI",
+    "count": "61377"
+  },
+  {
+    "county": "7",
+    "id": "027",
+    "name": "GARISSA TOWNSHIP",
+    "count": "53253"
+  },
+  {
+    "county": "7",
+    "id": "028",
+    "name": "BALAMBALA",
+    "count": "26085"
+  },
+  {
+    "county": "7",
+    "id": "029",
+    "name": "LAGDERA",
+    "count": "26949"
+  },
+  {
+    "county": "7",
+    "id": "030",
+    "name": "DADAAB",
+    "count": "38185"
+  },
+  {
+    "county": "7",
+    "id": "031",
+    "name": "FAFI",
+    "count": "27335"
+  },
+  {
+    "county": "7",
+    "id": "032",
+    "name": "IJARA",
+    "count": "29666"
+  },
+  {
+    "county": "8",
+    "id": "033",
+    "name": "WAJIR NORTH",
+    "count": "33927"
+  },
+  {
+    "county": "8",
+    "id": "034",
+    "name": "WAJIR EAST",
+    "count": "35794"
+  },
+  {
+    "county": "8",
+    "id": "035",
+    "name": "TARBAJ",
+    "count": "25267"
+  },
+  {
+    "county": "8",
+    "id": "036",
+    "name": "WAJIR WEST",
+    "count": "31334"
+  },
+  {
+    "county": "8",
+    "id": "037",
+    "name": "ELDAS",
+    "count": "23359"
+  },
+  {
+    "county": "8",
+    "id": "038",
+    "name": "WAJIR SOUTH",
+    "count": "58077"
+  },
+  {
+    "county": "9",
+    "id": "039",
+    "name": "MANDERA WEST",
+    "count": "37637"
+  },
+  {
+    "county": "9",
+    "id": "040",
+    "name": "BANISSA",
+    "count": "32703"
+  },
+  {
+    "county": "9",
+    "id": "041",
+    "name": "MANDERA NORTH",
+    "count": "45216"
+  },
+  {
+    "county": "9",
+    "id": "042",
+    "name": "MANDERA SOUTH",
+    "count": "34691"
+  },
+  {
+    "county": "9",
+    "id": "043",
+    "name": "MANDERA EAST",
+    "count": "48219"
+  },
+  {
+    "county": "9",
+    "id": "044",
+    "name": "LAFEY",
+    "count": "18564"
+  },
+  {
+    "county": "010",
+    "id": "045",
+    "name": "MOYALE",
+    "count": "66402"
+  },
+  {
+    "county": "010",
+    "id": "046",
+    "name": "NORTH HORR",
+    "count": "36855"
+  },
+  {
+    "county": "010",
+    "id": "047",
+    "name": "SAKU",
+    "count": "30209"
+  },
+  {
+    "county": "010",
+    "id": "048",
+    "name": "LAISAMIS",
+    "count": "33446"
+  },
+  {
+    "county": "011",
+    "id": "049",
+    "name": "ISIOLO NORTH",
+    "count": "67323"
+  },
+  {
+    "county": "011",
+    "id": "050",
+    "name": "ISIOLO SOUTH",
+    "count": "22181"
+  },
+  {
+    "county": "012",
+    "id": "051",
+    "name": "IGEMBE SOUTH",
+    "count": "77126"
+  },
+  {
+    "county": "012",
+    "id": "052",
+    "name": "IGEMBE CENTRAL",
+    "count": "93434"
+  },
+  {
+    "county": "012",
+    "id": "053",
+    "name": "IGEMBE NORTH",
+    "count": "77050"
+  },
+  {
+    "county": "012",
+    "id": "054",
+    "name": "TIGANIA WEST",
+    "count": "70283"
+  },
+  {
+    "county": "012",
+    "id": "055",
+    "name": "TIGANIA EAST",
+    "count": "83527"
+  },
+  {
+    "county": "012",
+    "id": "056",
+    "name": "NORTH IMENTI",
+    "count": "96241"
+  },
+  {
+    "county": "012",
+    "id": "057",
+    "name": "BUURI",
+    "count": "82341"
+  },
+  {
+    "county": "012",
+    "id": "058",
+    "name": "CENTRAL IMENTI",
+    "count": "76495"
+  },
+  {
+    "county": "012",
+    "id": "059",
+    "name": "SOUTH IMENTI",
+    "count": "115642"
+  },
+  {
+    "county": "013",
+    "id": "NITHI",
+    "name": "060 MAARA",
+    "count": "73248"
+  },
+  {
+    "county": "013",
+    "id": "NITHI",
+    "name": "061 CHUKA/IGAMBANG'OMBE",
+    "count": "84674"
+  },
+  {
+    "county": "013",
+    "id": "NITHI",
+    "name": "062 THARAKA",
+    "count": "74010"
+  },
+  {
+    "county": "014",
+    "id": "063",
+    "name": "MANYATTA",
+    "count": "106588"
+  },
+  {
+    "county": "014",
+    "id": "064",
+    "name": "RUNYENJES",
+    "count": "95326"
+  },
+  {
+    "county": "014",
+    "id": "065",
+    "name": "MBEERE SOUTH",
+    "count": "77264"
+  },
+  {
+    "county": "014",
+    "id": "066",
+    "name": "MBEERE NORTH",
+    "count": "55124"
+  },
+  {
+    "county": "015",
+    "id": "067",
+    "name": "MWINGI NORTH",
+    "count": "68829"
+  },
+  {
+    "county": "015",
+    "id": "068",
+    "name": "MWINGI WEST",
+    "count": "57138"
+  },
+  {
+    "county": "015",
+    "id": "069",
+    "name": "MWINGI CENTRAL",
+    "count": "74231"
+  },
+  {
+    "county": "015",
+    "id": "070",
+    "name": "KITUI WEST",
+    "count": "59047"
+  },
+  {
+    "county": "015",
+    "id": "071",
+    "name": "KITUI RURAL",
+    "count": "55000"
+  },
+  {
+    "county": "015",
+    "id": "072",
+    "name": "KITUI CENTRAL",
+    "count": "77764"
+  },
+  {
+    "county": "015",
+    "id": "073",
+    "name": "KITUI EAST",
+    "count": "65377"
+  },
+  {
+    "county": "015",
+    "id": "074",
+    "name": "KITUI SOUTH",
+    "count": "75372"
+  },
+  {
+    "county": "016",
+    "id": "075",
+    "name": "MASINGA",
+    "count": "68879"
+  },
+  {
+    "county": "016",
+    "id": "076",
+    "name": "YATTA",
+    "count": "82397"
+  },
+  {
+    "county": "016",
+    "id": "077",
+    "name": "KANGUNDO",
+    "count": "60796"
+  },
+  {
+    "county": "016",
+    "id": "078",
+    "name": "MATUNGULU",
+    "count": "75841"
+  },
+  {
+    "county": "016",
+    "id": "079",
+    "name": "KATHIANI",
+    "count": "60224"
+  },
+  {
+    "county": "016",
+    "id": "080",
+    "name": "MAVOKO",
+    "count": "132163"
+  },
+  {
+    "county": "016",
+    "id": "081",
+    "name": "MACHAKOS TOWN",
+    "count": "117367"
+  },
+  {
+    "county": "016",
+    "id": "082",
+    "name": "MWALA",
+    "count": "89898"
+  },
+  {
+    "county": "017",
+    "id": "083",
+    "name": "MBOONI",
+    "count": "96029"
+  },
+  {
+    "county": "017",
+    "id": "084",
+    "name": "KILOME",
+    "count": "59178"
+  },
+  {
+    "county": "017",
+    "id": "085",
+    "name": "KAITI",
+    "count": "65188"
+  },
+  {
+    "county": "017",
+    "id": "086",
+    "name": "MAKUENI",
+    "count": "102712"
+  },
+  {
+    "county": "017",
+    "id": "087",
+    "name": "KIBWEZI WEST",
+    "count": "91554"
+  },
+  {
+    "county": "017",
+    "id": "088",
+    "name": "KIBWEZI EAST",
+    "count": "64740"
+  },
+  {
+    "county": "018",
+    "id": "089",
+    "name": "KINANGOP",
+    "count": "115547"
+  },
+  {
+    "county": "018",
+    "id": "090",
+    "name": "KIPIPIRI",
+    "count": "54628"
+  },
+  {
+    "county": "018",
+    "id": "091",
+    "name": "OL KALOU",
+    "count": "72997"
+  },
+  {
+    "county": "018",
+    "id": "092",
+    "name": "OL JOROK",
+    "count": "60147"
+  },
+  {
+    "county": "018",
+    "id": "093",
+    "name": "NDARAGWA",
+    "count": "57846"
+  },
+  {
+    "county": "019",
+    "id": "094",
+    "name": "TETU",
+    "count": "54986"
+  },
+  {
+    "county": "019",
+    "id": "095",
+    "name": "KIENI",
+    "count": "114573"
+  },
+  {
+    "county": "019",
+    "id": "096",
+    "name": "MATHIRA",
+    "count": "104492"
+  },
+  {
+    "county": "019",
+    "id": "097",
+    "name": "OTHAYA",
+    "count": "61879"
+  },
+  {
+    "county": "019",
+    "id": "098",
+    "name": "MUKURWEINI",
+    "count": "58534"
+  },
+  {
+    "county": "019",
+    "id": "099",
+    "name": "NYERI TOWN",
+    "count": "87168"
+  },
+  {
+    "county": "020",
+    "id": "100",
+    "name": "MWEA",
+    "count": "131714"
+  },
+  {
+    "county": "020",
+    "id": "101",
+    "name": "GICHUGU",
+    "count": "92495"
+  },
+  {
+    "county": "020",
+    "id": "102",
+    "name": "NDIA",
+    "count": "69743"
+  },
+  {
+    "county": "020",
+    "id": "103",
+    "name": "KIRINYAGA CENTRAL",
+    "count": "82049"
+  },
+  {
+    "county": "021",
+    "id": "104",
+    "name": "KANGEMA",
+    "count": "52002"
+  },
+  {
+    "county": "021",
+    "id": "105",
+    "name": "MATHIOYA",
+    "count": "58102"
+  },
+  {
+    "county": "021",
+    "id": "106",
+    "name": "KIHARU",
+    "count": "119389"
+  },
+  {
+    "county": "021",
+    "id": "107",
+    "name": "KIGUMO",
+    "count": "82609"
+  },
+  {
+    "county": "021",
+    "id": "108",
+    "name": "MARAGWA",
+    "count": "102383"
+  },
+  {
+    "county": "021",
+    "id": "109",
+    "name": "KANDARA",
+    "count": "105148"
+  },
+  {
+    "county": "021",
+    "id": "110",
+    "name": "GATANGA",
+    "count": "101296"
+  },
+  {
+    "county": "022",
+    "id": "111",
+    "name": "GATUNDU SOUTH",
+    "count": "79860"
+  },
+  {
+    "county": "022",
+    "id": "112",
+    "name": "GATUNDU NORTH",
+    "count": "71810"
+  },
+  {
+    "county": "022",
+    "id": "113",
+    "name": "JUJA",
+    "count": "134638"
+  },
+  {
+    "county": "022",
+    "id": "114",
+    "name": "THIKA TOWN",
+    "count": "156018"
+  },
+  {
+    "county": "022",
+    "id": "115",
+    "name": "RUIRU",
+    "count": "172088"
+  },
+  {
+    "county": "022",
+    "id": "116",
+    "name": "GITHUNGURI",
+    "count": "104592"
+  },
+  {
+    "county": "022",
+    "id": "117",
+    "name": "KIAMBU",
+    "count": "86986"
+  },
+  {
+    "county": "022",
+    "id": "118",
+    "name": "KIAMBAA",
+    "count": "104268"
+  },
+  {
+    "county": "022",
+    "id": "119",
+    "name": "KABETE",
+    "count": "91775"
+  },
+  {
+    "county": "022",
+    "id": "120",
+    "name": "KIKUYU",
+    "count": "98758"
+  },
+  {
+    "county": "022",
+    "id": "121",
+    "name": "LIMURU",
+    "count": "93019"
+  },
+  {
+    "county": "022",
+    "id": "122",
+    "name": "LARI",
+    "count": "81196"
+  },
+  {
+    "county": "023",
+    "id": "123",
+    "name": "TURKANA NORTH",
+    "count": "42937"
+  },
+  {
+    "county": "023",
+    "id": "124",
+    "name": "TURKANA WEST",
+    "count": "42673"
+  },
+  {
+    "county": "023",
+    "id": "125",
+    "name": "TURKANA CENTRAL",
+    "count": "55971"
+  },
+  {
+    "county": "023",
+    "id": "126",
+    "name": "LOIMA",
+    "count": "36515"
+  },
+  {
+    "county": "023",
+    "id": "127",
+    "name": "TURKANA SOUTH",
+    "count": "40432"
+  },
+  {
+    "county": "023",
+    "id": "128",
+    "name": "TURKANA EAST",
+    "count": "20000"
+  },
+  {
+    "county": "024",
+    "id": "129",
+    "name": "KAPENGURIA",
+    "count": "66540"
+  },
+  {
+    "county": "024",
+    "id": "130",
+    "name": "SIGOR",
+    "count": "43934"
+  },
+  {
+    "county": "024",
+    "id": "131",
+    "name": "KACHELIBA",
+    "count": "51146"
+  },
+  {
+    "county": "024",
+    "id": "132",
+    "name": "POKOT SOUTH",
+    "count": "58406"
+  },
+  {
+    "county": "025",
+    "id": "133",
+    "name": "SAMBURU WEST",
+    "count": "43390"
+  },
+  {
+    "county": "025",
+    "id": "134",
+    "name": "SAMBURU NORTH",
+    "count": "29830"
+  },
+  {
+    "county": "025",
+    "id": "135",
+    "name": "SAMBURU EAST",
+    "count": "26794"
+  },
+  {
+    "county": "026",
+    "id": "136",
+    "name": "KWANZA",
+    "count": "75839"
+  },
+  {
+    "county": "026",
+    "id": "137",
+    "name": "ENDEBESS",
+    "count": "50688"
+  },
+  {
+    "county": "026",
+    "id": "138",
+    "name": "SABOTI",
+    "count": "87384"
+  },
+  {
+    "county": "026",
+    "id": "139",
+    "name": "KIMININI",
+    "count": "93240"
+  },
+  {
+    "county": "026",
+    "id": "140",
+    "name": "CHERANGANY",
+    "count": "91830"
+  },
+  {
+    "county": "027",
+    "id": "141",
+    "name": "SOY",
+    "count": "92702"
+  },
+  {
+    "county": "027",
+    "id": "142",
+    "name": "TURBO",
+    "count": "120202"
+  },
+  {
+    "county": "027",
+    "id": "143",
+    "name": "MOIBEN",
+    "count": "77877"
+  },
+  {
+    "county": "027",
+    "id": "144",
+    "name": "AINABKOI",
+    "count": "62606"
+  },
+  {
+    "county": "027",
+    "id": "145",
+    "name": "KAPSERET",
+    "count": "74809"
+  },
+  {
+    "county": "027",
+    "id": "146",
+    "name": "KESSES",
+    "count": "77942"
+  },
+  {
+    "county": "028",
+    "id": "147",
+    "name": "MARAKWET EAST",
+    "count": "43672"
+  },
+  {
+    "county": "028",
+    "id": "148",
+    "name": "MARAKWET WEST",
+    "count": "58568"
+  },
+  {
+    "county": "028",
+    "id": "149",
+    "name": "KEIYO NORTH",
+    "count": "49247"
+  },
+  {
+    "county": "028",
+    "id": "150",
+    "name": "KEIYO SOUTH",
+    "count": "62397"
+  },
+  {
+    "county": "029",
+    "id": "151",
+    "name": "TINDERET",
+    "count": "51446"
+  },
+  {
+    "county": "029",
+    "id": "152",
+    "name": "ALDAI",
+    "count": "78005"
+  },
+  {
+    "county": "029",
+    "id": "153",
+    "name": "NANDI HILLS",
+    "count": "57910"
+  },
+  {
+    "county": "029",
+    "id": "154",
+    "name": "CHESUMEI",
+    "count": "74201"
+  },
+  {
+    "county": "029",
+    "id": "155",
+    "name": "EMGWEN",
+    "count": "66940"
+  },
+  {
+    "county": "029",
+    "id": "156",
+    "name": "MOSOP",
+    "count": "77786"
+  },
+  {
+    "county": "030",
+    "id": "157",
+    "name": "TIATY",
+    "count": "39059"
+  },
+  {
+    "county": "030",
+    "id": "158",
+    "name": "BARINGO NORTH",
+    "count": "50287"
+  },
+  {
+    "county": "030",
+    "id": "159",
+    "name": "BARINGO CENTRAL",
+    "count": "45920"
+  },
+  {
+    "county": "030",
+    "id": "160",
+    "name": "BARINGO SOUTH",
+    "count": "42791"
+  },
+  {
+    "county": "030",
+    "id": "161",
+    "name": "MOGOTIO",
+    "count": "38922"
+  },
+  {
+    "county": "030",
+    "id": "162",
+    "name": "ELDAMA RAVINE",
+    "count": "64074"
+  },
+  {
+    "county": "031",
+    "id": "163",
+    "name": "LAIKIPIA WEST",
+    "count": "118865"
+  },
+  {
+    "county": "031",
+    "id": "164",
+    "name": "LAIKIPIA EAST",
+    "count": "96395"
+  },
+  {
+    "county": "031",
+    "id": "165",
+    "name": "LAIKIPIA NORTH",
+    "count": "47752"
+  },
+  {
+    "county": "032",
+    "id": "166",
+    "name": "MOLO",
+    "count": "77027"
+  },
+  {
+    "county": "032",
+    "id": "167",
+    "name": "NJORO",
+    "count": "113274"
+  },
+  {
+    "county": "032",
+    "id": "168",
+    "name": "NAIVASHA",
+    "count": "157128"
+  },
+  {
+    "county": "032",
+    "id": "169",
+    "name": "GILGIL",
+    "count": "95654"
+  },
+  {
+    "county": "032",
+    "id": "170",
+    "name": "KURESOI SOUTH",
+    "count": "66168"
+  },
+  {
+    "county": "032",
+    "id": "171",
+    "name": "KURESOI NORTH",
+    "count": "70663"
+  },
+  {
+    "county": "032",
+    "id": "172",
+    "name": "SUBUKIA",
+    "count": "55599"
+  },
+  {
+    "county": "032",
+    "id": "173",
+    "name": "RONGAI",
+    "count": "84625"
+  },
+  {
+    "county": "032",
+    "id": "174",
+    "name": "BAHATI",
+    "count": "97040"
+  },
+  {
+    "county": "032",
+    "id": "175",
+    "name": "NAKURU TOWN WEST",
+    "count": ""
+  },
+  {
+    "county": "032",
+    "id": "176",
+    "name": "NAKURU TOWN EAST",
+    "count": ""
+  },
+  {
+    "county": "033",
+    "id": "177",
+    "name": "KILGORIS",
+    "count": "76883"
+  },
+  {
+    "county": "033",
+    "id": "178",
+    "name": "EMURUA DIKIRR",
+    "count": "44040"
+  },
+  {
+    "county": "033",
+    "id": "179",
+    "name": "NAROK NORTH",
+    "count": "88665"
+  },
+  {
+    "county": "033",
+    "id": "180",
+    "name": "NAROK EAST",
+    "count": "46535"
+  },
+  {
+    "county": "033",
+    "id": "181",
+    "name": "NAROK SOUTH",
+    "count": "76065"
+  },
+  {
+    "county": "033",
+    "id": "182",
+    "name": "NAROK WEST",
+    "count": "66596"
+  },
+  {
+    "county": "034",
+    "id": "183",
+    "name": "KAJIADO NORTH",
+    "count": "134880"
+  },
+  {
+    "county": "034",
+    "id": "184",
+    "name": "KAJIADO CENTRAL",
+    "count": "65823"
+  },
+  {
+    "county": "034",
+    "id": "185",
+    "name": "KAJIADO EAST",
+    "count": "116336"
+  },
+  {
+    "county": "034",
+    "id": "186",
+    "name": "KAJIADO WEST",
+    "count": "75173"
+  },
+  {
+    "county": "034",
+    "id": "187",
+    "name": "KAJIADO SOUTH",
+    "count": "71061"
+  },
+  {
+    "county": "035",
+    "id": "188",
+    "name": "KIPKELION EAST",
+    "count": "63679"
+  },
+  {
+    "county": "035",
+    "id": "189",
+    "name": "KIPKELION WEST",
+    "count": "52960"
+  },
+  {
+    "county": "035",
+    "id": "190",
+    "name": "AINAMOI",
+    "count": "85024"
+  },
+  {
+    "county": "035",
+    "id": "191",
+    "name": "BURETI",
+    "count": "95320"
+  },
+  {
+    "county": "035",
+    "id": "192",
+    "name": "BELGUT",
+    "count": "75175"
+  },
+  {
+    "county": "035",
+    "id": "193",
+    "name": "SIGOWET/SOIN",
+    "count": "55909"
+  },
+  {
+    "county": "036",
+    "id": "194",
+    "name": "SOTIK",
+    "count": "86681"
+  },
+  {
+    "county": "036",
+    "id": "195",
+    "name": "CHEPALUNGU",
+    "count": "80140"
+  },
+  {
+    "county": "036",
+    "id": "196",
+    "name": "BOMET EAST",
+    "count": "63640"
+  },
+  {
+    "county": "036",
+    "id": "197",
+    "name": "BOMET CENTRAL",
+    "count": "71409"
+  },
+  {
+    "county": "036",
+    "id": "198",
+    "name": "KONOIN",
+    "count": "75115"
+  },
+  {
+    "county": "037",
+    "id": "199",
+    "name": "LUGARI",
+    "count": "86908"
+  },
+  {
+    "county": "037",
+    "id": "200",
+    "name": "LIKUYANI",
+    "count": "72449"
+  },
+  {
+    "county": "037",
+    "id": "201",
+    "name": "MALAVA",
+    "count": "94417"
+  },
+  {
+    "county": "037",
+    "id": "202",
+    "name": "LURAMBI",
+    "count": "89627"
+  },
+  {
+    "county": "037",
+    "id": "203",
+    "name": "NAVAKHOLO",
+    "count": "64743"
+  },
+  {
+    "county": "037",
+    "id": "204",
+    "name": "MUMIAS WEST",
+    "count": "53317"
+  },
+  {
+    "county": "037",
+    "id": "205",
+    "name": "MUMIAS EAST",
+    "count": "50568"
+  },
+  {
+    "county": "037",
+    "id": "206",
+    "name": "MATUNGU",
+    "count": "73930"
+  },
+  {
+    "county": "037",
+    "id": "207",
+    "name": "BUTERE",
+    "count": "70224"
+  },
+  {
+    "county": "037",
+    "id": "208",
+    "name": "KHWISERO",
+    "count": "55091"
+  },
+  {
+    "county": "037",
+    "id": "209",
+    "name": "SHINYALU",
+    "count": "76978"
+  },
+  {
+    "county": "037",
+    "id": "210",
+    "name": "IKOLOMANI",
+    "count": "56299"
+  },
+  {
+    "county": "038",
+    "id": "211",
+    "name": "VIHIGA",
+    "count": "52289"
+  },
+  {
+    "county": "038",
+    "id": "212",
+    "name": "SABATIA",
+    "count": "70875"
+  },
+  {
+    "county": "038",
+    "id": "213",
+    "name": "HAMISI",
+    "count": "80384"
+  },
+  {
+    "county": "038",
+    "id": "214",
+    "name": "LUANDA",
+    "count": "56310"
+  },
+  {
+    "county": "038",
+    "id": "215",
+    "name": "EMUHAYA",
+    "count": "50185"
+  },
+  {
+    "county": "039",
+    "id": "216",
+    "name": "MT. ELGON",
+    "count": "76159"
+  },
+  {
+    "county": "039",
+    "id": "217",
+    "name": "SIRISIA",
+    "count": "48717"
+  },
+  {
+    "county": "039",
+    "id": "218",
+    "name": "KABUCHAI",
+    "count": "67221"
+  },
+  {
+    "county": "039",
+    "id": "219",
+    "name": "BUMULA",
+    "count": "82047"
+  },
+  {
+    "county": "039",
+    "id": "220",
+    "name": "KANDUYI",
+    "count": "118333"
+  },
+  {
+    "county": "039",
+    "id": "221",
+    "name": "WEBUYE EAST",
+    "count": "48950"
+  },
+  {
+    "county": "039",
+    "id": "222",
+    "name": "WEBUYE WEST",
+    "count": "58632"
+  },
+  {
+    "county": "039",
+    "id": "223",
+    "name": "KIMILILI",
+    "count": "61587"
+  },
+  {
+    "county": "039",
+    "id": "224",
+    "name": "TONGAREN",
+    "count": "84952"
+  },
+  {
+    "county": "040",
+    "id": "225",
+    "name": "TESO NORTH",
+    "count": "59795"
+  },
+  {
+    "county": "040",
+    "id": "226",
+    "name": "TESO SOUTH",
+    "count": "71268"
+  },
+  {
+    "county": "040",
+    "id": "227",
+    "name": "NAMBALE",
+    "count": "50545"
+  },
+  {
+    "county": "040",
+    "id": "228",
+    "name": "MATAYOS",
+    "count": "67708"
+  },
+  {
+    "county": "040",
+    "id": "229",
+    "name": "BUTULA",
+    "count": "67377"
+  },
+  {
+    "county": "040",
+    "id": "230",
+    "name": "FUNYULA",
+    "count": "54031"
+  },
+  {
+    "county": "040",
+    "id": "231",
+    "name": "BUDALANGI",
+    "count": "46032"
+  },
+  {
+    "county": "041",
+    "id": "232",
+    "name": "UGENYA",
+    "count": "69027"
+  },
+  {
+    "county": "041",
+    "id": "233",
+    "name": "UGUNJA",
+    "count": "60114"
+  },
+  {
+    "county": "041",
+    "id": "234",
+    "name": "ALEGO USONGA",
+    "count": "122002"
+  },
+  {
+    "county": "041",
+    "id": "235",
+    "name": "GEM",
+    "count": "93568"
+  },
+  {
+    "county": "041",
+    "id": "236",
+    "name": "BONDO",
+    "count": "104035"
+  },
+  {
+    "county": "041",
+    "id": "237",
+    "name": "RARIEDA",
+    "count": "84849"
+  },
+  {
+    "county": "042",
+    "id": "238",
+    "name": "KISUMU EAST",
+    "count": "93177"
+  },
+  {
+    "county": "042",
+    "id": "239",
+    "name": "KISUMU WEST",
+    "count": "82927"
+  },
+  {
+    "county": "042",
+    "id": "240",
+    "name": "KISUMU CENTRAL",
+    "count": "130149"
+  },
+  {
+    "county": "042",
+    "id": "241",
+    "name": "SEME",
+    "count": "62045"
+  },
+  {
+    "county": "042",
+    "id": "242",
+    "name": "NYANDO",
+    "count": "80757"
+  },
+  {
+    "county": "042",
+    "id": "243",
+    "name": "MUHORONI",
+    "count": "79765"
+  },
+  {
+    "county": "042",
+    "id": "244",
+    "name": "NYAKACH",
+    "count": "77934"
+  },
+  {
+    "county": "043",
+    "id": "245",
+    "name": "KASIPUL",
+    "count": "67513"
+  },
+  {
+    "county": "043",
+    "id": "246",
+    "name": "KABONDO KASIPUL",
+    "count": "59910"
+  },
+  {
+    "county": "043",
+    "id": "247",
+    "name": "KARACHUONYO",
+    "count": "94181"
+  },
+  {
+    "county": "043",
+    "id": "248",
+    "name": "RANGWE",
+    "count": "58886"
+  },
+  {
+    "county": "043",
+    "id": "249",
+    "name": "HOMA BAY",
+    "count": "TOWN"
+  },
+  {
+    "county": "043",
+    "id": "250",
+    "name": "NDHIWA",
+    "count": "96734"
+  },
+  {
+    "county": "043",
+    "id": "251",
+    "name": "SUBA NORTH",
+    "count": "60674"
+  },
+  {
+    "county": "043",
+    "id": "252",
+    "name": "SUBA SOUTH",
+    "count": "54838"
+  },
+  {
+    "county": "044",
+    "id": "253",
+    "name": "RONGO",
+    "count": "59181"
+  },
+  {
+    "county": "044",
+    "id": "254",
+    "name": "AWENDO",
+    "count": "55972"
+  },
+  {
+    "county": "044",
+    "id": "255",
+    "name": "SUNA EAST",
+    "count": "54465"
+  },
+  {
+    "county": "044",
+    "id": "256",
+    "name": "SUNA WEST",
+    "count": "56686"
+  },
+  {
+    "county": "044",
+    "id": "257",
+    "name": "URIRI",
+    "count": "65063"
+  },
+  {
+    "county": "044",
+    "id": "258",
+    "name": "NYATIKE",
+    "count": "73432"
+  },
+  {
+    "county": "044",
+    "id": "259",
+    "name": "KURIA WEST",
+    "count": "62244"
+  },
+  {
+    "county": "044",
+    "id": "260",
+    "name": "KURIA EAST",
+    "count": "41976"
+  },
+  {
+    "county": "045",
+    "id": "261",
+    "name": "BONCHARI",
+    "count": "64630"
+  },
+  {
+    "county": "045",
+    "id": "262",
+    "name": "SOUTH MUGIRANGO",
+    "count": "79004"
+  },
+  {
+    "county": "045",
+    "id": "263",
+    "name": "BOMACHOGE BORABU",
+    "count": "56991"
+  },
+  {
+    "county": "045",
+    "id": "264",
+    "name": "BOBASI",
+    "count": "106060"
+  },
+  {
+    "county": "045",
+    "id": "265",
+    "name": "BOMACHOGE CHACHE",
+    "count": "49301"
+  },
+  {
+    "county": "045",
+    "id": "266",
+    "name": "NYARIBARI MASABA",
+    "count": "68593"
+  },
+  {
+    "county": "045",
+    "id": "267",
+    "name": "NYARIBARI CHACHE",
+    "count": "88553"
+  },
+  {
+    "county": "045",
+    "id": "268",
+    "name": "KITUTU CHACHE NORTH",
+    "count": ""
+  },
+  {
+    "county": "045",
+    "id": "269",
+    "name": "KITUTU CHACHE SOUTH",
+    "count": ""
+  },
+  {
+    "county": "046",
+    "id": "270",
+    "name": "KITUTU MASABA",
+    "count": "106269"
+  },
+  {
+    "county": "046",
+    "id": "271",
+    "name": "WEST MUGIRANGO",
+    "count": "88199"
+  },
+  {
+    "county": "046",
+    "id": "272",
+    "name": "NORTH MUGIRANGO",
+    "count": "64750"
+  },
+  {
+    "county": "046",
+    "id": "273",
+    "name": "BORABU",
+    "count": "64065"
+  },
+  {
+    "county": "047",
+    "id": "274",
+    "name": "WESTLANDS",
+    "count": "160739"
+  },
+  {
+    "county": "047",
+    "id": "275",
+    "name": "DAGORETTI NORTH",
+    "count": "157659"
+  },
+  {
+    "county": "047",
+    "id": "276",
+    "name": "DAGORETTI SOUTH",
+    "count": "114930"
+  },
+  {
+    "county": "047",
+    "id": "277",
+    "name": "LANGATA",
+    "count": "145649"
+  },
+  {
+    "county": "047",
+    "id": "278",
+    "name": "KIBRA",
+    "count": "128282"
+  },
+  {
+    "county": "047",
+    "id": "279",
+    "name": "ROYSAMBU",
+    "count": "153772"
+  },
+  {
+    "county": "047",
+    "id": "280",
+    "name": "KASARANI",
+    "count": "155250"
+  },
+  {
+    "county": "047",
+    "id": "281",
+    "name": "RUARAKA",
+    "count": "124482"
+  },
+  {
+    "county": "047",
+    "id": "282",
+    "name": "EMBAKASI SOUTH",
+    "count": "167953"
+  },
+  {
+    "county": "047",
+    "id": "283",
+    "name": "EMBAKASI NORTH",
+    "count": "113344"
+  },
+  {
+    "county": "047",
+    "id": "284",
+    "name": "EMBAKASI CENTRAL",
+    "count": "145892"
+  },
+  {
+    "county": "047",
+    "id": "285",
+    "name": "EMBAKASI EAST",
+    "count": "154599"
+  },
+  {
+    "county": "047",
+    "id": "286",
+    "name": "EMBAKASI WEST",
+    "count": "141878"
+  },
+  {
+    "county": "047",
+    "id": "287",
+    "name": "MAKADARA",
+    "count": "129627"
+  },
+  {
+    "county": "047",
+    "id": "288",
+    "name": "KAMUKUNJI",
+    "count": "128516"
+  },
+  {
+    "county": "047",
+    "id": "289",
+    "name": "STAREHE",
+    "count": "169575"
+  },
+  {
+    "county": "047",
+    "id": "290",
+    "name": "MATHARE",
+    "count": "123163"
+  }
+]

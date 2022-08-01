@@ -1,0 +1,14 @@
+{
+    "name": "kilyte/locations",
+    "autoload": {
+        "psr-4": {
+            "locations\\": "./src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kagiri"
+        }
+    ],
+    "require": {}
+}

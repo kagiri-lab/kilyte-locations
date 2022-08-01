@@ -1,0 +1,8702 @@
+[
+    {
+        "constituecy": "1",
+        "id": "1",
+        "name": " PORT REITZ ",
+        "count": "17817"
+    },
+    {
+        "constituecy": "1",
+        "id": "2",
+        "name": " KIPEVU ",
+        "count": "16132"
+    },
+    {
+        "constituecy": "1",
+        "id": "3",
+        "name": " AIRPORT ",
+        "count": "18557"
+    },
+    {
+        "constituecy": "1",
+        "id": "4",
+        "name": " CHANGAMWE ",
+        "count": "18182"
+    },
+    {
+        "constituecy": "1",
+        "id": "5",
+        "name": " CHAANI ",
+        "count": "22873"
+    },
+    {
+        "constituecy": "2",
+        "id": "6",
+        "name": " JOMVU KUU ",
+        "count": "24243"
+    },
+    {
+        "constituecy": "2",
+        "id": "7",
+        "name": " MIRITINI ",
+        "count": "18048"
+    },
+    {
+        "constituecy": "2",
+        "id": "8",
+        "name": " MIKINDANI ",
+        "count": "32794"
+    },
+    {
+        "constituecy": "3",
+        "id": "9",
+        "name": " MJAMBERE ",
+        "count": "22692"
+    },
+    {
+        "constituecy": "3",
+        "id": "10",
+        "name": " JUNDA ",
+        "count": "25602"
+    },
+    {
+        "constituecy": "3",
+        "id": "11",
+        "name": " BAMBURI ",
+        "count": "20470"
+    },
+    {
+        "constituecy": "3",
+        "id": "12",
+        "name": " MWAKIRUNGE ",
+        "count": "6423"
+    },
+    {
+        "constituecy": "3",
+        "id": "13",
+        "name": " MTOPANGA ",
+        "count": "19474"
+    },
+    {
+        "constituecy": "3",
+        "id": "14",
+        "name": " MAGOGONI ",
+        "count": "15105"
+    },
+    {
+        "constituecy": "3",
+        "id": "15",
+        "name": " SHANZU ",
+        "count": "25510"
+    },
+    {
+        "constituecy": "4",
+        "id": "16",
+        "name": " FRERE TOWN ",
+        "count": "24849"
+    },
+    {
+        "constituecy": "4",
+        "id": "17",
+        "name": " ZIWA LA NG'OMBE ",
+        "count": "23296"
+    },
+    {
+        "constituecy": "4",
+        "id": "18",
+        "name": " MKOMANI ",
+        "count": "24154"
+    },
+    {
+        "constituecy": "4",
+        "id": "19",
+        "name": " KONGOWEA ",
+        "count": "28846"
+    },
+    {
+        "constituecy": "4",
+        "id": "20",
+        "name": " KADZANDANI ",
+        "count": "23108"
+    },
+    {
+        "constituecy": "5",
+        "id": "21",
+        "name": " MTONGWE ",
+        "count": "13937"
+    },
+    {
+        "constituecy": "5",
+        "id": "22",
+        "name": " SHIKA ADABU ",
+        "count": "15437"
+    },
+    {
+        "constituecy": "5",
+        "id": "23",
+        "name": " BOFU ",
+        "count": "18188"
+    },
+    {
+        "constituecy": "5",
+        "id": "24",
+        "name": " LIKONI ",
+        "count": "13273"
+    },
+    {
+        "constituecy": "5",
+        "id": "25",
+        "name": " TIMBWANI ",
+        "count": "33929"
+    },
+    {
+        "constituecy": "6",
+        "id": "26",
+        "name": " MJI WA KALE/MAKADARA ",
+        "count": "22341"
+    },
+    {
+        "constituecy": "6",
+        "id": "27",
+        "name": " TUDOR ",
+        "count": "22926"
+    },
+    {
+        "constituecy": "6",
+        "id": "28",
+        "name": " TONONOKA ",
+        "count": "23379"
+    },
+    {
+        "constituecy": "6",
+        "id": "29",
+        "name": " SHIMANZI/GANJONI ",
+        "count": "18556"
+    },
+    {
+        "constituecy": "6",
+        "id": "30",
+        "name": " MAJENGO ",
+        "count": "31772"
+    },
+    {
+        "constituecy": "7",
+        "id": "31",
+        "name": " GOMBATO BONGWE ",
+        "count": "20551"
+    },
+    {
+        "constituecy": "7",
+        "id": "32",
+        "name": " UKUNDA ",
+        "count": "24331"
+    },
+    {
+        "constituecy": "7",
+        "id": "33",
+        "name": " KINONDO ",
+        "count": "13463"
+    },
+    {
+        "constituecy": "7",
+        "id": "34",
+        "name": " RAMISI ",
+        "count": "23916"
+    },
+    {
+        "constituecy": "8",
+        "id": "35",
+        "name": " PONGWE/KIKONENI ",
+        "count": "18833"
+    },
+    {
+        "constituecy": "8",
+        "id": "36",
+        "name": " DZOMBO ",
+        "count": "14688"
+    },
+    {
+        "constituecy": "8",
+        "id": "37",
+        "name": " MWERENI ",
+        "count": "15589"
+    },
+    {
+        "constituecy": "8",
+        "id": "38",
+        "name": " VANGA ",
+        "count": "15744"
+    },
+    {
+        "constituecy": "9",
+        "id": "39",
+        "name": " TSIMBA GOLINI ",
+        "count": "20453"
+    },
+    {
+        "constituecy": "9",
+        "id": "40",
+        "name": " WAA ",
+        "count": "20681"
+    },
+    {
+        "constituecy": "9",
+        "id": "41",
+        "name": " TIWI ",
+        "count": "11016"
+    },
+    {
+        "constituecy": "9",
+        "id": "42",
+        "name": " KUBO SOUTH ",
+        "count": "12087"
+    },
+    {
+        "constituecy": "9",
+        "id": "43",
+        "name": " MKONGANI ",
+        "count": "18778"
+    },
+    {
+        "constituecy": "10",
+        "id": "44",
+        "name": " NDAVAYA ",
+        "count": "12743"
+    },
+    {
+        "constituecy": "10",
+        "id": "45",
+        "name": " PUMA ",
+        "count": "9844"
+    },
+    {
+        "constituecy": "10",
+        "id": "46",
+        "name": " KINANGO ",
+        "count": "15597"
+    },
+    {
+        "constituecy": "10",
+        "id": "47",
+        "name": " MACKINNON ROAD ",
+        "count": "14214"
+    },
+    {
+        "constituecy": "10",
+        "id": "48",
+        "name": " CHENGONI/SAMBURU ",
+        "count": "15037"
+    },
+    {
+        "constituecy": "10",
+        "id": "49",
+        "name": " MWAVUMBO ",
+        "count": "16243"
+    },
+    {
+        "constituecy": "10",
+        "id": "50",
+        "name": " KASEMENI ",
+        "count": "14445"
+    },
+    {
+        "constituecy": "11",
+        "id": "51",
+        "name": " TEZO ",
+        "count": "14830"
+    },
+    {
+        "constituecy": "11",
+        "id": "52",
+        "name": " SOKONI ",
+        "count": "23955"
+    },
+    {
+        "constituecy": "11",
+        "id": "53",
+        "name": " KIBARANI ",
+        "count": "15655"
+    },
+    {
+        "constituecy": "11",
+        "id": "54",
+        "name": " DABASO ",
+        "count": "13717"
+    },
+    {
+        "constituecy": "11",
+        "id": "55",
+        "name": " MATSANGONI ",
+        "count": "15168"
+    },
+    {
+        "constituecy": "11",
+        "id": "56",
+        "name": " WATAMU ",
+        "count": "15341"
+    },
+    {
+        "constituecy": "11",
+        "id": "57",
+        "name": " MNARANI ",
+        "count": "18076"
+    },
+    {
+        "constituecy": "12",
+        "id": "58",
+        "name": " JUNJU ",
+        "count": "15747"
+    },
+    {
+        "constituecy": "12",
+        "id": "59",
+        "name": " MWARAKAYA ",
+        "count": "12714"
+    },
+    {
+        "constituecy": "12",
+        "id": "60",
+        "name": " SHIMO LA TEWA ",
+        "count": "32052"
+    },
+    {
+        "constituecy": "12",
+        "id": "61",
+        "name": " CHASIMBA ",
+        "count": "14090"
+    },
+    {
+        "constituecy": "12",
+        "id": "62",
+        "name": " MTEPENI ",
+        "count": "23093"
+    },
+    {
+        "constituecy": "13",
+        "id": "63",
+        "name": " MARIAKANI ",
+        "count": "21332"
+    },
+    {
+        "constituecy": "13",
+        "id": "64",
+        "name": " KAYAFUNGO ",
+        "count": "14897"
+    },
+    {
+        "constituecy": "13",
+        "id": "65",
+        "name": " KALOLENI ",
+        "count": "25995"
+    },
+    {
+        "constituecy": "13",
+        "id": "66",
+        "name": " MWANAMWINGA ",
+        "count": "10785"
+    },
+    {
+        "constituecy": "14",
+        "id": "67",
+        "name": " MWAWESA ",
+        "count": "8793"
+    },
+    {
+        "constituecy": "14",
+        "id": "68",
+        "name": " RURUMA ",
+        "count": "12058"
+    },
+    {
+        "constituecy": "14",
+        "id": "69",
+        "name": " KAMBE/RIBE ",
+        "count": "11119"
+    },
+    {
+        "constituecy": "14",
+        "id": "70",
+        "name": " RABAI/KISURUTINI ",
+        "count": "27195"
+    },
+    {
+        "constituecy": "15",
+        "id": "71",
+        "name": " GANZE ",
+        "count": "16586"
+    },
+    {
+        "constituecy": "15",
+        "id": "72",
+        "name": " BAMBA ",
+        "count": "18599"
+    },
+    {
+        "constituecy": "15",
+        "id": "73",
+        "name": " JARIBUNI ",
+        "count": "12782"
+    },
+    {
+        "constituecy": "15",
+        "id": "74",
+        "name": " SOKOKE ",
+        "count": "19290"
+    },
+    {
+        "constituecy": "16",
+        "id": "75",
+        "name": " JILORE ",
+        "count": "10464"
+    },
+    {
+        "constituecy": "16",
+        "id": "76",
+        "name": " KAKUYUNI ",
+        "count": "8750"
+    },
+    {
+        "constituecy": "16",
+        "id": "77",
+        "name": " GANDA ",
+        "count": "18566"
+    },
+    {
+        "constituecy": "16",
+        "id": "78",
+        "name": " MALINDI TOWN ",
+        "count": "30570"
+    },
+    {
+        "constituecy": "16",
+        "id": "79",
+        "name": " SHELLA ",
+        "count": "26255"
+    },
+    {
+        "constituecy": "17",
+        "id": "80",
+        "name": " MARAFA ",
+        "count": "9026"
+    },
+    {
+        "constituecy": "17",
+        "id": "81",
+        "name": " MAGARINI ",
+        "count": "17099"
+    },
+    {
+        "constituecy": "17",
+        "id": "82",
+        "name": " GONGONI ",
+        "count": "17685"
+    },
+    {
+        "constituecy": "17",
+        "id": "83",
+        "name": " ADU ",
+        "count": "16263"
+    },
+    {
+        "constituecy": "17",
+        "id": "84",
+        "name": " GARASHI ",
+        "count": "10466"
+    },
+    {
+        "constituecy": "17",
+        "id": "85",
+        "name": " SABAKI ",
+        "count": "9589"
+    },
+    {
+        "constituecy": "18",
+        "id": "86",
+        "name": " KIPINI EAST ",
+        "count": "7898"
+    },
+    {
+        "constituecy": "18",
+        "id": "87",
+        "name": " GARSEN SOUTH ",
+        "count": "9990"
+    },
+    {
+        "constituecy": "18",
+        "id": "88",
+        "name": " KIPINI WEST ",
+        "count": "9180"
+    },
+    {
+        "constituecy": "18",
+        "id": "89",
+        "name": " GARSEN CENTRAL ",
+        "count": "8256"
+    },
+    {
+        "constituecy": "18",
+        "id": "90",
+        "name": " GARSEN WEST ",
+        "count": "10999"
+    },
+    {
+        "constituecy": "18",
+        "id": "91",
+        "name": " GARSEN NORTH ",
+        "count": "9130"
+    },
+    {
+        "constituecy": "19",
+        "id": "92",
+        "name": " KINAKOMBA ",
+        "count": "8318"
+    },
+    {
+        "constituecy": "19",
+        "id": "93",
+        "name": " MIKINDUNI ",
+        "count": "7570"
+    },
+    {
+        "constituecy": "19",
+        "id": "94",
+        "name": " CHEWANI ",
+        "count": "14333"
+    },
+    {
+        "constituecy": "19",
+        "id": "95",
+        "name": " WAYU ",
+        "count": "9744"
+    },
+    {
+        "constituecy": "20",
+        "id": "96",
+        "name": " CHEWELE ",
+        "count": "8109"
+    },
+    {
+        "constituecy": "20",
+        "id": "97",
+        "name": " HIRIMANI ",
+        "count": "10750"
+    },
+    {
+        "constituecy": "20",
+        "id": "98",
+        "name": " BANGALE ",
+        "count": "10129"
+    },
+    {
+        "constituecy": "20",
+        "id": "99",
+        "name": " SALA ",
+        "count": "8806"
+    },
+    {
+        "constituecy": "20",
+        "id": "100",
+        "name": " MADOGO ",
+        "count": "7884"
+    },
+    {
+        "constituecy": "21",
+        "id": "101",
+        "name": " FAZA ",
+        "count": "16515"
+    },
+    {
+        "constituecy": "21",
+        "id": "102",
+        "name": " KIUNGA ",
+        "count": "4583"
+    },
+    {
+        "constituecy": "21",
+        "id": "103",
+        "name": " BASUBA ",
+        "count": "949"
+    },
+    {
+        "constituecy": "22",
+        "id": "104",
+        "name": " SHELLA ",
+        "count": "3632"
+    },
+    {
+        "constituecy": "22",
+        "id": "105",
+        "name": " MKOMANI ",
+        "count": "12571"
+    },
+    {
+        "constituecy": "22",
+        "id": "106",
+        "name": " HINDI ",
+        "count": "8533"
+    },
+    {
+        "constituecy": "22",
+        "id": "107",
+        "name": " MKUNUMBI ",
+        "count": "8866"
+    },
+    {
+        "constituecy": "22",
+        "id": "108",
+        "name": " HONGWE ",
+        "count": "5071"
+    },
+    {
+        "constituecy": "22",
+        "id": "109",
+        "name": " WITU ",
+        "count": "9697"
+    },
+    {
+        "constituecy": "22",
+        "id": "110",
+        "name": " BAHARI ",
+        "count": "11036"
+    },
+    {
+        "constituecy": "23",
+        "id": "111",
+        "name": " CHALA ",
+        "count": "9682"
+    },
+    {
+        "constituecy": "23",
+        "id": "112",
+        "name": " MAHOO ",
+        "count": "6817"
+    },
+    {
+        "constituecy": "23",
+        "id": "113",
+        "name": " BOMANI ",
+        "count": "10441"
+    },
+    {
+        "constituecy": "23",
+        "id": "114",
+        "name": " MBOGHONI ",
+        "count": "8103"
+    },
+    {
+        "constituecy": "23",
+        "id": "115",
+        "name": " MATA ",
+        "count": "5988"
+    },
+    {
+        "constituecy": "24",
+        "id": "116",
+        "name": " WUNDANYI/MBALE ",
+        "count": "12988"
+    },
+    {
+        "constituecy": "24",
+        "id": "117",
+        "name": " WERUGHA ",
+        "count": "6085"
+    },
+    {
+        "constituecy": "24",
+        "id": "118",
+        "name": " WUMINGU/KISHUSHE ",
+        "count": "8007"
+    },
+    {
+        "constituecy": "24",
+        "id": "119",
+        "name": " MWANDA/MGANGE ",
+        "count": "7928"
+    },
+    {
+        "constituecy": "25",
+        "id": "120",
+        "name": " RONG'E ",
+        "count": "7080"
+    },
+    {
+        "constituecy": "25",
+        "id": "121",
+        "name": " MWATATE ",
+        "count": "10082"
+    },
+    {
+        "constituecy": "25",
+        "id": "122",
+        "name": " BURA ",
+        "count": "9937"
+    },
+    {
+        "constituecy": "25",
+        "id": "123",
+        "name": " CHAWIA ",
+        "count": "9208"
+    },
+    {
+        "constituecy": "25",
+        "id": "124",
+        "name": " WUSI/KISHAMBA ",
+        "count": "8104"
+    },
+    {
+        "constituecy": "26",
+        "id": "125",
+        "name": " MBOLOLO ",
+        "count": "15880"
+    },
+    {
+        "constituecy": "26",
+        "id": "126",
+        "name": " SAGALLA ",
+        "count": "7067"
+    },
+    {
+        "constituecy": "26",
+        "id": "127",
+        "name": " KALOLENI ",
+        "count": "17547"
+    },
+    {
+        "constituecy": "26",
+        "id": "128",
+        "name": " MARUNGU ",
+        "count": "6681"
+    },
+    {
+        "constituecy": "26",
+        "id": "129",
+        "name": " KASIGAU ",
+        "count": "7829"
+    },
+    {
+        "constituecy": "26",
+        "id": "130",
+        "name": " NGOLIA ",
+        "count": "6373"
+    },
+    {
+        "constituecy": "27",
+        "id": "131",
+        "name": " WABERI ",
+        "count": "11657"
+    },
+    {
+        "constituecy": "27",
+        "id": "132",
+        "name": " GALBET ",
+        "count": "16698"
+    },
+    {
+        "constituecy": "27",
+        "id": "133",
+        "name": " TOWNSHIP ",
+        "count": "13419"
+    },
+    {
+        "constituecy": "27",
+        "id": "134",
+        "name": " IFTIN ",
+        "count": "11479"
+    },
+    {
+        "constituecy": "28",
+        "id": "135",
+        "name": " BALAMBALA ",
+        "count": "4414"
+    },
+    {
+        "constituecy": "28",
+        "id": "136",
+        "name": " DANYERE ",
+        "count": "3924"
+    },
+    {
+        "constituecy": "28",
+        "id": "137",
+        "name": " JARA JARA ",
+        "count": "2729"
+    },
+    {
+        "constituecy": "28",
+        "id": "138",
+        "name": " SAKA ",
+        "count": "5413"
+    },
+    {
+        "constituecy": "28",
+        "id": "139",
+        "name": " SANKURI ",
+        "count": "9605"
+    },
+    {
+        "constituecy": "29",
+        "id": "140",
+        "name": " MODOGASHE ",
+        "count": "6388"
+    },
+    {
+        "constituecy": "29",
+        "id": "141",
+        "name": " BENANE ",
+        "count": "4463"
+    },
+    {
+        "constituecy": "29",
+        "id": "142",
+        "name": " GOREALE ",
+        "count": "2438"
+    },
+    {
+        "constituecy": "29",
+        "id": "143",
+        "name": " MAALIMIN ",
+        "count": "5091"
+    },
+    {
+        "constituecy": "29",
+        "id": "144",
+        "name": " SABENA ",
+        "count": "3394"
+    },
+    {
+        "constituecy": "29",
+        "id": "145",
+        "name": " BARAKI ",
+        "count": "5175"
+    },
+    {
+        "constituecy": "30",
+        "id": "146",
+        "name": " DERTU ",
+        "count": "3744"
+    },
+    {
+        "constituecy": "30",
+        "id": "147",
+        "name": " DADAAB ",
+        "count": "5657"
+    },
+    {
+        "constituecy": "30",
+        "id": "148",
+        "name": " LABASIGALE ",
+        "count": "4331"
+    },
+    {
+        "constituecy": "30",
+        "id": "149",
+        "name": " DAMAJALE ",
+        "count": "9760"
+    },
+    {
+        "constituecy": "30",
+        "id": "150",
+        "name": " LIBOI ",
+        "count": "5362"
+    },
+    {
+        "constituecy": "30",
+        "id": "151",
+        "name": " ABAKAILE ",
+        "count": "9331"
+    },
+    {
+        "constituecy": "31",
+        "id": "152",
+        "name": " BURA ",
+        "count": "5272"
+    },
+    {
+        "constituecy": "31",
+        "id": "153",
+        "name": " DEKAHARIA ",
+        "count": "4740"
+    },
+    {
+        "constituecy": "31",
+        "id": "154",
+        "name": " JARAJILA ",
+        "count": "3123"
+    },
+    {
+        "constituecy": "31",
+        "id": "155",
+        "name": " FAFI ",
+        "count": "7050"
+    },
+    {
+        "constituecy": "31",
+        "id": "156",
+        "name": " NANIGHI ",
+        "count": "7150"
+    },
+    {
+        "constituecy": "32",
+        "id": "157",
+        "name": " HULUGHO ",
+        "count": "6266"
+    },
+    {
+        "constituecy": "32",
+        "id": "158",
+        "name": " SANGAILU ",
+        "count": "4919"
+    },
+    {
+        "constituecy": "32",
+        "id": "159",
+        "name": " IJARA ",
+        "count": "7383"
+    },
+    {
+        "constituecy": "32",
+        "id": "160",
+        "name": " MASALANI ",
+        "count": "11098"
+    },
+    {
+        "constituecy": "33",
+        "id": "161",
+        "name": " GURAR ",
+        "count": "3885"
+    },
+    {
+        "constituecy": "33",
+        "id": "162",
+        "name": " BUTE ",
+        "count": "3786"
+    },
+    {
+        "constituecy": "33",
+        "id": "163",
+        "name": " KORONDILE ",
+        "count": "5317"
+    },
+    {
+        "constituecy": "33",
+        "id": "164",
+        "name": " MALKAGUFU ",
+        "count": "4031"
+    },
+    {
+        "constituecy": "33",
+        "id": "165",
+        "name": " BATALU ",
+        "count": "6364"
+    },
+    {
+        "constituecy": "33",
+        "id": "166",
+        "name": " DANABA ",
+        "count": "7376"
+    },
+    {
+        "constituecy": "33",
+        "id": "167",
+        "name": " GODOMA ",
+        "count": "3168"
+    },
+    {
+        "constituecy": "34",
+        "id": "168",
+        "name": " WAGBERI ",
+        "count": "7353"
+    },
+    {
+        "constituecy": "34",
+        "id": "169",
+        "name": " TOWNSHIP ",
+        "count": "10065"
+    },
+    {
+        "constituecy": "34",
+        "id": "170",
+        "name": " BARWAGO ",
+        "count": "10302"
+    },
+    {
+        "constituecy": "34",
+        "id": "171",
+        "name": " KHOROF/HARAR ",
+        "count": "8074"
+    },
+    {
+        "constituecy": "35",
+        "id": "172",
+        "name": " ELBEN ",
+        "count": "3562"
+    },
+    {
+        "constituecy": "35",
+        "id": "173",
+        "name": " SARMAN ",
+        "count": "7416"
+    },
+    {
+        "constituecy": "35",
+        "id": "174",
+        "name": " TARBAJ ",
+        "count": "9869"
+    },
+    {
+        "constituecy": "35",
+        "id": "175",
+        "name": " WARGADUD ",
+        "count": "4420"
+    },
+    {
+        "constituecy": "36",
+        "id": "176",
+        "name": " ARBAJAHAN ",
+        "count": "8593"
+    },
+    {
+        "constituecy": "36",
+        "id": "177",
+        "name": " HADADO/ATHIBOHOL ",
+        "count": "7818"
+    },
+    {
+        "constituecy": "36",
+        "id": "178",
+        "name": " ADAMASAJIDE ",
+        "count": "6541"
+    },
+    {
+        "constituecy": "36",
+        "id": "179",
+        "name": " GANYURE/WAGALLA ",
+        "count": "8382"
+    },
+    {
+        "constituecy": "37",
+        "id": "180",
+        "name": " ELDAS ",
+        "count": "4630"
+    },
+    {
+        "constituecy": "37",
+        "id": "181",
+        "name": " DELLA ",
+        "count": "6188"
+    },
+    {
+        "constituecy": "37",
+        "id": "182",
+        "name": " LAKOLEY SOUTH/BASIR ",
+        "count": "3443"
+    },
+    {
+        "constituecy": "37",
+        "id": "183",
+        "name": " ELNUR/TULA TULA ",
+        "count": "9098"
+    },
+    {
+        "constituecy": "38",
+        "id": "184",
+        "name": " BENANE ",
+        "count": "11797"
+    },
+    {
+        "constituecy": "38",
+        "id": "185",
+        "name": " BURDER ",
+        "count": "4863"
+    },
+    {
+        "constituecy": "38",
+        "id": "186",
+        "name": " DADAJA BULLA ",
+        "count": "5389"
+    },
+    {
+        "constituecy": "38",
+        "id": "187",
+        "name": " HABASSWEIN ",
+        "count": "11026"
+    },
+    {
+        "constituecy": "38",
+        "id": "188",
+        "name": " LAGBOGHOL SOUTH ",
+        "count": "7541"
+    },
+    {
+        "constituecy": "38",
+        "id": "189",
+        "name": " IBRAHIM URE ",
+        "count": "6179"
+    },
+    {
+        "constituecy": "38",
+        "id": "190",
+        "name": " DIIF ",
+        "count": "11282"
+    },
+    {
+        "constituecy": "39",
+        "id": "191",
+        "name": " TAKABA SOUTH ",
+        "count": "6742"
+    },
+    {
+        "constituecy": "39",
+        "id": "192",
+        "name": " TAKABA ",
+        "count": "5683"
+    },
+    {
+        "constituecy": "39",
+        "id": "193",
+        "name": " LAGSURE ",
+        "count": "6746"
+    },
+    {
+        "constituecy": "39",
+        "id": "194",
+        "name": " DANDU ",
+        "count": "9544"
+    },
+    {
+        "constituecy": "39",
+        "id": "195",
+        "name": " GITHER ",
+        "count": "8922"
+    },
+    {
+        "constituecy": "40",
+        "id": "196",
+        "name": " BANISSA ",
+        "count": "9898"
+    },
+    {
+        "constituecy": "40",
+        "id": "197",
+        "name": " DERKHALE ",
+        "count": "7068"
+    },
+    {
+        "constituecy": "40",
+        "id": "198",
+        "name": " GUBA ",
+        "count": "1539"
+    },
+    {
+        "constituecy": "40",
+        "id": "199",
+        "name": " MALKAMARI ",
+        "count": "6440"
+    },
+    {
+        "constituecy": "40",
+        "id": "200",
+        "name": " KILIWEHIRI ",
+        "count": "7758"
+    },
+    {
+        "constituecy": "41",
+        "id": "201",
+        "name": " ASHABITO ",
+        "count": "7806"
+    },
+    {
+        "constituecy": "41",
+        "id": "202",
+        "name": " GUTICHA ",
+        "count": "10038"
+    },
+    {
+        "constituecy": "41",
+        "id": "203",
+        "name": " MOROTHILE ",
+        "count": "2777"
+    },
+    {
+        "constituecy": "41",
+        "id": "204",
+        "name": " RHAMU ",
+        "count": "15408"
+    },
+    {
+        "constituecy": "41",
+        "id": "205",
+        "name": " RHAMU-DIMTU ",
+        "count": "9187"
+    },
+    {
+        "constituecy": "42",
+        "id": "206",
+        "name": " WARGADUD ",
+        "count": "7341"
+    },
+    {
+        "constituecy": "42",
+        "id": "207",
+        "name": " KUTULO ",
+        "count": "7123"
+    },
+    {
+        "constituecy": "42",
+        "id": "208",
+        "name": " ELWAK SOUTH ",
+        "count": "6095"
+    },
+    {
+        "constituecy": "42",
+        "id": "209",
+        "name": " ELWAK NORTH ",
+        "count": "6279"
+    },
+    {
+        "constituecy": "42",
+        "id": "210",
+        "name": " SHIMBIR FATUMA ",
+        "count": "7853"
+    },
+    {
+        "constituecy": "43",
+        "id": "211",
+        "name": " ARABIA ",
+        "count": "4187"
+    },
+    {
+        "constituecy": "43",
+        "id": "212",
+        "name": " TOWNSHIP ",
+        "count": "14790"
+    },
+    {
+        "constituecy": "43",
+        "id": "213",
+        "name": " NEBOI ",
+        "count": "11840"
+    },
+    {
+        "constituecy": "43",
+        "id": "214",
+        "name": " KHALALIO ",
+        "count": "11106"
+    },
+    {
+        "constituecy": "43",
+        "id": "215",
+        "name": " LIBEHIA ",
+        "count": "6296"
+    },
+    {
+        "constituecy": "44",
+        "id": "216",
+        "name": " SALA ",
+        "count": "2412"
+    },
+    {
+        "constituecy": "44",
+        "id": "217",
+        "name": " FINO ",
+        "count": "2786"
+    },
+    {
+        "constituecy": "44",
+        "id": "218",
+        "name": " LAFEY ",
+        "count": "4932"
+    },
+    {
+        "constituecy": "44",
+        "id": "219",
+        "name": " WARANQARA ",
+        "count": "3956"
+    },
+    {
+        "constituecy": "44",
+        "id": "220",
+        "name": " ALANGO GOF ",
+        "count": "4478"
+    },
+    {
+        "constituecy": "45",
+        "id": "221",
+        "name": " BUTIYE ",
+        "count": "9614"
+    },
+    {
+        "constituecy": "45",
+        "id": "222",
+        "name": " SOLOLO ",
+        "count": "8376"
+    },
+    {
+        "constituecy": "45",
+        "id": "223",
+        "name": " HEILLU/MANYATTA ",
+        "count": "10431"
+    },
+    {
+        "constituecy": "45",
+        "id": "224",
+        "name": " GOLBO ",
+        "count": "15692"
+    },
+    {
+        "constituecy": "45",
+        "id": "225",
+        "name": " MOYALE TOWNSHIP ",
+        "count": "10237"
+    },
+    {
+        "constituecy": "45",
+        "id": "226",
+        "name": " URAN ",
+        "count": "7932"
+    },
+    {
+        "constituecy": "45",
+        "id": "227",
+        "name": " OBBU ",
+        "count": "4120"
+    },
+    {
+        "constituecy": "46",
+        "id": "228",
+        "name": " DUKANA ",
+        "count": "8075"
+    },
+    {
+        "constituecy": "46",
+        "id": "229",
+        "name": " MAIKONA ",
+        "count": "9865"
+    },
+    {
+        "constituecy": "46",
+        "id": "230",
+        "name": " TURBI ",
+        "count": "6677"
+    },
+    {
+        "constituecy": "46",
+        "id": "231",
+        "name": " NORTH HORR ",
+        "count": "8547"
+    },
+    {
+        "constituecy": "46",
+        "id": "232",
+        "name": " ILLERET ",
+        "count": "3691"
+    },
+    {
+        "constituecy": "47",
+        "id": "233",
+        "name": " SAGANTE/JALDESA ",
+        "count": "9027"
+    },
+    {
+        "constituecy": "47",
+        "id": "234",
+        "name": " KARARE ",
+        "count": "4723"
+    },
+    {
+        "constituecy": "47",
+        "id": "235",
+        "name": " MARSABIT CENTRAL ",
+        "count": "16459"
+    },
+    {
+        "constituecy": "48",
+        "id": "236",
+        "name": " LOIYANGALANI ",
+        "count": "7669"
+    },
+    {
+        "constituecy": "48",
+        "id": "237",
+        "name": " KARGI/SOUTH HORR ",
+        "count": "5327"
+    },
+    {
+        "constituecy": "48",
+        "id": "238",
+        "name": " KORR/NGURUNIT ",
+        "count": "9392"
+    },
+    {
+        "constituecy": "48",
+        "id": "239",
+        "name": " LOGO LOGO ",
+        "count": "4133"
+    },
+    {
+        "constituecy": "48",
+        "id": "240",
+        "name": " LAISAMIS ",
+        "count": "6925"
+    },
+    {
+        "constituecy": "49",
+        "id": "241",
+        "name": " WABERA ",
+        "count": "15034"
+    },
+    {
+        "constituecy": "49",
+        "id": "242",
+        "name": " BULLA PESA ",
+        "count": "15125"
+    },
+    {
+        "constituecy": "49",
+        "id": "243",
+        "name": " CHARI ",
+        "count": "4486"
+    },
+    {
+        "constituecy": "49",
+        "id": "244",
+        "name": " CHERAB ",
+        "count": "8065"
+    },
+    {
+        "constituecy": "49",
+        "id": "245",
+        "name": " NGARE MARA ",
+        "count": "5434"
+    },
+    {
+        "constituecy": "49",
+        "id": "246",
+        "name": " BURAT ",
+        "count": "13195"
+    },
+    {
+        "constituecy": "49",
+        "id": "247",
+        "name": " OLDO/NYIRO ",
+        "count": "5984"
+    },
+    {
+        "constituecy": "50",
+        "id": "248",
+        "name": " GARBATULLA ",
+        "count": "7238"
+    },
+    {
+        "constituecy": "50",
+        "id": "249",
+        "name": " KINNA ",
+        "count": "8885"
+    },
+    {
+        "constituecy": "50",
+        "id": "250",
+        "name": " SERICHO ",
+        "count": "6058"
+    },
+    {
+        "constituecy": "51",
+        "id": "251",
+        "name": " MAUA ",
+        "count": "17213"
+    },
+    {
+        "constituecy": "51",
+        "id": "252",
+        "name": " KIEGOI/ANTUBOCHIU ",
+        "count": "16514"
+    },
+    {
+        "constituecy": "51",
+        "id": "253",
+        "name": " ATHIRU GAITI ",
+        "count": "14443"
+    },
+    {
+        "constituecy": "51",
+        "id": "254",
+        "name": " AKACHIU ",
+        "count": "14371"
+    },
+    {
+        "constituecy": "51",
+        "id": "255",
+        "name": " KANUNI ",
+        "count": "14585"
+    },
+    {
+        "constituecy": "52",
+        "id": "256",
+        "name": " AKIRANG'ONDU ",
+        "count": "15637"
+    },
+    {
+        "constituecy": "52",
+        "id": "257",
+        "name": " ATHIRU RUUJINE ",
+        "count": "19920"
+    },
+    {
+        "constituecy": "52",
+        "id": "258",
+        "name": " IGEMBE EAST ",
+        "count": "19964"
+    },
+    {
+        "constituecy": "52",
+        "id": "259",
+        "name": " NJIA ",
+        "count": "21810"
+    },
+    {
+        "constituecy": "52",
+        "id": "260",
+        "name": " KANGETA ",
+        "count": "16103"
+    },
+    {
+        "constituecy": "53",
+        "id": "261",
+        "name": " ANTUAMBUI ",
+        "count": "17113"
+    },
+    {
+        "constituecy": "53",
+        "id": "262",
+        "name": " NTUNENE ",
+        "count": "11829"
+    },
+    {
+        "constituecy": "53",
+        "id": "263",
+        "name": " ANTUBETWE KIONGO ",
+        "count": "15108"
+    },
+    {
+        "constituecy": "53",
+        "id": "264",
+        "name": " NAATHU ",
+        "count": "13879"
+    },
+    {
+        "constituecy": "53",
+        "id": "265",
+        "name": " AMWATHI ",
+        "count": "19121"
+    },
+    {
+        "constituecy": "54",
+        "id": "266",
+        "name": " ATHWANA ",
+        "count": "9123"
+    },
+    {
+        "constituecy": "54",
+        "id": "267",
+        "name": " AKITHII ",
+        "count": "16709"
+    },
+    {
+        "constituecy": "54",
+        "id": "268",
+        "name": " KIANJAI ",
+        "count": "21037"
+    },
+    {
+        "constituecy": "54",
+        "id": "269",
+        "name": " NKOMO ",
+        "count": "13030"
+    },
+    {
+        "constituecy": "54",
+        "id": "270",
+        "name": " MBEU ",
+        "count": "10384"
+    },
+    {
+        "constituecy": "55",
+        "id": "271",
+        "name": " THANGATHA ",
+        "count": "21025"
+    },
+    {
+        "constituecy": "55",
+        "id": "272",
+        "name": " MIKINDURI ",
+        "count": "18246"
+    },
+    {
+        "constituecy": "55",
+        "id": "273",
+        "name": " KIGUCHWA ",
+        "count": "11544"
+    },
+    {
+        "constituecy": "55",
+        "id": "274",
+        "name": " MUTHARA ",
+        "count": "19902"
+    },
+    {
+        "constituecy": "55",
+        "id": "275",
+        "name": " KARAMA ",
+        "count": "12810"
+    },
+    {
+        "constituecy": "56",
+        "id": "276",
+        "name": " MUNICIPALITY ",
+        "count": "23655"
+    },
+    {
+        "constituecy": "56",
+        "id": "277",
+        "name": " NTIMA EAST ",
+        "count": "14904"
+    },
+    {
+        "constituecy": "56",
+        "id": "278",
+        "name": " NTIMA WEST ",
+        "count": "19161"
+    },
+    {
+        "constituecy": "56",
+        "id": "279",
+        "name": " NYAKI WEST ",
+        "count": "21192"
+    },
+    {
+        "constituecy": "56",
+        "id": "280",
+        "name": " NYAKI EAST ",
+        "count": "17329"
+    },
+    {
+        "constituecy": "57",
+        "id": "281",
+        "name": " TIMAU ",
+        "count": "22215"
+    },
+    {
+        "constituecy": "57",
+        "id": "282",
+        "name": " KISIMA ",
+        "count": "18075"
+    },
+    {
+        "constituecy": "57",
+        "id": "283",
+        "name": " KIIRUA/NAARI ",
+        "count": "15690"
+    },
+    {
+        "constituecy": "57",
+        "id": "284",
+        "name": " RUIRI/RWARERA ",
+        "count": "11521"
+    },
+    {
+        "constituecy": "57",
+        "id": "289",
+        "name": " KIBIRICHIA ",
+        "count": "14840"
+    },
+    {
+        "constituecy": "58",
+        "id": "285",
+        "name": " MWANGANTHIA ",
+        "count": "15057"
+    },
+    {
+        "constituecy": "58",
+        "id": "286",
+        "name": " ABOTHUGUCHI CENTRAL ",
+        "count": "24397"
+    },
+    {
+        "constituecy": "58",
+        "id": "287",
+        "name": " ABOTHUGUCHI WEST ",
+        "count": "24723"
+    },
+    {
+        "constituecy": "58",
+        "id": "288",
+        "name": " KIAGU ",
+        "count": "12318"
+    },
+    {
+        "constituecy": "59",
+        "id": "290",
+        "name": " MITUNGUU ",
+        "count": "14078"
+    },
+    {
+        "constituecy": "59",
+        "id": "291",
+        "name": " IGOJI EAST ",
+        "count": "18203"
+    },
+    {
+        "constituecy": "59",
+        "id": "292",
+        "name": " IGOJI WEST ",
+        "count": "12496"
+    },
+    {
+        "constituecy": "59",
+        "id": "293",
+        "name": " ABOGETA EAST ",
+        "count": "21169"
+    },
+    {
+        "constituecy": "59",
+        "id": "294",
+        "name": " ABOGETA WEST ",
+        "count": "19074"
+    },
+    {
+        "constituecy": "59",
+        "id": "295",
+        "name": " NKUENE ",
+        "count": "30622"
+    },
+    {
+        "constituecy": "60",
+        "id": "296",
+        "name": " MITHERU ",
+        "count": "10862"
+    },
+    {
+        "constituecy": "60",
+        "id": "297",
+        "name": " MUTHAMBI ",
+        "count": "12753"
+    },
+    {
+        "constituecy": "60",
+        "id": "298",
+        "name": " MWIMBI ",
+        "count": "15145"
+    },
+    {
+        "constituecy": "60",
+        "id": "299",
+        "name": " GANGA ",
+        "count": "12691"
+    },
+    {
+        "constituecy": "60",
+        "id": "300",
+        "name": " CHOGORIA ",
+        "count": "21797"
+    },
+    {
+        "constituecy": "61",
+        "id": "301",
+        "name": " MARIANI ",
+        "count": "10573"
+    },
+    {
+        "constituecy": "61",
+        "id": "302",
+        "name": " KARINGANI ",
+        "count": "19043"
+    },
+    {
+        "constituecy": "61",
+        "id": "303",
+        "name": " MAGUMONI ",
+        "count": "22846"
+    },
+    {
+        "constituecy": "61",
+        "id": "304",
+        "name": " MUGWE ",
+        "count": "15913"
+    },
+    {
+        "constituecy": "61",
+        "id": "305",
+        "name": " IGAMBANG'OMBE ",
+        "count": "16299"
+    },
+    {
+        "constituecy": "62",
+        "id": "306",
+        "name": " GATUNGA ",
+        "count": "13891"
+    },
+    {
+        "constituecy": "62",
+        "id": "307",
+        "name": " MUKOTHIMA ",
+        "count": "13297"
+    },
+    {
+        "constituecy": "62",
+        "id": "308",
+        "name": " NKONDI ",
+        "count": "9543"
+    },
+    {
+        "constituecy": "62",
+        "id": "309",
+        "name": " CHIAKARIGA ",
+        "count": "18715"
+    },
+    {
+        "constituecy": "62",
+        "id": "310",
+        "name": " MARIMANTI ",
+        "count": "18564"
+    },
+    {
+        "constituecy": "63",
+        "id": "311",
+        "name": " RUGURU/NGANDORI ",
+        "count": "18449"
+    },
+    {
+        "constituecy": "63",
+        "id": "312",
+        "name": " KITHIMU ",
+        "count": "11824"
+    },
+    {
+        "constituecy": "63",
+        "id": "313",
+        "name": " NGINDA ",
+        "count": "18342"
+    },
+    {
+        "constituecy": "63",
+        "id": "314",
+        "name": " MBETI NORTH ",
+        "count": "17844"
+    },
+    {
+        "constituecy": "63",
+        "id": "315",
+        "name": " KIRIMARI ",
+        "count": "29617"
+    },
+    {
+        "constituecy": "63",
+        "id": "316",
+        "name": " GATURI SOUTH ",
+        "count": "10512"
+    },
+    {
+        "constituecy": "64",
+        "id": "317",
+        "name": " GATURI NORTH ",
+        "count": "14872"
+    },
+    {
+        "constituecy": "64",
+        "id": "318",
+        "name": " KAGAARI SOUTH ",
+        "count": "13564"
+    },
+    {
+        "constituecy": "64",
+        "id": "319",
+        "name": " CENTRAL  WARD ",
+        "count": "17035"
+    },
+    {
+        "constituecy": "64",
+        "id": "320",
+        "name": " KAGAARI NORTH ",
+        "count": "17286"
+    },
+    {
+        "constituecy": "64",
+        "id": "321",
+        "name": " KYENI NORTH ",
+        "count": "15314"
+    },
+    {
+        "constituecy": "64",
+        "id": "322",
+        "name": " KYENI SOUTH ",
+        "count": "17255"
+    },
+    {
+        "constituecy": "65",
+        "id": "323",
+        "name": " MWEA ",
+        "count": "17232"
+    },
+    {
+        "constituecy": "65",
+        "id": "324",
+        "name": " MAKIMA ",
+        "count": "11753"
+    },
+    {
+        "constituecy": "65",
+        "id": "325",
+        "name": " MBETI SOUTH ",
+        "count": "19083"
+    },
+    {
+        "constituecy": "65",
+        "id": "326",
+        "name": " MAVURIA ",
+        "count": "20627"
+    },
+    {
+        "constituecy": "65",
+        "id": "327",
+        "name": " KIAMBERE ",
+        "count": "8569"
+    },
+    {
+        "constituecy": "66",
+        "id": "328",
+        "name": " NTHAWA ",
+        "count": "18882"
+    },
+    {
+        "constituecy": "66",
+        "id": "329",
+        "name": " MUMINJI ",
+        "count": "9849"
+    },
+    {
+        "constituecy": "66",
+        "id": "330",
+        "name": " EVURORE ",
+        "count": "26393"
+    },
+    {
+        "constituecy": "67",
+        "id": "331",
+        "name": " NGOMENI ",
+        "count": "9131"
+    },
+    {
+        "constituecy": "67",
+        "id": "332",
+        "name": " KYUSO ",
+        "count": "19921"
+    },
+    {
+        "constituecy": "67",
+        "id": "333",
+        "name": " MUMONI ",
+        "count": "15877"
+    },
+    {
+        "constituecy": "67",
+        "id": "334",
+        "name": " TSEIKURU ",
+        "count": "16471"
+    },
+    {
+        "constituecy": "67",
+        "id": "335",
+        "name": " THARAKA ",
+        "count": "7429"
+    },
+    {
+        "constituecy": "68",
+        "id": "336",
+        "name": " KYOME/THAANA ",
+        "count": "14979"
+    },
+    {
+        "constituecy": "68",
+        "id": "337",
+        "name": " NGUUTANI ",
+        "count": "15121"
+    },
+    {
+        "constituecy": "68",
+        "id": "338",
+        "name": " MIGWANI ",
+        "count": "14678"
+    },
+    {
+        "constituecy": "68",
+        "id": "339",
+        "name": " KIOMO/KYETHANI ",
+        "count": "12360"
+    },
+    {
+        "constituecy": "69",
+        "id": "340",
+        "name": " CENTRAL ",
+        "count": "14525"
+    },
+    {
+        "constituecy": "69",
+        "id": "341",
+        "name": " KIVOU ",
+        "count": "12301"
+    },
+    {
+        "constituecy": "69",
+        "id": "342",
+        "name": " NGUNI ",
+        "count": "13165"
+    },
+    {
+        "constituecy": "69",
+        "id": "343",
+        "name": " NUU ",
+        "count": "12729"
+    },
+    {
+        "constituecy": "69",
+        "id": "344",
+        "name": " MUI ",
+        "count": "11039"
+    },
+    {
+        "constituecy": "69",
+        "id": "345",
+        "name": " WAITA ",
+        "count": "10472"
+    },
+    {
+        "constituecy": "70",
+        "id": "346",
+        "name": " MUTONGUNI ",
+        "count": "17979"
+    },
+    {
+        "constituecy": "70",
+        "id": "347",
+        "name": " KAUWI ",
+        "count": "15767"
+    },
+    {
+        "constituecy": "70",
+        "id": "348",
+        "name": " MATINYANI ",
+        "count": "14279"
+    },
+    {
+        "constituecy": "70",
+        "id": "349",
+        "name": " KWA MUTONGA/KITHUMULA ",
+        "count": "11022"
+    },
+    {
+        "constituecy": "71",
+        "id": "350",
+        "name": " KISASI ",
+        "count": "13840"
+    },
+    {
+        "constituecy": "71",
+        "id": "351",
+        "name": " MBITINI ",
+        "count": "12048"
+    },
+    {
+        "constituecy": "71",
+        "id": "352",
+        "name": " KWAVONZA/YATTA ",
+        "count": "18020"
+    },
+    {
+        "constituecy": "71",
+        "id": "353",
+        "name": " KANYANGI ",
+        "count": "11092"
+    },
+    {
+        "constituecy": "72",
+        "id": "354",
+        "name": " MIAMBANI ",
+        "count": "11759"
+    },
+    {
+        "constituecy": "72",
+        "id": "355",
+        "name": " TOWNSHIP ",
+        "count": "19538"
+    },
+    {
+        "constituecy": "72",
+        "id": "356",
+        "name": " KYANGWITHYA WEST ",
+        "count": "15931"
+    },
+    {
+        "constituecy": "72",
+        "id": "357",
+        "name": " MULANGO ",
+        "count": "15135"
+    },
+    {
+        "constituecy": "72",
+        "id": "358",
+        "name": " KYANGWITHYA EAST ",
+        "count": "15401"
+    },
+    {
+        "constituecy": "73",
+        "id": "359",
+        "name": " ZOMBE/MWITIKA ",
+        "count": "13152"
+    },
+    {
+        "constituecy": "73",
+        "id": "360",
+        "name": " NZAMBANI ",
+        "count": "11723"
+    },
+    {
+        "constituecy": "73",
+        "id": "361",
+        "name": " CHULUNI ",
+        "count": "12622"
+    },
+    {
+        "constituecy": "73",
+        "id": "362",
+        "name": " VOO/KYAMATU ",
+        "count": "10003"
+    },
+    {
+        "constituecy": "73",
+        "id": "363",
+        "name": " ENDAU/MALALANI ",
+        "count": "7897"
+    },
+    {
+        "constituecy": "73",
+        "id": "364",
+        "name": " MUTITO/KALIKU ",
+        "count": "9980"
+    },
+    {
+        "constituecy": "74",
+        "id": "365",
+        "name": " IKANGA/KYATUNE ",
+        "count": "15384"
+    },
+    {
+        "constituecy": "74",
+        "id": "366",
+        "name": " MUTOMO ",
+        "count": "12637"
+    },
+    {
+        "constituecy": "74",
+        "id": "367",
+        "name": " MUTHA ",
+        "count": "11039"
+    },
+    {
+        "constituecy": "74",
+        "id": "368",
+        "name": " IKUTHA ",
+        "count": "12066"
+    },
+    {
+        "constituecy": "74",
+        "id": "369",
+        "name": " KANZIKO ",
+        "count": "8403"
+    },
+    {
+        "constituecy": "74",
+        "id": "370",
+        "name": " ATHI ",
+        "count": "15843"
+    },
+    {
+        "constituecy": "75",
+        "id": "371",
+        "name": " KIVAA ",
+        "count": "18277"
+    },
+    {
+        "constituecy": "75",
+        "id": "372",
+        "name": " MASINGA CENTRAL ",
+        "count": "18410"
+    },
+    {
+        "constituecy": "75",
+        "id": "373",
+        "name": " EKALAKALA ",
+        "count": "11265"
+    },
+    {
+        "constituecy": "75",
+        "id": "374",
+        "name": " MUTHESYA ",
+        "count": "8874"
+    },
+    {
+        "constituecy": "75",
+        "id": "375",
+        "name": " NDITHINI ",
+        "count": "12053"
+    },
+    {
+        "constituecy": "76",
+        "id": "376",
+        "name": " NDALANI ",
+        "count": "16093"
+    },
+    {
+        "constituecy": "76",
+        "id": "377",
+        "name": " MATUU ",
+        "count": "16826"
+    },
+    {
+        "constituecy": "76",
+        "id": "378",
+        "name": " KITHIMANI ",
+        "count": "19497"
+    },
+    {
+        "constituecy": "76",
+        "id": "379",
+        "name": " IKOMBE ",
+        "count": "18283"
+    },
+    {
+        "constituecy": "76",
+        "id": "380",
+        "name": " KATANGI ",
+        "count": "11698"
+    },
+    {
+        "constituecy": "77",
+        "id": "381",
+        "name": " KANGUNDO NORTH ",
+        "count": "14938"
+    },
+    {
+        "constituecy": "77",
+        "id": "382",
+        "name": " KANGUNDO CENTRAL ",
+        "count": "16502"
+    },
+    {
+        "constituecy": "77",
+        "id": "383",
+        "name": " KANGUNDO EAST ",
+        "count": "13340"
+    },
+    {
+        "constituecy": "77",
+        "id": "384",
+        "name": " KANGUNDO WEST ",
+        "count": "16016"
+    },
+    {
+        "constituecy": "78",
+        "id": "385",
+        "name": " TALA ",
+        "count": "18614"
+    },
+    {
+        "constituecy": "78",
+        "id": "386",
+        "name": " MATUNGULU NORTH ",
+        "count": "12504"
+    },
+    {
+        "constituecy": "78",
+        "id": "387",
+        "name": " MATUNGULU EAST ",
+        "count": "12826"
+    },
+    {
+        "constituecy": "78",
+        "id": "388",
+        "name": " MATUNGULU WEST ",
+        "count": "22817"
+    },
+    {
+        "constituecy": "78",
+        "id": "389",
+        "name": " KYELENI ",
+        "count": "9080"
+    },
+    {
+        "constituecy": "79",
+        "id": "390",
+        "name": " MITABONI ",
+        "count": "16756"
+    },
+    {
+        "constituecy": "79",
+        "id": "391",
+        "name": " KATHIANI CENTRAL ",
+        "count": "15070"
+    },
+    {
+        "constituecy": "79",
+        "id": "392",
+        "name": " UPPER KAEWA/IVETI ",
+        "count": "14314"
+    },
+    {
+        "constituecy": "79",
+        "id": "393",
+        "name": " LOWER KAEWA/KAANI ",
+        "count": "14084"
+    },
+    {
+        "constituecy": "80",
+        "id": "394",
+        "name": " ATHI RIVER ",
+        "count": "44603"
+    },
+    {
+        "constituecy": "80",
+        "id": "395",
+        "name": " KINANIE ",
+        "count": "14831"
+    },
+    {
+        "constituecy": "80",
+        "id": "396",
+        "name": " MUTHWANI ",
+        "count": "24402"
+    },
+    {
+        "constituecy": "80",
+        "id": "397",
+        "name": " SYOKIMAU/MULOLONGO ",
+        "count": "48327"
+    },
+    {
+        "constituecy": "81",
+        "id": "398",
+        "name": " KALAMA ",
+        "count": "17173"
+    },
+    {
+        "constituecy": "81",
+        "id": "399",
+        "name": " MUA ",
+        "count": "15242"
+    },
+    {
+        "constituecy": "81",
+        "id": "400",
+        "name": " MUTITUNI ",
+        "count": "14486"
+    },
+    {
+        "constituecy": "81",
+        "id": "401",
+        "name": " MACHAKOS CENTRAL ",
+        "count": "28309"
+    },
+    {
+        "constituecy": "81",
+        "id": "402",
+        "name": " MUMBUNI NORTH ",
+        "count": "13778"
+    },
+    {
+        "constituecy": "81",
+        "id": "403",
+        "name": " MUVUTI/KIIMA-KIMWE ",
+        "count": "17404"
+    },
+    {
+        "constituecy": "81",
+        "id": "404",
+        "name": " KOLA ",
+        "count": "10975"
+    },
+    {
+        "constituecy": "82",
+        "id": "405",
+        "name": " MBIUNI ",
+        "count": "16671"
+    },
+    {
+        "constituecy": "82",
+        "id": "406",
+        "name": " MAKUTANO/ MWALA ",
+        "count": "17815"
+    },
+    {
+        "constituecy": "82",
+        "id": "407",
+        "name": " MASII ",
+        "count": "18523"
+    },
+    {
+        "constituecy": "82",
+        "id": "408",
+        "name": " MUTHETHENI ",
+        "count": "12571"
+    },
+    {
+        "constituecy": "82",
+        "id": "409",
+        "name": " WAMUNYU ",
+        "count": "14342"
+    },
+    {
+        "constituecy": "82",
+        "id": "410",
+        "name": " KIBAUNI ",
+        "count": "9976"
+    },
+    {
+        "constituecy": "83",
+        "id": "411",
+        "name": " TULIMANI ",
+        "count": "18803"
+    },
+    {
+        "constituecy": "83",
+        "id": "412",
+        "name": " MBOONI ",
+        "count": "16441"
+    },
+    {
+        "constituecy": "83",
+        "id": "413",
+        "name": " KITHUNGO/KITUNDU ",
+        "count": "13472"
+    },
+    {
+        "constituecy": "83",
+        "id": "414",
+        "name": " KITETA/KISAU ",
+        "count": "20020"
+    },
+    {
+        "constituecy": "83",
+        "id": "415",
+        "name": " WAIA-KAKO ",
+        "count": "13127"
+    },
+    {
+        "constituecy": "83",
+        "id": "416",
+        "name": " KALAWA ",
+        "count": "14166"
+    },
+    {
+        "constituecy": "84",
+        "id": "417",
+        "name": " KASIKEU ",
+        "count": "23435"
+    },
+    {
+        "constituecy": "84",
+        "id": "418",
+        "name": " MUKAA ",
+        "count": "14484"
+    },
+    {
+        "constituecy": "84",
+        "id": "419",
+        "name": " KIIMA KIU/KALANZONI ",
+        "count": "21259"
+    },
+    {
+        "constituecy": "85",
+        "id": "420",
+        "name": " UKIA ",
+        "count": "22344"
+    },
+    {
+        "constituecy": "85",
+        "id": "421",
+        "name": " KEE ",
+        "count": "12212"
+    },
+    {
+        "constituecy": "85",
+        "id": "422",
+        "name": " KILUNGU ",
+        "count": "16858"
+    },
+    {
+        "constituecy": "85",
+        "id": "423",
+        "name": " ILIMA ",
+        "count": "13774"
+    },
+    {
+        "constituecy": "86",
+        "id": "424",
+        "name": " WOTE ",
+        "count": "19472"
+    },
+    {
+        "constituecy": "86",
+        "id": "425",
+        "name": " MUVAU/KIKUUMINI ",
+        "count": "13583"
+    },
+    {
+        "constituecy": "86",
+        "id": "426",
+        "name": " MAVINDINI ",
+        "count": "11154"
+    },
+    {
+        "constituecy": "86",
+        "id": "427",
+        "name": " KITISE/KITHUKI ",
+        "count": "11691"
+    },
+    {
+        "constituecy": "86",
+        "id": "428",
+        "name": " KATHONZWENI ",
+        "count": "14661"
+    },
+    {
+        "constituecy": "86",
+        "id": "429",
+        "name": " NZAUI/KILILI/KALAMBA ",
+        "count": "18381"
+    },
+    {
+        "constituecy": "86",
+        "id": "430",
+        "name": " MBITINI ",
+        "count": "13770"
+    },
+    {
+        "constituecy": "87",
+        "id": "431",
+        "name": " MAKINDU ",
+        "count": "22953"
+    },
+    {
+        "constituecy": "87",
+        "id": "432",
+        "name": " NGUUMO ",
+        "count": "14185"
+    },
+    {
+        "constituecy": "87",
+        "id": "433",
+        "name": " KIKUMBULYU NORTH ",
+        "count": "9889"
+    },
+    {
+        "constituecy": "87",
+        "id": "434",
+        "name": " KIKUMBULYU SOUTH ",
+        "count": "14056"
+    },
+    {
+        "constituecy": "87",
+        "id": "435",
+        "name": " NGUU/MASUMBA ",
+        "count": "13747"
+    },
+    {
+        "constituecy": "87",
+        "id": "436",
+        "name": " EMALI/MULALA ",
+        "count": "16724"
+    },
+    {
+        "constituecy": "88",
+        "id": "437",
+        "name": " MASONGALENI ",
+        "count": "14271"
+    },
+    {
+        "constituecy": "88",
+        "id": "438",
+        "name": " MTITO ANDEI ",
+        "count": "17622"
+    },
+    {
+        "constituecy": "88",
+        "id": "439",
+        "name": " THANGE ",
+        "count": "17020"
+    },
+    {
+        "constituecy": "88",
+        "id": "440",
+        "name": " IVINGONI/NZAMBANI ",
+        "count": "15827"
+    },
+    {
+        "constituecy": "89",
+        "id": "441",
+        "name": " ENGINEER ",
+        "count": "16199"
+    },
+    {
+        "constituecy": "89",
+        "id": "442",
+        "name": " GATHARA ",
+        "count": "18144"
+    },
+    {
+        "constituecy": "89",
+        "id": "443",
+        "name": " NORTH KINANGOP ",
+        "count": "11265"
+    },
+    {
+        "constituecy": "89",
+        "id": "444",
+        "name": " MURUNGARU ",
+        "count": "15669"
+    },
+    {
+        "constituecy": "89",
+        "id": "445",
+        "name": " NJABINI\\KIBURU ",
+        "count": "12793"
+    },
+    {
+        "constituecy": "89",
+        "id": "446",
+        "name": " NYAKIO ",
+        "count": "15177"
+    },
+    {
+        "constituecy": "89",
+        "id": "447",
+        "name": " GITHABAI ",
+        "count": "11473"
+    },
+    {
+        "constituecy": "89",
+        "id": "448",
+        "name": " MAGUMU ",
+        "count": "14827"
+    },
+    {
+        "constituecy": "90",
+        "id": "449",
+        "name": " WANJOHI ",
+        "count": "17474"
+    },
+    {
+        "constituecy": "90",
+        "id": "450",
+        "name": " KIPIPIRI ",
+        "count": "14364"
+    },
+    {
+        "constituecy": "90",
+        "id": "451",
+        "name": " GETA ",
+        "count": "11098"
+    },
+    {
+        "constituecy": "90",
+        "id": "452",
+        "name": " GITHIORO ",
+        "count": "11692"
+    },
+    {
+        "constituecy": "91",
+        "id": "453",
+        "name": " KARAU ",
+        "count": "13594"
+    },
+    {
+        "constituecy": "91",
+        "id": "454",
+        "name": " KANJUIRI RANGE ",
+        "count": "15596"
+    },
+    {
+        "constituecy": "91",
+        "id": "455",
+        "name": " MIRANGINE ",
+        "count": "14695"
+    },
+    {
+        "constituecy": "91",
+        "id": "456",
+        "name": " KAIMBAGA ",
+        "count": "13540"
+    },
+    {
+        "constituecy": "91",
+        "id": "457",
+        "name": " RURII ",
+        "count": "15572"
+    },
+    {
+        "constituecy": "92",
+        "id": "458",
+        "name": " GATHANJI ",
+        "count": "12792"
+    },
+    {
+        "constituecy": "92",
+        "id": "459",
+        "name": " GATIMU ",
+        "count": "14875"
+    },
+    {
+        "constituecy": "92",
+        "id": "460",
+        "name": " WERU ",
+        "count": "18548"
+    },
+    {
+        "constituecy": "92",
+        "id": "461",
+        "name": " CHARAGITA ",
+        "count": "13932"
+    },
+    {
+        "constituecy": "93",
+        "id": "462",
+        "name": " LESHAU/PONDO ",
+        "count": "13842"
+    },
+    {
+        "constituecy": "93",
+        "id": "463",
+        "name": " KIRIITA ",
+        "count": "12977"
+    },
+    {
+        "constituecy": "93",
+        "id": "464",
+        "name": " CENTRAL ",
+        "count": "18113"
+    },
+    {
+        "constituecy": "93",
+        "id": "465",
+        "name": " SHAMATA ",
+        "count": "12914"
+    },
+    {
+        "constituecy": "94",
+        "id": "466",
+        "name": " DEDAN KIMANTHI ",
+        "count": "14401"
+    },
+    {
+        "constituecy": "94",
+        "id": "467",
+        "name": " WAMAGANA ",
+        "count": "22275"
+    },
+    {
+        "constituecy": "94",
+        "id": "468",
+        "name": " AGUTHI-GAAKI ",
+        "count": "18310"
+    },
+    {
+        "constituecy": "95",
+        "id": "469",
+        "name": " MWEIGA ",
+        "count": "12064"
+    },
+    {
+        "constituecy": "95",
+        "id": "470",
+        "name": " NAROMORU KIAMATHAGA ",
+        "count": "17731"
+    },
+    {
+        "constituecy": "95",
+        "id": "471",
+        "name": " MWIYOGO/ENDARASHA ",
+        "count": "12691"
+    },
+    {
+        "constituecy": "95",
+        "id": "472",
+        "name": " MUGUNDA ",
+        "count": "16080"
+    },
+    {
+        "constituecy": "95",
+        "id": "473",
+        "name": " GATARAKWA ",
+        "count": "12086"
+    },
+    {
+        "constituecy": "95",
+        "id": "474",
+        "name": " THEGU RIVER ",
+        "count": "16778"
+    },
+    {
+        "constituecy": "95",
+        "id": "475",
+        "name": " KABARU ",
+        "count": "13280"
+    },
+    {
+        "constituecy": "95",
+        "id": "476",
+        "name": " GAKAWA ",
+        "count": "13863"
+    },
+    {
+        "constituecy": "96",
+        "id": "477",
+        "name": " RUGURU ",
+        "count": "14670"
+    },
+    {
+        "constituecy": "96",
+        "id": "478",
+        "name": " MAGUTU ",
+        "count": "13383"
+    },
+    {
+        "constituecy": "96",
+        "id": "479",
+        "name": " IRIAINI ",
+        "count": "18020"
+    },
+    {
+        "constituecy": "96",
+        "id": "480",
+        "name": " KONYU ",
+        "count": "13428"
+    },
+    {
+        "constituecy": "96",
+        "id": "481",
+        "name": " KIRIMUKUYU ",
+        "count": "18171"
+    },
+    {
+        "constituecy": "96",
+        "id": "482",
+        "name": " KARATINA TOWN ",
+        "count": "26820"
+    },
+    {
+        "constituecy": "97",
+        "id": "483",
+        "name": " MAHIGA ",
+        "count": "15138"
+    },
+    {
+        "constituecy": "97",
+        "id": "484",
+        "name": " IRIA-INI ",
+        "count": "19309"
+    },
+    {
+        "constituecy": "97",
+        "id": "485",
+        "name": " CHINGA ",
+        "count": "15143"
+    },
+    {
+        "constituecy": "97",
+        "id": "486",
+        "name": " KARIMA ",
+        "count": "12289"
+    },
+    {
+        "constituecy": "98",
+        "id": "487",
+        "name": " GIKONDI ",
+        "count": "12644"
+    },
+    {
+        "constituecy": "98",
+        "id": "488",
+        "name": " RUGI ",
+        "count": "13959"
+    },
+    {
+        "constituecy": "98",
+        "id": "489",
+        "name": " MUKURWE-INI WEST ",
+        "count": "12801"
+    },
+    {
+        "constituecy": "98",
+        "id": "490",
+        "name": " MUKURWE-INI CENTRAL ",
+        "count": "19130"
+    },
+    {
+        "constituecy": "99",
+        "id": "491",
+        "name": " KIGANJO/MATHARI ",
+        "count": "15985"
+    },
+    {
+        "constituecy": "99",
+        "id": "492",
+        "name": " RWARE ",
+        "count": "29246"
+    },
+    {
+        "constituecy": "99",
+        "id": "493",
+        "name": " GATITU/MURUGURU ",
+        "count": "11363"
+    },
+    {
+        "constituecy": "99",
+        "id": "494",
+        "name": " RURING'U ",
+        "count": "13780"
+    },
+    {
+        "constituecy": "99",
+        "id": "495",
+        "name": " KAMAKWA/MUKARO ",
+        "count": "16794"
+    },
+    {
+        "constituecy": "100",
+        "id": "496",
+        "name": " MUTITHI ",
+        "count": "19226"
+    },
+    {
+        "constituecy": "100",
+        "id": "497",
+        "name": " KANGAI ",
+        "count": "12568"
+    },
+    {
+        "constituecy": "100",
+        "id": "498",
+        "name": " THIBA ",
+        "count": "15157"
+    },
+    {
+        "constituecy": "100",
+        "id": "499",
+        "name": " WAMUMU ",
+        "count": "12249"
+    },
+    {
+        "constituecy": "100",
+        "id": "500",
+        "name": " NYANGATI ",
+        "count": "17095"
+    },
+    {
+        "constituecy": "100",
+        "id": "501",
+        "name": " MURINDUKO ",
+        "count": "18935"
+    },
+    {
+        "constituecy": "100",
+        "id": "502",
+        "name": " GATHIGIRIRI ",
+        "count": "11993"
+    },
+    {
+        "constituecy": "100",
+        "id": "503",
+        "name": " TEBERE ",
+        "count": "24491"
+    },
+    {
+        "constituecy": "101",
+        "id": "504",
+        "name": " KABARE ",
+        "count": "27559"
+    },
+    {
+        "constituecy": "101",
+        "id": "505",
+        "name": " BARAGWI ",
+        "count": "16311"
+    },
+    {
+        "constituecy": "101",
+        "id": "506",
+        "name": " NJUKIINI ",
+        "count": "16338"
+    },
+    {
+        "constituecy": "101",
+        "id": "507",
+        "name": " NGARIAMA ",
+        "count": "13976"
+    },
+    {
+        "constituecy": "101",
+        "id": "508",
+        "name": " KARUMANDI ",
+        "count": "18311"
+    },
+    {
+        "constituecy": "102",
+        "id": "509",
+        "name": " MUKURE ",
+        "count": "22087"
+    },
+    {
+        "constituecy": "102",
+        "id": "510",
+        "name": " KIINE ",
+        "count": "27843"
+    },
+    {
+        "constituecy": "102",
+        "id": "511",
+        "name": " KARITI ",
+        "count": "19813"
+    },
+    {
+        "constituecy": "103",
+        "id": "512",
+        "name": " MUTIRA ",
+        "count": "18169"
+    },
+    {
+        "constituecy": "103",
+        "id": "513",
+        "name": " KANYEKINI ",
+        "count": "21863"
+    },
+    {
+        "constituecy": "103",
+        "id": "514",
+        "name": " KERUGOYA ",
+        "count": "24745"
+    },
+    {
+        "constituecy": "103",
+        "id": "515",
+        "name": " INOI ",
+        "count": "17272"
+    },
+    {
+        "constituecy": "104",
+        "id": "516",
+        "name": " KANYENYA-INI ",
+        "count": "15567"
+    },
+    {
+        "constituecy": "104",
+        "id": "517",
+        "name": " MUGURU ",
+        "count": "23583"
+    },
+    {
+        "constituecy": "104",
+        "id": "518",
+        "name": " RWATHIA ",
+        "count": "12852"
+    },
+    {
+        "constituecy": "105",
+        "id": "519",
+        "name": " GITUGI ",
+        "count": "20421"
+    },
+    {
+        "constituecy": "105",
+        "id": "520",
+        "name": " KIRU ",
+        "count": "22212"
+    },
+    {
+        "constituecy": "105",
+        "id": "521",
+        "name": " KAMACHARIA ",
+        "count": "15469"
+    },
+    {
+        "constituecy": "106",
+        "id": "522",
+        "name": " WANGU ",
+        "count": "17355"
+    },
+    {
+        "constituecy": "106",
+        "id": "523",
+        "name": " MUGOIRI ",
+        "count": "19001"
+    },
+    {
+        "constituecy": "106",
+        "id": "524",
+        "name": " MBIRI ",
+        "count": "20473"
+    },
+    {
+        "constituecy": "106",
+        "id": "525",
+        "name": " TOWNSHIP ",
+        "count": "24462"
+    },
+    {
+        "constituecy": "106",
+        "id": "526",
+        "name": " MURARANDIA ",
+        "count": "17998"
+    },
+    {
+        "constituecy": "106",
+        "id": "527",
+        "name": " GATURI ",
+        "count": "20100"
+    },
+    {
+        "constituecy": "107",
+        "id": "528",
+        "name": " KAHUMBU ",
+        "count": "11652"
+    },
+    {
+        "constituecy": "107",
+        "id": "529",
+        "name": " MUTHITHI ",
+        "count": "14559"
+    },
+    {
+        "constituecy": "107",
+        "id": "530",
+        "name": " KIGUMO ",
+        "count": "15527"
+    },
+    {
+        "constituecy": "107",
+        "id": "531",
+        "name": " KANGARI ",
+        "count": "22170"
+    },
+    {
+        "constituecy": "107",
+        "id": "532",
+        "name": " KINYONA ",
+        "count": "18701"
+    },
+    {
+        "constituecy": "108",
+        "id": "533",
+        "name": " KIMORORI/WEMPA ",
+        "count": "26433"
+    },
+    {
+        "constituecy": "108",
+        "id": "534",
+        "name": " MAKUYU ",
+        "count": "16588"
+    },
+    {
+        "constituecy": "108",
+        "id": "535",
+        "name": " KAMBITI ",
+        "count": "13186"
+    },
+    {
+        "constituecy": "108",
+        "id": "536",
+        "name": " KAMAHUHA ",
+        "count": "16236"
+    },
+    {
+        "constituecy": "108",
+        "id": "537",
+        "name": " ICHAGAKI ",
+        "count": "13524"
+    },
+    {
+        "constituecy": "108",
+        "id": "538",
+        "name": " NGINDA ",
+        "count": "16416"
+    },
+    {
+        "constituecy": "109",
+        "id": "539",
+        "name": " NG'ARARIA ",
+        "count": "13776"
+    },
+    {
+        "constituecy": "109",
+        "id": "540",
+        "name": " MURUKA ",
+        "count": "16240"
+    },
+    {
+        "constituecy": "109",
+        "id": "541",
+        "name": " KAGUNDU-INI ",
+        "count": "19129"
+    },
+    {
+        "constituecy": "109",
+        "id": "542",
+        "name": " GAICHANJIRU ",
+        "count": "16280"
+    },
+    {
+        "constituecy": "109",
+        "id": "543",
+        "name": " ITHIRU ",
+        "count": "18335"
+    },
+    {
+        "constituecy": "109",
+        "id": "544",
+        "name": " RUCHU ",
+        "count": "21388"
+    },
+    {
+        "constituecy": "110",
+        "id": "545",
+        "name": " ITHANGA ",
+        "count": "11310"
+    },
+    {
+        "constituecy": "110",
+        "id": "546",
+        "name": " KAKUZI/MITUBIRI ",
+        "count": "15291"
+    },
+    {
+        "constituecy": "110",
+        "id": "547",
+        "name": " MUGUMO-INI ",
+        "count": "14252"
+    },
+    {
+        "constituecy": "110",
+        "id": "548",
+        "name": " KIHUMBU-INI ",
+        "count": "17142"
+    },
+    {
+        "constituecy": "110",
+        "id": "549",
+        "name": " GATANGA ",
+        "count": "16842"
+    },
+    {
+        "constituecy": "110",
+        "id": "550",
+        "name": " KARIARA ",
+        "count": "26459"
+    },
+    {
+        "constituecy": "111",
+        "id": "551",
+        "name": " KIAMWANGI ",
+        "count": "13808"
+    },
+    {
+        "constituecy": "111",
+        "id": "552",
+        "name": " KIGANJO ",
+        "count": "19067"
+    },
+    {
+        "constituecy": "111",
+        "id": "553",
+        "name": " NDARUGU ",
+        "count": "14486"
+    },
+    {
+        "constituecy": "111",
+        "id": "554",
+        "name": " NGENDA ",
+        "count": "32499"
+    },
+    {
+        "constituecy": "112",
+        "id": "555",
+        "name": " GITUAMBA ",
+        "count": "19246"
+    },
+    {
+        "constituecy": "112",
+        "id": "556",
+        "name": " GITHOBOKONI ",
+        "count": "15208"
+    },
+    {
+        "constituecy": "112",
+        "id": "557",
+        "name": " CHANIA ",
+        "count": "18324"
+    },
+    {
+        "constituecy": "112",
+        "id": "558",
+        "name": " MANG'U ",
+        "count": "19032"
+    },
+    {
+        "constituecy": "113",
+        "id": "559",
+        "name": " MURERA ",
+        "count": "18075"
+    },
+    {
+        "constituecy": "113",
+        "id": "560",
+        "name": " THETA ",
+        "count": "31397"
+    },
+    {
+        "constituecy": "113",
+        "id": "561",
+        "name": " JUJA ",
+        "count": "36666"
+    },
+    {
+        "constituecy": "113",
+        "id": "562",
+        "name": " WITEITHIE ",
+        "count": "25933"
+    },
+    {
+        "constituecy": "113",
+        "id": "563",
+        "name": " KALIMONI ",
+        "count": "22567"
+    },
+    {
+        "constituecy": "114",
+        "id": "564",
+        "name": " TOWNSHIP ",
+        "count": "44623"
+    },
+    {
+        "constituecy": "114",
+        "id": "565",
+        "name": " KAMENU ",
+        "count": "55315"
+    },
+    {
+        "constituecy": "114",
+        "id": "566",
+        "name": " HOSPITAL ",
+        "count": "33423"
+    },
+    {
+        "constituecy": "114",
+        "id": "567",
+        "name": " GATUANYAGA ",
+        "count": "12555"
+    },
+    {
+        "constituecy": "114",
+        "id": "568",
+        "name": " NGOLIBA ",
+        "count": "10102"
+    },
+    {
+        "constituecy": "115",
+        "id": "569",
+        "name": " GITOTHUA ",
+        "count": "16154"
+    },
+    {
+        "constituecy": "115",
+        "id": "570",
+        "name": " BIASHARA ",
+        "count": "38706"
+    },
+    {
+        "constituecy": "115",
+        "id": "571",
+        "name": " GATONGORA ",
+        "count": "15760"
+    },
+    {
+        "constituecy": "115",
+        "id": "572",
+        "name": " KAHAWA SUKARI ",
+        "count": "11697"
+    },
+    {
+        "constituecy": "115",
+        "id": "573",
+        "name": " KAHAWA WENDANI ",
+        "count": "17183"
+    },
+    {
+        "constituecy": "115",
+        "id": "574",
+        "name": " KIUU ",
+        "count": "25920"
+    },
+    {
+        "constituecy": "115",
+        "id": "575",
+        "name": " MWIKI ",
+        "count": "32582"
+    },
+    {
+        "constituecy": "115",
+        "id": "576",
+        "name": " MWIHOKO ",
+        "count": "14086"
+    },
+    {
+        "constituecy": "116",
+        "id": "577",
+        "name": " GITHUNGURI ",
+        "count": "27596"
+    },
+    {
+        "constituecy": "116",
+        "id": "578",
+        "name": " GITHIGA ",
+        "count": "20616"
+    },
+    {
+        "constituecy": "116",
+        "id": "579",
+        "name": " IKINU ",
+        "count": "17450"
+    },
+    {
+        "constituecy": "116",
+        "id": "580",
+        "name": " NGEWA ",
+        "count": "18876"
+    },
+    {
+        "constituecy": "116",
+        "id": "581",
+        "name": " KOMOTHAI ",
+        "count": "20054"
+    },
+    {
+        "constituecy": "117",
+        "id": "582",
+        "name": " TING'ANG'A ",
+        "count": "14457"
+    },
+    {
+        "constituecy": "117",
+        "id": "583",
+        "name": " NDUMBERI ",
+        "count": "22095"
+    },
+    {
+        "constituecy": "117",
+        "id": "584",
+        "name": " RIABAI ",
+        "count": "15896"
+    },
+    {
+        "constituecy": "117",
+        "id": "585",
+        "name": " TOWNSHIP ",
+        "count": "34538"
+    },
+    {
+        "constituecy": "118",
+        "id": "586",
+        "name": " CIANDA ",
+        "count": "12842"
+    },
+    {
+        "constituecy": "118",
+        "id": "587",
+        "name": " KARURI ",
+        "count": "23677"
+    },
+    {
+        "constituecy": "118",
+        "id": "588",
+        "name": " NDENDERU ",
+        "count": "28523"
+    },
+    {
+        "constituecy": "118",
+        "id": "589",
+        "name": " MUCHATHA ",
+        "count": "19412"
+    },
+    {
+        "constituecy": "118",
+        "id": "590",
+        "name": " KIHARA ",
+        "count": "19814"
+    },
+    {
+        "constituecy": "119",
+        "id": "591",
+        "name": " GITARU ",
+        "count": "18481"
+    },
+    {
+        "constituecy": "119",
+        "id": "592",
+        "name": " MUGUGA ",
+        "count": "19681"
+    },
+    {
+        "constituecy": "119",
+        "id": "593",
+        "name": " NYADHUNA ",
+        "count": "21701"
+    },
+    {
+        "constituecy": "119",
+        "id": "594",
+        "name": " KABETE ",
+        "count": "20571"
+    },
+    {
+        "constituecy": "119",
+        "id": "595",
+        "name": " UTHIRU ",
+        "count": "11341"
+    },
+    {
+        "constituecy": "120",
+        "id": "596",
+        "name": " KARAI ",
+        "count": "15710"
+    },
+    {
+        "constituecy": "120",
+        "id": "597",
+        "name": " NACHU ",
+        "count": "14044"
+    },
+    {
+        "constituecy": "120",
+        "id": "598",
+        "name": " SIGONA ",
+        "count": "19571"
+    },
+    {
+        "constituecy": "120",
+        "id": "599",
+        "name": " KIKUYU ",
+        "count": "30130"
+    },
+    {
+        "constituecy": "120",
+        "id": "600",
+        "name": " KINOO ",
+        "count": "19303"
+    },
+    {
+        "constituecy": "121",
+        "id": "601",
+        "name": " BIBIRIONI ",
+        "count": "14044"
+    },
+    {
+        "constituecy": "121",
+        "id": "602",
+        "name": " LIMURU CENTRAL ",
+        "count": "26587"
+    },
+    {
+        "constituecy": "121",
+        "id": "603",
+        "name": " NDEIYA ",
+        "count": "17035"
+    },
+    {
+        "constituecy": "121",
+        "id": "604",
+        "name": " LIMURU EAST ",
+        "count": "17375"
+    },
+    {
+        "constituecy": "121",
+        "id": "605",
+        "name": " NGECHA TIGONI ",
+        "count": "17978"
+    },
+    {
+        "constituecy": "122",
+        "id": "606",
+        "name": " KINALE ",
+        "count": "16503"
+    },
+    {
+        "constituecy": "122",
+        "id": "607",
+        "name": " KIJABE ",
+        "count": "19124"
+    },
+    {
+        "constituecy": "122",
+        "id": "608",
+        "name": " NYANDUMA ",
+        "count": "14572"
+    },
+    {
+        "constituecy": "122",
+        "id": "609",
+        "name": " KAMBURU ",
+        "count": "12018"
+    },
+    {
+        "constituecy": "122",
+        "id": "610",
+        "name": " LARI/KIRENGA ",
+        "count": "18979"
+    },
+    {
+        "constituecy": "123",
+        "id": "611",
+        "name": " KAERIS ",
+        "count": "6586"
+    },
+    {
+        "constituecy": "123",
+        "id": "612",
+        "name": " LAKE ZONE ",
+        "count": "10896"
+    },
+    {
+        "constituecy": "123",
+        "id": "613",
+        "name": " LAPUR ",
+        "count": "7188"
+    },
+    {
+        "constituecy": "123",
+        "id": "614",
+        "name": " KAALENG/KAIKOR ",
+        "count": "8148"
+    },
+    {
+        "constituecy": "123",
+        "id": "615",
+        "name": " KIBISH ",
+        "count": "3684"
+    },
+    {
+        "constituecy": "123",
+        "id": "616",
+        "name": " NAKALALE ",
+        "count": "6435"
+    },
+    {
+        "constituecy": "124",
+        "id": "617",
+        "name": " KAKUMA ",
+        "count": "12153"
+    },
+    {
+        "constituecy": "124",
+        "id": "618",
+        "name": " LOPUR ",
+        "count": "5697"
+    },
+    {
+        "constituecy": "124",
+        "id": "619",
+        "name": " LETEA ",
+        "count": "5348"
+    },
+    {
+        "constituecy": "124",
+        "id": "620",
+        "name": " SONGOT ",
+        "count": "4733"
+    },
+    {
+        "constituecy": "124",
+        "id": "621",
+        "name": " KALOBEYEI ",
+        "count": "5099"
+    },
+    {
+        "constituecy": "124",
+        "id": "622",
+        "name": " LOKICHOGGIO ",
+        "count": "5490"
+    },
+    {
+        "constituecy": "124",
+        "id": "623",
+        "name": " NANAAM ",
+        "count": "4153"
+    },
+    {
+        "constituecy": "125",
+        "id": "624",
+        "name": " KERIO DELTA ",
+        "count": "10672"
+    },
+    {
+        "constituecy": "125",
+        "id": "625",
+        "name": " KANG'ATOTHA ",
+        "count": "7625"
+    },
+    {
+        "constituecy": "125",
+        "id": "626",
+        "name": " KALOKOL ",
+        "count": "9179"
+    },
+    {
+        "constituecy": "125",
+        "id": "627",
+        "name": " LODWAR TOWNSHIP ",
+        "count": "17273"
+    },
+    {
+        "constituecy": "125",
+        "id": "628",
+        "name": " KANAMKEMER ",
+        "count": "11222"
+    },
+    {
+        "constituecy": "126",
+        "id": "629",
+        "name": " KOTARUK/LOBEI ",
+        "count": "8174"
+    },
+    {
+        "constituecy": "126",
+        "id": "630",
+        "name": " TURKWEL ",
+        "count": "19528"
+    },
+    {
+        "constituecy": "126",
+        "id": "631",
+        "name": " LOIMA ",
+        "count": "3978"
+    },
+    {
+        "constituecy": "126",
+        "id": "632",
+        "name": " LOKIRIAMA/LORENGIPPI ",
+        "count": "4835"
+    },
+    {
+        "constituecy": "127",
+        "id": "633",
+        "name": " KAPUTIR ",
+        "count": "4123"
+    },
+    {
+        "constituecy": "127",
+        "id": "634",
+        "name": " KATILU ",
+        "count": "13254"
+    },
+    {
+        "constituecy": "127",
+        "id": "635",
+        "name": " LOBOKAT ",
+        "count": "4259"
+    },
+    {
+        "constituecy": "127",
+        "id": "636",
+        "name": " KALAPATA ",
+        "count": "4329"
+    },
+    {
+        "constituecy": "127",
+        "id": "637",
+        "name": " LOKICHAR ",
+        "count": "14467"
+    },
+    {
+        "constituecy": "128",
+        "id": "638",
+        "name": " KAPEDO/NAPEITOM ",
+        "count": "3721"
+    },
+    {
+        "constituecy": "128",
+        "id": "639",
+        "name": " KATILIA ",
+        "count": "6357"
+    },
+    {
+        "constituecy": "128",
+        "id": "640",
+        "name": " LOKORI/KOCHODIN ",
+        "count": "9922"
+    },
+    {
+        "constituecy": "129",
+        "id": "641",
+        "name": " RIWO ",
+        "count": "13552"
+    },
+    {
+        "constituecy": "129",
+        "id": "642",
+        "name": " KAPENGURIA ",
+        "count": "12074"
+    },
+    {
+        "constituecy": "129",
+        "id": "643",
+        "name": " MNAGEI ",
+        "count": "18201"
+    },
+    {
+        "constituecy": "129",
+        "id": "644",
+        "name": " SIYOI ",
+        "count": "8279"
+    },
+    {
+        "constituecy": "129",
+        "id": "645",
+        "name": " ENDUGH ",
+        "count": "8360"
+    },
+    {
+        "constituecy": "129",
+        "id": "646",
+        "name": " SOOK ",
+        "count": "6074"
+    },
+    {
+        "constituecy": "130",
+        "id": "647",
+        "name": " SEKERR ",
+        "count": "9432"
+    },
+    {
+        "constituecy": "130",
+        "id": "648",
+        "name": " MASOOL ",
+        "count": "8187"
+    },
+    {
+        "constituecy": "130",
+        "id": "649",
+        "name": " LOMUT ",
+        "count": "12395"
+    },
+    {
+        "constituecy": "130",
+        "id": "650",
+        "name": " WEIWEI ",
+        "count": "13920"
+    },
+    {
+        "constituecy": "131",
+        "id": "651",
+        "name": " SUAM ",
+        "count": "8262"
+    },
+    {
+        "constituecy": "131",
+        "id": "652",
+        "name": " KODICH ",
+        "count": "8354"
+    },
+    {
+        "constituecy": "131",
+        "id": "653",
+        "name": " KASEI ",
+        "count": "7384"
+    },
+    {
+        "constituecy": "131",
+        "id": "654",
+        "name": " KAPCHOK ",
+        "count": "7416"
+    },
+    {
+        "constituecy": "131",
+        "id": "655",
+        "name": " KIWAWA ",
+        "count": "8658"
+    },
+    {
+        "constituecy": "131",
+        "id": "656",
+        "name": " ALALE ",
+        "count": "11072"
+    },
+    {
+        "constituecy": "132",
+        "id": "657",
+        "name": " CHEPARERIA ",
+        "count": "18494"
+    },
+    {
+        "constituecy": "132",
+        "id": "658",
+        "name": " BATEI ",
+        "count": "13075"
+    },
+    {
+        "constituecy": "132",
+        "id": "659",
+        "name": " LELAN ",
+        "count": "15095"
+    },
+    {
+        "constituecy": "132",
+        "id": "660",
+        "name": " TAPACH ",
+        "count": "11742"
+    },
+    {
+        "constituecy": "133",
+        "id": "661",
+        "name": " LODOKEJEK ",
+        "count": "7458"
+    },
+    {
+        "constituecy": "133",
+        "id": "662",
+        "name": " SUGUTA MARMAR ",
+        "count": "7199"
+    },
+    {
+        "constituecy": "133",
+        "id": "663",
+        "name": " MARALAL ",
+        "count": "17580"
+    },
+    {
+        "constituecy": "133",
+        "id": "664",
+        "name": " LOOSUK ",
+        "count": "5280"
+    },
+    {
+        "constituecy": "133",
+        "id": "665",
+        "name": " PORO ",
+        "count": "5873"
+    },
+    {
+        "constituecy": "134",
+        "id": "666",
+        "name": " EL-BARTA ",
+        "count": "5678"
+    },
+    {
+        "constituecy": "134",
+        "id": "667",
+        "name": " NACHOLA ",
+        "count": "3194"
+    },
+    {
+        "constituecy": "134",
+        "id": "668",
+        "name": " NDOTO ",
+        "count": "6088"
+    },
+    {
+        "constituecy": "134",
+        "id": "669",
+        "name": " NYIRO ",
+        "count": "5779"
+    },
+    {
+        "constituecy": "134",
+        "id": "670",
+        "name": " ANGATA NANYOKIE ",
+        "count": "4204"
+    },
+    {
+        "constituecy": "134",
+        "id": "671",
+        "name": " BAAWA ",
+        "count": "4887"
+    },
+    {
+        "constituecy": "135",
+        "id": "672",
+        "name": " WASO ",
+        "count": "6707"
+    },
+    {
+        "constituecy": "135",
+        "id": "673",
+        "name": " WAMBA WEST ",
+        "count": "6816"
+    },
+    {
+        "constituecy": "135",
+        "id": "674",
+        "name": " WAMBA EAST ",
+        "count": "8017"
+    },
+    {
+        "constituecy": "135",
+        "id": "675",
+        "name": " WAMBA NORTH ",
+        "count": "5254"
+    },
+    {
+        "constituecy": "136",
+        "id": "676",
+        "name": " KAPOMBOI ",
+        "count": "21873"
+    },
+    {
+        "constituecy": "136",
+        "id": "677",
+        "name": " KWANZA ",
+        "count": "21487"
+    },
+    {
+        "constituecy": "136",
+        "id": "678",
+        "name": " KEIYO ",
+        "count": "14969"
+    },
+    {
+        "constituecy": "136",
+        "id": "679",
+        "name": " BIDII ",
+        "count": "17510"
+    },
+    {
+        "constituecy": "137",
+        "id": "680",
+        "name": " CHEPCHOINA ",
+        "count": "19068"
+    },
+    {
+        "constituecy": "137",
+        "id": "681",
+        "name": " ENDEBESS ",
+        "count": "15467"
+    },
+    {
+        "constituecy": "137",
+        "id": "682",
+        "name": " MATUMBEI ",
+        "count": "16153"
+    },
+    {
+        "constituecy": "138",
+        "id": "683",
+        "name": " KINYORO ",
+        "count": "17994"
+    },
+    {
+        "constituecy": "138",
+        "id": "684",
+        "name": " MATISI ",
+        "count": "26038"
+    },
+    {
+        "constituecy": "138",
+        "id": "685",
+        "name": " TUWANI ",
+        "count": "20232"
+    },
+    {
+        "constituecy": "138",
+        "id": "686",
+        "name": " SABOTI ",
+        "count": "14202"
+    },
+    {
+        "constituecy": "138",
+        "id": "687",
+        "name": " MACHEWA ",
+        "count": "8918"
+    },
+    {
+        "constituecy": "139",
+        "id": "688",
+        "name": " KIMININI ",
+        "count": "17302"
+    },
+    {
+        "constituecy": "139",
+        "id": "689",
+        "name": " WAITALUK ",
+        "count": "18759"
+    },
+    {
+        "constituecy": "139",
+        "id": "690",
+        "name": " SIRENDE ",
+        "count": "12311"
+    },
+    {
+        "constituecy": "139",
+        "id": "691",
+        "name": " HOSPITAL ",
+        "count": "14565"
+    },
+    {
+        "constituecy": "139",
+        "id": "692",
+        "name": " SIKHENDU ",
+        "count": "11573"
+    },
+    {
+        "constituecy": "139",
+        "id": "693",
+        "name": " NABISWA ",
+        "count": "18730"
+    },
+    {
+        "constituecy": "140",
+        "id": "694",
+        "name": " SINYERERE ",
+        "count": "11603"
+    },
+    {
+        "constituecy": "140",
+        "id": "695",
+        "name": " MAKUTANO ",
+        "count": "9318"
+    },
+    {
+        "constituecy": "140",
+        "id": "696",
+        "name": " KAPLAMAI ",
+        "count": "13319"
+    },
+    {
+        "constituecy": "140",
+        "id": "697",
+        "name": " MOTOSIET ",
+        "count": "15528"
+    },
+    {
+        "constituecy": "140",
+        "id": "698",
+        "name": " CHERANGANY/SUWERWA ",
+        "count": "16734"
+    },
+    {
+        "constituecy": "140",
+        "id": "699",
+        "name": " CHEPSIRO/KIPTOROR ",
+        "count": "11725"
+    },
+    {
+        "constituecy": "140",
+        "id": "700",
+        "name": " SITATUNGA ",
+        "count": "13603"
+    },
+    {
+        "constituecy": "141",
+        "id": "701",
+        "name": " MOI'S BRIDGE ",
+        "count": "12754"
+    },
+    {
+        "constituecy": "141",
+        "id": "702",
+        "name": " KAPKURES ",
+        "count": "9020"
+    },
+    {
+        "constituecy": "141",
+        "id": "703",
+        "name": " ZIWA ",
+        "count": "17523"
+    },
+    {
+        "constituecy": "141",
+        "id": "704",
+        "name": " SEGERO/BARSOMBE ",
+        "count": "13972"
+    },
+    {
+        "constituecy": "141",
+        "id": "705",
+        "name": " KIPSOMBA ",
+        "count": "9928"
+    },
+    {
+        "constituecy": "141",
+        "id": "706",
+        "name": " SOY ",
+        "count": "11500"
+    },
+    {
+        "constituecy": "141",
+        "id": "707",
+        "name": " KUINET/KAPSUSWA ",
+        "count": "18005"
+    },
+    {
+        "constituecy": "142",
+        "id": "708",
+        "name": " NGENYILEL ",
+        "count": "13131"
+    },
+    {
+        "constituecy": "142",
+        "id": "709",
+        "name": " TAPSAGOI ",
+        "count": "16483"
+    },
+    {
+        "constituecy": "142",
+        "id": "710",
+        "name": " KAMAGUT ",
+        "count": "16462"
+    },
+    {
+        "constituecy": "142",
+        "id": "711",
+        "name": " KIPLOMBE ",
+        "count": "26347"
+    },
+    {
+        "constituecy": "142",
+        "id": "712",
+        "name": " KAPSAOS ",
+        "count": "16119"
+    },
+    {
+        "constituecy": "142",
+        "id": "713",
+        "name": " HURUMA ",
+        "count": "31660"
+    },
+    {
+        "constituecy": "143",
+        "id": "714",
+        "name": " TEMBELIO ",
+        "count": "15237"
+    },
+    {
+        "constituecy": "143",
+        "id": "715",
+        "name": " SERGOIT ",
+        "count": "10267"
+    },
+    {
+        "constituecy": "143",
+        "id": "716",
+        "name": " KARUNA/MEIBEKI ",
+        "count": "12979"
+    },
+    {
+        "constituecy": "143",
+        "id": "717",
+        "name": " MOIBEN ",
+        "count": "14350"
+    },
+    {
+        "constituecy": "143",
+        "id": "718",
+        "name": " KIMUMU ",
+        "count": "25044"
+    },
+    {
+        "constituecy": "144",
+        "id": "719",
+        "name": " KAPSOYA ",
+        "count": "23578"
+    },
+    {
+        "constituecy": "144",
+        "id": "720",
+        "name": " KAPTAGAT ",
+        "count": "19923"
+    },
+    {
+        "constituecy": "144",
+        "id": "721",
+        "name": " AINABKOI/OLARE ",
+        "count": "19105"
+    },
+    {
+        "constituecy": "145",
+        "id": "722",
+        "name": " SIMAT/KAPSERET ",
+        "count": "15275"
+    },
+    {
+        "constituecy": "145",
+        "id": "723",
+        "name": " KIPKENYO ",
+        "count": "15509"
+    },
+    {
+        "constituecy": "145",
+        "id": "724",
+        "name": " NGERIA ",
+        "count": "11103"
+    },
+    {
+        "constituecy": "145",
+        "id": "725",
+        "name": " MEGUN ",
+        "count": "8159"
+    },
+    {
+        "constituecy": "145",
+        "id": "726",
+        "name": " LANGAS ",
+        "count": "24763"
+    },
+    {
+        "constituecy": "146",
+        "id": "727",
+        "name": " RACECOURSE ",
+        "count": "20872"
+    },
+    {
+        "constituecy": "146",
+        "id": "728",
+        "name": " CHEPTIRET/KIPCHAMO ",
+        "count": "16723"
+    },
+    {
+        "constituecy": "146",
+        "id": "729",
+        "name": " TULWET/CHUIYAT ",
+        "count": "20134"
+    },
+    {
+        "constituecy": "146",
+        "id": "730",
+        "name": " TARAKWA ",
+        "count": "20213"
+    },
+    {
+        "constituecy": "147",
+        "id": "731",
+        "name": " KAPYEGO ",
+        "count": "8415"
+    },
+    {
+        "constituecy": "147",
+        "id": "732",
+        "name": " SAMBIRIR ",
+        "count": "13394"
+    },
+    {
+        "constituecy": "147",
+        "id": "733",
+        "name": " ENDO ",
+        "count": "14238"
+    },
+    {
+        "constituecy": "147",
+        "id": "734",
+        "name": " EMBOBUT / EMBULOT ",
+        "count": "7625"
+    },
+    {
+        "constituecy": "148",
+        "id": "735",
+        "name": " LELAN ",
+        "count": "10081"
+    },
+    {
+        "constituecy": "148",
+        "id": "736",
+        "name": " SENGWER ",
+        "count": "9603"
+    },
+    {
+        "constituecy": "148",
+        "id": "737",
+        "name": " CHERANG'ANY/CHEBORORWA ",
+        "count": "9679"
+    },
+    {
+        "constituecy": "148",
+        "id": "738",
+        "name": " MOIBEN/KUSERWO ",
+        "count": "10775"
+    },
+    {
+        "constituecy": "148",
+        "id": "739",
+        "name": " KAPSOWAR ",
+        "count": "13187"
+    },
+    {
+        "constituecy": "148",
+        "id": "740",
+        "name": " ARROR ",
+        "count": "5243"
+    },
+    {
+        "constituecy": "149",
+        "id": "741",
+        "name": " EMSOO ",
+        "count": "6461"
+    },
+    {
+        "constituecy": "149",
+        "id": "742",
+        "name": " KAMARINY ",
+        "count": "17416"
+    },
+    {
+        "constituecy": "149",
+        "id": "743",
+        "name": " KAPCHEMUTWA ",
+        "count": "15672"
+    },
+    {
+        "constituecy": "149",
+        "id": "744",
+        "name": " TAMBACH ",
+        "count": "9698"
+    },
+    {
+        "constituecy": "150",
+        "id": "745",
+        "name": " KAPTARAKWA ",
+        "count": "10426"
+    },
+    {
+        "constituecy": "150",
+        "id": "746",
+        "name": " CHEPKORIO ",
+        "count": "14294"
+    },
+    {
+        "constituecy": "150",
+        "id": "747",
+        "name": " SOY NORTH ",
+        "count": "9194"
+    },
+    {
+        "constituecy": "150",
+        "id": "748",
+        "name": " SOY SOUTH ",
+        "count": "10367"
+    },
+    {
+        "constituecy": "150",
+        "id": "749",
+        "name": " KABIEMIT ",
+        "count": "10136"
+    },
+    {
+        "constituecy": "150",
+        "id": "750",
+        "name": " METKEI ",
+        "count": "7980"
+    },
+    {
+        "constituecy": "151",
+        "id": "751",
+        "name": " SONGHOR/SOBA ",
+        "count": "19275"
+    },
+    {
+        "constituecy": "151",
+        "id": "752",
+        "name": " TINDIRET ",
+        "count": "14259"
+    },
+    {
+        "constituecy": "151",
+        "id": "753",
+        "name": " CHEMELIL/CHEMASE ",
+        "count": "8377"
+    },
+    {
+        "constituecy": "151",
+        "id": "754",
+        "name": " KAPSIMOTWO ",
+        "count": "9535"
+    },
+    {
+        "constituecy": "152",
+        "id": "755",
+        "name": " KABWARENG ",
+        "count": "11616"
+    },
+    {
+        "constituecy": "152",
+        "id": "756",
+        "name": " TERIK ",
+        "count": "8867"
+    },
+    {
+        "constituecy": "152",
+        "id": "757",
+        "name": " KEMELOI-MARABA ",
+        "count": "16371"
+    },
+    {
+        "constituecy": "152",
+        "id": "758",
+        "name": " KOBUJOI ",
+        "count": "14495"
+    },
+    {
+        "constituecy": "152",
+        "id": "759",
+        "name": " KAPTUMO-KABOI ",
+        "count": "14355"
+    },
+    {
+        "constituecy": "152",
+        "id": "760",
+        "name": " KOYO-NDURIO ",
+        "count": "12301"
+    },
+    {
+        "constituecy": "153",
+        "id": "761",
+        "name": " NANDI HILLS ",
+        "count": "18328"
+    },
+    {
+        "constituecy": "153",
+        "id": "762",
+        "name": " CHEPKUNYUK ",
+        "count": "19848"
+    },
+    {
+        "constituecy": "153",
+        "id": "763",
+        "name": " OL'LESSOS ",
+        "count": "11254"
+    },
+    {
+        "constituecy": "153",
+        "id": "764",
+        "name": " KAPCHORUA ",
+        "count": "8480"
+    },
+    {
+        "constituecy": "154",
+        "id": "765",
+        "name": " CHEMUNDU/KAPNG'ETUNY ",
+        "count": "14254"
+    },
+    {
+        "constituecy": "154",
+        "id": "766",
+        "name": " KOSIRAI ",
+        "count": "15667"
+    },
+    {
+        "constituecy": "154",
+        "id": "767",
+        "name": " LELMOKWO/NGECHEK ",
+        "count": "14831"
+    },
+    {
+        "constituecy": "154",
+        "id": "768",
+        "name": " KAPTEL/KAMOIYWO ",
+        "count": "18935"
+    },
+    {
+        "constituecy": "154",
+        "id": "769",
+        "name": " KIPTUYA ",
+        "count": "10514"
+    },
+    {
+        "constituecy": "155",
+        "id": "770",
+        "name": " CHEPKUMIA ",
+        "count": "9736"
+    },
+    {
+        "constituecy": "155",
+        "id": "771",
+        "name": " KAPKANGANI ",
+        "count": "9571"
+    },
+    {
+        "constituecy": "155",
+        "id": "772",
+        "name": " KAPSABET ",
+        "count": "19374"
+    },
+    {
+        "constituecy": "155",
+        "id": "773",
+        "name": " KILIBWONI ",
+        "count": "28259"
+    },
+    {
+        "constituecy": "156",
+        "id": "774",
+        "name": " CHEPTERWAI ",
+        "count": "9837"
+    },
+    {
+        "constituecy": "156",
+        "id": "775",
+        "name": " KIPKAREN ",
+        "count": "11748"
+    },
+    {
+        "constituecy": "156",
+        "id": "776",
+        "name": " KURGUNG/SURUNGAI ",
+        "count": "10626"
+    },
+    {
+        "constituecy": "156",
+        "id": "777",
+        "name": " KABIYET ",
+        "count": "12249"
+    },
+    {
+        "constituecy": "156",
+        "id": "778",
+        "name": " NDALAT ",
+        "count": "11127"
+    },
+    {
+        "constituecy": "156",
+        "id": "779",
+        "name": " KABISAGA ",
+        "count": "11750"
+    },
+    {
+        "constituecy": "156",
+        "id": "780",
+        "name": " SANGALO/KEBULONIK ",
+        "count": "10449"
+    },
+    {
+        "constituecy": "157",
+        "id": "781",
+        "name": " TIRIOKO ",
+        "count": "5764"
+    },
+    {
+        "constituecy": "157",
+        "id": "782",
+        "name": " KOLOWA ",
+        "count": "6769"
+    },
+    {
+        "constituecy": "157",
+        "id": "783",
+        "name": " RIBKWO ",
+        "count": "5583"
+    },
+    {
+        "constituecy": "157",
+        "id": "784",
+        "name": " SILALE ",
+        "count": "3744"
+    },
+    {
+        "constituecy": "157",
+        "id": "785",
+        "name": " LOIYAMOROCK ",
+        "count": "4137"
+    },
+    {
+        "constituecy": "157",
+        "id": "786",
+        "name": " TANGULBEI/KOROSSI ",
+        "count": "6818"
+    },
+    {
+        "constituecy": "157",
+        "id": "787",
+        "name": " CHURO/AMAYA ",
+        "count": "6244"
+    },
+    {
+        "constituecy": "158",
+        "id": "788",
+        "name": " BARWESSA ",
+        "count": "12693"
+    },
+    {
+        "constituecy": "158",
+        "id": "789",
+        "name": " KABARTONJO ",
+        "count": "11270"
+    },
+    {
+        "constituecy": "158",
+        "id": "790",
+        "name": " SAIMO/KIPSARAMAN ",
+        "count": "11657"
+    },
+    {
+        "constituecy": "158",
+        "id": "791",
+        "name": " SAIMO/SOI ",
+        "count": "8284"
+    },
+    {
+        "constituecy": "158",
+        "id": "792",
+        "name": " BARTABWA ",
+        "count": "6383"
+    },
+    {
+        "constituecy": "159",
+        "id": "793",
+        "name": " KABARNET ",
+        "count": "15204"
+    },
+    {
+        "constituecy": "159",
+        "id": "794",
+        "name": " SACHO ",
+        "count": "6205"
+    },
+    {
+        "constituecy": "159",
+        "id": "795",
+        "name": " TENGES ",
+        "count": "6020"
+    },
+    {
+        "constituecy": "159",
+        "id": "796",
+        "name": " EWALEL/CHAPCHAP ",
+        "count": "9551"
+    },
+    {
+        "constituecy": "159",
+        "id": "797",
+        "name": " KAPROPITA ",
+        "count": "8940"
+    },
+    {
+        "constituecy": "160",
+        "id": "798",
+        "name": " MARIGAT ",
+        "count": "15859"
+    },
+    {
+        "constituecy": "160",
+        "id": "799",
+        "name": " ILCHAMUS ",
+        "count": "8722"
+    },
+    {
+        "constituecy": "160",
+        "id": "800",
+        "name": " MOCHONGOI ",
+        "count": "12938"
+    },
+    {
+        "constituecy": "160",
+        "id": "801",
+        "name": " MUKUTANI ",
+        "count": "5272"
+    },
+    {
+        "constituecy": "161",
+        "id": "802",
+        "name": " MOGOTIO ",
+        "count": "17642"
+    },
+    {
+        "constituecy": "161",
+        "id": "803",
+        "name": " EMINING ",
+        "count": "10844"
+    },
+    {
+        "constituecy": "161",
+        "id": "804",
+        "name": " KISANANA ",
+        "count": "10436"
+    },
+    {
+        "constituecy": "162",
+        "id": "805",
+        "name": " LEMBUS ",
+        "count": "12471"
+    },
+    {
+        "constituecy": "162",
+        "id": "806",
+        "name": " LEMBUS KWEN ",
+        "count": "10757"
+    },
+    {
+        "constituecy": "162",
+        "id": "807",
+        "name": " RAVINE ",
+        "count": "11047"
+    },
+    {
+        "constituecy": "162",
+        "id": "808",
+        "name": " MUMBERES/MAJI MAZURI ",
+        "count": "11165"
+    },
+    {
+        "constituecy": "162",
+        "id": "809",
+        "name": " LEMBUS/PERKERRA ",
+        "count": "10871"
+    },
+    {
+        "constituecy": "162",
+        "id": "810",
+        "name": " KOIBATEK ",
+        "count": "7763"
+    },
+    {
+        "constituecy": "163",
+        "id": "811",
+        "name": " OL-MORAN ",
+        "count": "10012"
+    },
+    {
+        "constituecy": "163",
+        "id": "812",
+        "name": " RUMURUTI TOWNSHIP ",
+        "count": "13241"
+    },
+    {
+        "constituecy": "163",
+        "id": "813",
+        "name": " GITHIGA ",
+        "count": "16143"
+    },
+    {
+        "constituecy": "163",
+        "id": "814",
+        "name": " MARMANET ",
+        "count": "26627"
+    },
+    {
+        "constituecy": "163",
+        "id": "815",
+        "name": " IGWAMITI ",
+        "count": "43194"
+    },
+    {
+        "constituecy": "163",
+        "id": "816",
+        "name": " SALAMA ",
+        "count": "9648"
+    },
+    {
+        "constituecy": "164",
+        "id": "817",
+        "name": " NGOBIT ",
+        "count": "17999"
+    },
+    {
+        "constituecy": "164",
+        "id": "818",
+        "name": " TIGITHI ",
+        "count": "18269"
+    },
+    {
+        "constituecy": "164",
+        "id": "819",
+        "name": " THINGITHU ",
+        "count": "18893"
+    },
+    {
+        "constituecy": "164",
+        "id": "820",
+        "name": " NANYUKI ",
+        "count": "29014"
+    },
+    {
+        "constituecy": "164",
+        "id": "821",
+        "name": " UMANDE ",
+        "count": "12220"
+    },
+    {
+        "constituecy": "165",
+        "id": "822",
+        "name": " SOSIAN ",
+        "count": "18167"
+    },
+    {
+        "constituecy": "165",
+        "id": "823",
+        "name": " SEGERA ",
+        "count": "11570"
+    },
+    {
+        "constituecy": "165",
+        "id": "824",
+        "name": " MUGOGODO WEST ",
+        "count": "6436"
+    },
+    {
+        "constituecy": "165",
+        "id": "825",
+        "name": " MUGOGODO EAST ",
+        "count": "11579"
+    },
+    {
+        "constituecy": "166",
+        "id": "826",
+        "name": " MARIASHONI ",
+        "count": "9669"
+    },
+    {
+        "constituecy": "166",
+        "id": "827",
+        "name": " ELBURGON ",
+        "count": "24416"
+    },
+    {
+        "constituecy": "166",
+        "id": "828",
+        "name": " TURI ",
+        "count": "15172"
+    },
+    {
+        "constituecy": "166",
+        "id": "829",
+        "name": " MOLO ",
+        "count": "27770"
+    },
+    {
+        "constituecy": "167",
+        "id": "830",
+        "name": " MAU NAROK ",
+        "count": "22346"
+    },
+    {
+        "constituecy": "167",
+        "id": "831",
+        "name": " MAUCHE ",
+        "count": "17605"
+    },
+    {
+        "constituecy": "167",
+        "id": "832",
+        "name": " KIHINGO ",
+        "count": "10237"
+    },
+    {
+        "constituecy": "167",
+        "id": "833",
+        "name": " NESSUIT ",
+        "count": "9692"
+    },
+    {
+        "constituecy": "167",
+        "id": "834",
+        "name": " LARE ",
+        "count": "15498"
+    },
+    {
+        "constituecy": "167",
+        "id": "835",
+        "name": " NJORO ",
+        "count": "37896"
+    },
+    {
+        "constituecy": "168",
+        "id": "836",
+        "name": " BIASHARA ",
+        "count": "11915"
+    },
+    {
+        "constituecy": "168",
+        "id": "837",
+        "name": " HELLS GATE ",
+        "count": "27303"
+    },
+    {
+        "constituecy": "168",
+        "id": "838",
+        "name": " LAKE VIEW ",
+        "count": "21194"
+    },
+    {
+        "constituecy": "168",
+        "id": "839",
+        "name": " MAI MAHIU ",
+        "count": "21934"
+    },
+    {
+        "constituecy": "168",
+        "id": "840",
+        "name": " MAIELLA ",
+        "count": "15666"
+    },
+    {
+        "constituecy": "168",
+        "id": "841",
+        "name": " OLKARIA ",
+        "count": "14768"
+    },
+    {
+        "constituecy": "168",
+        "id": "842",
+        "name": " NAIVASHA EAST ",
+        "count": "15448"
+    },
+    {
+        "constituecy": "168",
+        "id": "843",
+        "name": " VIWANDANI ",
+        "count": "28900"
+    },
+    {
+        "constituecy": "169",
+        "id": "844",
+        "name": " GILGIL ",
+        "count": "29198"
+    },
+    {
+        "constituecy": "169",
+        "id": "845",
+        "name": " ELEMENTAITA ",
+        "count": "15370"
+    },
+    {
+        "constituecy": "169",
+        "id": "846",
+        "name": " MBARUK/EBURU ",
+        "count": "21710"
+    },
+    {
+        "constituecy": "169",
+        "id": "847",
+        "name": " MALEWA WEST ",
+        "count": "15009"
+    },
+    {
+        "constituecy": "169",
+        "id": "848",
+        "name": " MURINDATI ",
+        "count": "14367"
+    },
+    {
+        "constituecy": "170",
+        "id": "849",
+        "name": " AMALO ",
+        "count": "13110"
+    },
+    {
+        "constituecy": "170",
+        "id": "850",
+        "name": " KERINGET ",
+        "count": "20736"
+    },
+    {
+        "constituecy": "170",
+        "id": "851",
+        "name": " KIPTAGICH ",
+        "count": "15226"
+    },
+    {
+        "constituecy": "170",
+        "id": "852",
+        "name": " TINET ",
+        "count": "17096"
+    },
+    {
+        "constituecy": "171",
+        "id": "853",
+        "name": " KIPTORORO ",
+        "count": "17603"
+    },
+    {
+        "constituecy": "171",
+        "id": "854",
+        "name": " NYOTA ",
+        "count": "23206"
+    },
+    {
+        "constituecy": "171",
+        "id": "855",
+        "name": " SIRIKWA ",
+        "count": "12828"
+    },
+    {
+        "constituecy": "171",
+        "id": "856",
+        "name": " KAMARA ",
+        "count": "17026"
+    },
+    {
+        "constituecy": "172",
+        "id": "857",
+        "name": " SUBUKIA ",
+        "count": "19402"
+    },
+    {
+        "constituecy": "172",
+        "id": "858",
+        "name": " WASEGES ",
+        "count": "15666"
+    },
+    {
+        "constituecy": "172",
+        "id": "859",
+        "name": " KABAZI ",
+        "count": "20531"
+    },
+    {
+        "constituecy": "173",
+        "id": "860",
+        "name": " MENENGAI WEST ",
+        "count": "19389"
+    },
+    {
+        "constituecy": "173",
+        "id": "861",
+        "name": " SOIN ",
+        "count": "14523"
+    },
+    {
+        "constituecy": "173",
+        "id": "862",
+        "name": " VISOI ",
+        "count": "20555"
+    },
+    {
+        "constituecy": "173",
+        "id": "863",
+        "name": " MOSOP ",
+        "count": "19670"
+    },
+    {
+        "constituecy": "173",
+        "id": "864",
+        "name": " SOLAI ",
+        "count": "10488"
+    },
+    {
+        "constituecy": "174",
+        "id": "865",
+        "name": " DUNDORI ",
+        "count": "15238"
+    },
+    {
+        "constituecy": "174",
+        "id": "866",
+        "name": " KABATINI ",
+        "count": "13154"
+    },
+    {
+        "constituecy": "174",
+        "id": "867",
+        "name": " KIAMAINA ",
+        "count": "28983"
+    },
+    {
+        "constituecy": "174",
+        "id": "868",
+        "name": " LANET/UMOJA ",
+        "count": "19251"
+    },
+    {
+        "constituecy": "174",
+        "id": "869",
+        "name": " BAHATI ",
+        "count": "20414"
+    },
+    {
+        "constituecy": "175",
+        "id": "870",
+        "name": " BARUT ",
+        "count": "6699"
+    },
+    {
+        "constituecy": "175",
+        "id": "871",
+        "name": " LONDON ",
+        "count": "22421"
+    },
+    {
+        "constituecy": "175",
+        "id": "872",
+        "name": " KAPTEMBWO ",
+        "count": "37748"
+    },
+    {
+        "constituecy": "175",
+        "id": "873",
+        "name": " KAPKURES ",
+        "count": "10590"
+    },
+    {
+        "constituecy": "175",
+        "id": "874",
+        "name": " RHODA ",
+        "count": "14108"
+    },
+    {
+        "constituecy": "175",
+        "id": "875",
+        "name": " SHAABAB ",
+        "count": "20561"
+    },
+    {
+        "constituecy": "176",
+        "id": "876",
+        "name": " BIASHARA ",
+        "count": "33057"
+    },
+    {
+        "constituecy": "176",
+        "id": "877",
+        "name": " KIVUMBINI ",
+        "count": "14199"
+    },
+    {
+        "constituecy": "176",
+        "id": "878",
+        "name": " FLAMINGO ",
+        "count": "21919"
+    },
+    {
+        "constituecy": "176",
+        "id": "879",
+        "name": " MENENGAI ",
+        "count": "23804"
+    },
+    {
+        "constituecy": "176",
+        "id": "880",
+        "name": " NAKURU EAST ",
+        "count": "32572"
+    },
+    {
+        "constituecy": "177",
+        "id": "881",
+        "name": " KILGORIS CENTRAL ",
+        "count": "18433"
+    },
+    {
+        "constituecy": "177",
+        "id": "882",
+        "name": " KEYIAN ",
+        "count": "10241"
+    },
+    {
+        "constituecy": "177",
+        "id": "883",
+        "name": " ANGATA BARIKOI ",
+        "count": "10634"
+    },
+    {
+        "constituecy": "177",
+        "id": "884",
+        "name": " SHANKOE ",
+        "count": "12740"
+    },
+    {
+        "constituecy": "177",
+        "id": "885",
+        "name": " KIMINTET ",
+        "count": "10401"
+    },
+    {
+        "constituecy": "177",
+        "id": "886",
+        "name": " LOLGORIAN ",
+        "count": "14434"
+    },
+    {
+        "constituecy": "178",
+        "id": "887",
+        "name": " ILKERIN ",
+        "count": "13509"
+    },
+    {
+        "constituecy": "178",
+        "id": "888",
+        "name": " OLOlMASANI ",
+        "count": "12560"
+    },
+    {
+        "constituecy": "178",
+        "id": "889",
+        "name": " MOGONDO ",
+        "count": "8019"
+    },
+    {
+        "constituecy": "178",
+        "id": "890",
+        "name": " KAPSASIAN ",
+        "count": "9952"
+    },
+    {
+        "constituecy": "179",
+        "id": "891",
+        "name": " OLPUSIMORU ",
+        "count": "9260"
+    },
+    {
+        "constituecy": "179",
+        "id": "892",
+        "name": " OLOKURTO ",
+        "count": "11038"
+    },
+    {
+        "constituecy": "179",
+        "id": "893",
+        "name": " NAROK TOWN ",
+        "count": "29452"
+    },
+    {
+        "constituecy": "179",
+        "id": "894",
+        "name": " NKARETA ",
+        "count": "9611"
+    },
+    {
+        "constituecy": "179",
+        "id": "895",
+        "name": " OLORROPIL ",
+        "count": "13829"
+    },
+    {
+        "constituecy": "179",
+        "id": "896",
+        "name": " MELILI ",
+        "count": "15475"
+    },
+    {
+        "constituecy": "180",
+        "id": "897",
+        "name": " MOSIRO ",
+        "count": "14164"
+    },
+    {
+        "constituecy": "180",
+        "id": "898",
+        "name": " ILDAMAT ",
+        "count": "10070"
+    },
+    {
+        "constituecy": "180",
+        "id": "899",
+        "name": " KEEKONYOKIE ",
+        "count": "11121"
+    },
+    {
+        "constituecy": "180",
+        "id": "900",
+        "name": " SUSWA ",
+        "count": "11180"
+    },
+    {
+        "constituecy": "181",
+        "id": "901",
+        "name": " MAJIMOTO/NAROOSURA ",
+        "count": "19825"
+    },
+    {
+        "constituecy": "181",
+        "id": "902",
+        "name": " OLOLULUNG'A ",
+        "count": "15922"
+    },
+    {
+        "constituecy": "181",
+        "id": "903",
+        "name": " MELELO ",
+        "count": "11373"
+    },
+    {
+        "constituecy": "181",
+        "id": "904",
+        "name": " LOITA ",
+        "count": "11350"
+    },
+    {
+        "constituecy": "181",
+        "id": "905",
+        "name": " SOGOO ",
+        "count": "10072"
+    },
+    {
+        "constituecy": "181",
+        "id": "906",
+        "name": " SAGAMIAN ",
+        "count": "7523"
+    },
+    {
+        "constituecy": "182",
+        "id": "907",
+        "name": " ILMOTIOK ",
+        "count": "19176"
+    },
+    {
+        "constituecy": "182",
+        "id": "908",
+        "name": " MARA ",
+        "count": "16597"
+    },
+    {
+        "constituecy": "182",
+        "id": "909",
+        "name": " SIANA ",
+        "count": "17882"
+    },
+    {
+        "constituecy": "182",
+        "id": "910",
+        "name": " NAIKARRA ",
+        "count": "12941"
+    },
+    {
+        "constituecy": "183",
+        "id": "911",
+        "name": " OLKERI ",
+        "count": "31549"
+    },
+    {
+        "constituecy": "183",
+        "id": "912",
+        "name": " ONGATA RONGAI ",
+        "count": "27576"
+    },
+    {
+        "constituecy": "183",
+        "id": "913",
+        "name": " NKAIMURUNYA ",
+        "count": "33207"
+    },
+    {
+        "constituecy": "183",
+        "id": "914",
+        "name": " OLOOLUA ",
+        "count": "19810"
+    },
+    {
+        "constituecy": "183",
+        "id": "915",
+        "name": " NGONG ",
+        "count": "22738"
+    },
+    {
+        "constituecy": "184",
+        "id": "916",
+        "name": " PURKO ",
+        "count": "4848"
+    },
+    {
+        "constituecy": "184",
+        "id": "917",
+        "name": " ILDAMAT ",
+        "count": "9535"
+    },
+    {
+        "constituecy": "184",
+        "id": "918",
+        "name": " DALALEKUTUK ",
+        "count": "17734"
+    },
+    {
+        "constituecy": "184",
+        "id": "919",
+        "name": " MATAPATO NORTH ",
+        "count": "16776"
+    },
+    {
+        "constituecy": "184",
+        "id": "920",
+        "name": " MATAPATO SOUTH ",
+        "count": "16930"
+    },
+    {
+        "constituecy": "185",
+        "id": "921",
+        "name": " KAPUTIEI NORTH ",
+        "count": "21660"
+    },
+    {
+        "constituecy": "185",
+        "id": "922",
+        "name": " KITENGELA ",
+        "count": "38746"
+    },
+    {
+        "constituecy": "185",
+        "id": "923",
+        "name": " OLOOSIRKON/SHOLINKE ",
+        "count": "33748"
+    },
+    {
+        "constituecy": "185",
+        "id": "924",
+        "name": " KENYAWA-POKA ",
+        "count": "12782"
+    },
+    {
+        "constituecy": "185",
+        "id": "925",
+        "name": " IMARORO ",
+        "count": "9400"
+    },
+    {
+        "constituecy": "186",
+        "id": "926",
+        "name": " KEEKONYOKIE ",
+        "count": "33307"
+    },
+    {
+        "constituecy": "186",
+        "id": "927",
+        "name": " ILOODOKILANI ",
+        "count": "9476"
+    },
+    {
+        "constituecy": "186",
+        "id": "928",
+        "name": " MAGADI ",
+        "count": "11204"
+    },
+    {
+        "constituecy": "186",
+        "id": "929",
+        "name": " EWUASO OoNKIDONG'I ",
+        "count": "16972"
+    },
+    {
+        "constituecy": "186",
+        "id": "930",
+        "name": " MOSIRO ",
+        "count": "4214"
+    },
+    {
+        "constituecy": "187",
+        "id": "931",
+        "name": " ENTONET/LENKISIM ",
+        "count": "12775"
+    },
+    {
+        "constituecy": "187",
+        "id": "932",
+        "name": " MBIRIKANI/ESELENKEI ",
+        "count": "10725"
+    },
+    {
+        "constituecy": "187",
+        "id": "933",
+        "name": " KUKU ",
+        "count": "18515"
+    },
+    {
+        "constituecy": "187",
+        "id": "934",
+        "name": " ROMBO ",
+        "count": "17467"
+    },
+    {
+        "constituecy": "187",
+        "id": "935",
+        "name": " KIMANA ",
+        "count": "11579"
+    },
+    {
+        "constituecy": "188",
+        "id": "936",
+        "name": " LONDIANI ",
+        "count": "14597"
+    },
+    {
+        "constituecy": "188",
+        "id": "937",
+        "name": " KEDOWA/KIMUGUL ",
+        "count": "21798"
+    },
+    {
+        "constituecy": "188",
+        "id": "938",
+        "name": " CHEPSEON ",
+        "count": "18219"
+    },
+    {
+        "constituecy": "188",
+        "id": "939",
+        "name": " TENDENO/SORGET ",
+        "count": "9065"
+    },
+    {
+        "constituecy": "189",
+        "id": "940",
+        "name": " KUNYAK ",
+        "count": "8876"
+    },
+    {
+        "constituecy": "189",
+        "id": "941",
+        "name": " KAMASIAN ",
+        "count": "11827"
+    },
+    {
+        "constituecy": "189",
+        "id": "942",
+        "name": " KIPKELION ",
+        "count": "15140"
+    },
+    {
+        "constituecy": "189",
+        "id": "943",
+        "name": " CHILCHILA ",
+        "count": "17117"
+    },
+    {
+        "constituecy": "190",
+        "id": "944",
+        "name": " KAPSOIT ",
+        "count": "16117"
+    },
+    {
+        "constituecy": "190",
+        "id": "945",
+        "name": " AINAMOI ",
+        "count": "10473"
+    },
+    {
+        "constituecy": "190",
+        "id": "946",
+        "name": " KAPKUGERWET ",
+        "count": "17635"
+    },
+    {
+        "constituecy": "190",
+        "id": "947",
+        "name": " KIPCHEBOR ",
+        "count": "16520"
+    },
+    {
+        "constituecy": "190",
+        "id": "948",
+        "name": " KIPCHIMCHIM ",
+        "count": "7969"
+    },
+    {
+        "constituecy": "190",
+        "id": "949",
+        "name": " KAPSAOS ",
+        "count": "16310"
+    },
+    {
+        "constituecy": "191",
+        "id": "950",
+        "name": " KISIARA ",
+        "count": "12486"
+    },
+    {
+        "constituecy": "191",
+        "id": "951",
+        "name": " TEBESONIK ",
+        "count": "11471"
+    },
+    {
+        "constituecy": "191",
+        "id": "952",
+        "name": " CHEBOIN ",
+        "count": "13297"
+    },
+    {
+        "constituecy": "191",
+        "id": "953",
+        "name": " CHEMOSOT ",
+        "count": "16344"
+    },
+    {
+        "constituecy": "191",
+        "id": "954",
+        "name": " LITEIN ",
+        "count": "15858"
+    },
+    {
+        "constituecy": "191",
+        "id": "955",
+        "name": " CHEPLANGET ",
+        "count": "13560"
+    },
+    {
+        "constituecy": "191",
+        "id": "956",
+        "name": " KAPKATET ",
+        "count": "12304"
+    },
+    {
+        "constituecy": "192",
+        "id": "957",
+        "name": " WALDAI ",
+        "count": "20119"
+    },
+    {
+        "constituecy": "192",
+        "id": "958",
+        "name": " KABIANGA ",
+        "count": "21052"
+    },
+    {
+        "constituecy": "192",
+        "id": "959",
+        "name": " CHEPTORORIET/SERETUT ",
+        "count": "11964"
+    },
+    {
+        "constituecy": "192",
+        "id": "960",
+        "name": " CHAIK ",
+        "count": "10584"
+    },
+    {
+        "constituecy": "192",
+        "id": "961",
+        "name": " KAPSUSER ",
+        "count": "11456"
+    },
+    {
+        "constituecy": "193",
+        "id": "962",
+        "name": " SIGOWET ",
+        "count": "18986"
+    },
+    {
+        "constituecy": "193",
+        "id": "963",
+        "name": " KAPLELARTET ",
+        "count": "16262"
+    },
+    {
+        "constituecy": "193",
+        "id": "964",
+        "name": " SOLIAT ",
+        "count": "9682"
+    },
+    {
+        "constituecy": "193",
+        "id": "965",
+        "name": " SOIN ",
+        "count": "10979"
+    },
+    {
+        "constituecy": "194",
+        "id": "966",
+        "name": " NDANAI/ABOSI ",
+        "count": "17049"
+    },
+    {
+        "constituecy": "194",
+        "id": "967",
+        "name": " CHEMAGEL ",
+        "count": "18870"
+    },
+    {
+        "constituecy": "194",
+        "id": "968",
+        "name": " KIPSONOI ",
+        "count": "17736"
+    },
+    {
+        "constituecy": "194",
+        "id": "969",
+        "name": " KAPLETUNDO ",
+        "count": "20992"
+    },
+    {
+        "constituecy": "194",
+        "id": "970",
+        "name": " RONGENA/MANARET ",
+        "count": "12034"
+    },
+    {
+        "constituecy": "195",
+        "id": "971",
+        "name": " KONG'ASIS ",
+        "count": "14005"
+    },
+    {
+        "constituecy": "195",
+        "id": "972",
+        "name": " NYANGORES ",
+        "count": "19286"
+    },
+    {
+        "constituecy": "195",
+        "id": "973",
+        "name": " SIGOR ",
+        "count": "15849"
+    },
+    {
+        "constituecy": "195",
+        "id": "974",
+        "name": " CHEBUNYO ",
+        "count": "15982"
+    },
+    {
+        "constituecy": "195",
+        "id": "975",
+        "name": " SIONGIROI ",
+        "count": "15018"
+    },
+    {
+        "constituecy": "196",
+        "id": "976",
+        "name": " MERIGI ",
+        "count": "14673"
+    },
+    {
+        "constituecy": "196",
+        "id": "977",
+        "name": " KEMBU ",
+        "count": "12901"
+    },
+    {
+        "constituecy": "196",
+        "id": "978",
+        "name": " LONGISA ",
+        "count": "14576"
+    },
+    {
+        "constituecy": "196",
+        "id": "979",
+        "name": " KIPRERES ",
+        "count": "12101"
+    },
+    {
+        "constituecy": "196",
+        "id": "980",
+        "name": " CHEMANER ",
+        "count": "9389"
+    },
+    {
+        "constituecy": "197",
+        "id": "981",
+        "name": " SILIBWET TOWNSHIP ",
+        "count": "17882"
+    },
+    {
+        "constituecy": "197",
+        "id": "982",
+        "name": " NDARAWETA ",
+        "count": "12233"
+    },
+    {
+        "constituecy": "197",
+        "id": "983",
+        "name": " SINGORWET ",
+        "count": "12483"
+    },
+    {
+        "constituecy": "197",
+        "id": "984",
+        "name": " CHESOEN ",
+        "count": "17516"
+    },
+    {
+        "constituecy": "197",
+        "id": "985",
+        "name": " MUTARAKWA ",
+        "count": "11295"
+    },
+    {
+        "constituecy": "198",
+        "id": "986",
+        "name": " CHEPCHABAS ",
+        "count": "9316"
+    },
+    {
+        "constituecy": "198",
+        "id": "987",
+        "name": " KIMULOT ",
+        "count": "12321"
+    },
+    {
+        "constituecy": "198",
+        "id": "988",
+        "name": " MOGOGOSIEK ",
+        "count": "18069"
+    },
+    {
+        "constituecy": "198",
+        "id": "989",
+        "name": " BOITO ",
+        "count": "17019"
+    },
+    {
+        "constituecy": "198",
+        "id": "990",
+        "name": " EMBOMOS ",
+        "count": "18390"
+    },
+    {
+        "constituecy": "199",
+        "id": "991",
+        "name": " MAUTUMA ",
+        "count": "13465"
+    },
+    {
+        "constituecy": "199",
+        "id": "992",
+        "name": " LUGARI ",
+        "count": "15331"
+    },
+    {
+        "constituecy": "199",
+        "id": "993",
+        "name": " LUMAKANDA ",
+        "count": "17655"
+    },
+    {
+        "constituecy": "199",
+        "id": "994",
+        "name": " CHEKALINI ",
+        "count": "11992"
+    },
+    {
+        "constituecy": "199",
+        "id": "995",
+        "name": " CHEVAYWA ",
+        "count": "14821"
+    },
+    {
+        "constituecy": "199",
+        "id": "996",
+        "name": " LWANDETI ",
+        "count": "13644"
+    },
+    {
+        "constituecy": "200",
+        "id": "997",
+        "name": " LIKUYANI ",
+        "count": "16545"
+    },
+    {
+        "constituecy": "200",
+        "id": "998",
+        "name": " SANGO ",
+        "count": "12022"
+    },
+    {
+        "constituecy": "200",
+        "id": "999",
+        "name": " KONGONI ",
+        "count": "14564"
+    },
+    {
+        "constituecy": "200",
+        "id": "1000",
+        "name": " NZOIA ",
+        "count": "16973"
+    },
+    {
+        "constituecy": "200",
+        "id": "1001",
+        "name": " SINOKO ",
+        "count": "12345"
+    },
+    {
+        "constituecy": "201",
+        "id": "1002",
+        "name": " WEST KABRAS ",
+        "count": "11699"
+    },
+    {
+        "constituecy": "201",
+        "id": "1003",
+        "name": " CHEMUCHE ",
+        "count": "14139"
+    },
+    {
+        "constituecy": "201",
+        "id": "1004",
+        "name": " EAST KABRAS ",
+        "count": "9995"
+    },
+    {
+        "constituecy": "201",
+        "id": "1005",
+        "name": " BUTALI/CHEGULO ",
+        "count": "15146"
+    },
+    {
+        "constituecy": "201",
+        "id": "1006",
+        "name": " MANDA-SHIVANGA ",
+        "count": "14677"
+    },
+    {
+        "constituecy": "201",
+        "id": "1007",
+        "name": " SHIRUGU-MUGAI ",
+        "count": "12238"
+    },
+    {
+        "constituecy": "201",
+        "id": "1008",
+        "name": " SOUTH KABRAS ",
+        "count": "16523"
+    },
+    {
+        "constituecy": "202",
+        "id": "1009",
+        "name": " BUTSOTSO EAST ",
+        "count": "11165"
+    },
+    {
+        "constituecy": "202",
+        "id": "1010",
+        "name": " BUTSOTSO SOUTH ",
+        "count": "9094"
+    },
+    {
+        "constituecy": "202",
+        "id": "1011",
+        "name": " BUTSOTSO CENTRAL ",
+        "count": "13902"
+    },
+    {
+        "constituecy": "202",
+        "id": "1012",
+        "name": " SHEYWE ",
+        "count": "30312"
+    },
+    {
+        "constituecy": "202",
+        "id": "1013",
+        "name": " MAHIAKALO ",
+        "count": "9750"
+    },
+    {
+        "constituecy": "202",
+        "id": "1014",
+        "name": " SHIRERE ",
+        "count": "15404"
+    },
+    {
+        "constituecy": "203",
+        "id": "1015",
+        "name": " INGOSTSE-MATHIA ",
+        "count": "10171"
+    },
+    {
+        "constituecy": "203",
+        "id": "1016",
+        "name": " SHINOYI-SHIKOMARI-ESUMEYIA ",
+        "count": "11689"
+    },
+    {
+        "constituecy": "203",
+        "id": "1017",
+        "name": " BUNYALA WEST ",
+        "count": "15946"
+    },
+    {
+        "constituecy": "203",
+        "id": "1018",
+        "name": " BUNYALA EAST ",
+        "count": "11126"
+    },
+    {
+        "constituecy": "203",
+        "id": "1019",
+        "name": " BUNYALA CENTRAL ",
+        "count": "15811"
+    },
+    {
+        "constituecy": "204",
+        "id": "1020",
+        "name": " MUMIAS CENTRAL ",
+        "count": "16551"
+    },
+    {
+        "constituecy": "204",
+        "id": "1021",
+        "name": " MUMIAS NORTH ",
+        "count": "9113"
+    },
+    {
+        "constituecy": "204",
+        "id": "1022",
+        "name": " ETENJE ",
+        "count": "13017"
+    },
+    {
+        "constituecy": "204",
+        "id": "1023",
+        "name": " MUSANDA ",
+        "count": "14636"
+    },
+    {
+        "constituecy": "205",
+        "id": "1024",
+        "name": " LUSHEYA/LUBINU ",
+        "count": "16731"
+    },
+    {
+        "constituecy": "205",
+        "id": "1025",
+        "name": " MALAHA/ISONGO/MAKUNGA ",
+        "count": "14885"
+    },
+    {
+        "constituecy": "205",
+        "id": "1026",
+        "name": " EAST WANGA ",
+        "count": "18952"
+    },
+    {
+        "constituecy": "206",
+        "id": "1027",
+        "name": " KOYONZO ",
+        "count": "19476"
+    },
+    {
+        "constituecy": "206",
+        "id": "1028",
+        "name": " KHOLERA ",
+        "count": "14513"
+    },
+    {
+        "constituecy": "206",
+        "id": "1029",
+        "name": " KHALABA ",
+        "count": "9414"
+    },
+    {
+        "constituecy": "206",
+        "id": "1030",
+        "name": " MAYONI ",
+        "count": "15352"
+    },
+    {
+        "constituecy": "206",
+        "id": "1031",
+        "name": " NAMAMALI ",
+        "count": "15175"
+    },
+    {
+        "constituecy": "207",
+        "id": "1032",
+        "name": " MARAMA WEST ",
+        "count": "16581"
+    },
+    {
+        "constituecy": "207",
+        "id": "1033",
+        "name": " MARAMA CENTRAL ",
+        "count": "20328"
+    },
+    {
+        "constituecy": "207",
+        "id": "1034",
+        "name": " MARENYO - SHIANDA ",
+        "count": "10996"
+    },
+    {
+        "constituecy": "207",
+        "id": "1035",
+        "name": " MARAMA NORTH ",
+        "count": "10961"
+    },
+    {
+        "constituecy": "207",
+        "id": "1036",
+        "name": " MARAMA SOUTH ",
+        "count": "11358"
+    },
+    {
+        "constituecy": "208",
+        "id": "1037",
+        "name": " KISA NORTH ",
+        "count": "10810"
+    },
+    {
+        "constituecy": "208",
+        "id": "1038",
+        "name": " KISA EAST ",
+        "count": "10385"
+    },
+    {
+        "constituecy": "208",
+        "id": "1039",
+        "name": " KISA WEST ",
+        "count": "10815"
+    },
+    {
+        "constituecy": "208",
+        "id": "1040",
+        "name": " KISA CENTRAL ",
+        "count": "23081"
+    },
+    {
+        "constituecy": "209",
+        "id": "1041",
+        "name": " ISUKHA NORTH ",
+        "count": "11965"
+    },
+    {
+        "constituecy": "209",
+        "id": "1042",
+        "name": " MURHANDA ",
+        "count": "12994"
+    },
+    {
+        "constituecy": "209",
+        "id": "1043",
+        "name": " ISUKHA CENTRAL ",
+        "count": "16111"
+    },
+    {
+        "constituecy": "209",
+        "id": "1044",
+        "name": " ISUKHA SOUTH ",
+        "count": "16003"
+    },
+    {
+        "constituecy": "209",
+        "id": "1045",
+        "name": " ISUKHA EAST ",
+        "count": "9724"
+    },
+    {
+        "constituecy": "209",
+        "id": "1046",
+        "name": " ISUKHA WEST ",
+        "count": "10181"
+    },
+    {
+        "constituecy": "210",
+        "id": "1047",
+        "name": " IDAKHO SOUTH ",
+        "count": "10404"
+    },
+    {
+        "constituecy": "210",
+        "id": "1048",
+        "name": " IDAKHO EAST ",
+        "count": "15195"
+    },
+    {
+        "constituecy": "210",
+        "id": "1049",
+        "name": " IDAKHO NORTH ",
+        "count": "13605"
+    },
+    {
+        "constituecy": "210",
+        "id": "1050",
+        "name": " IDAKHO CENTRAL ",
+        "count": "17095"
+    },
+    {
+        "constituecy": "211",
+        "id": "1051",
+        "name": " LUGAGA-WAMULUMA ",
+        "count": "17381"
+    },
+    {
+        "constituecy": "211",
+        "id": "1052",
+        "name": " SOUTH MARAGOLI ",
+        "count": "11192"
+    },
+    {
+        "constituecy": "211",
+        "id": "1053",
+        "name": " CENTRAL MARAGOLI ",
+        "count": "13114"
+    },
+    {
+        "constituecy": "211",
+        "id": "1054",
+        "name": " MUNGOMA ",
+        "count": "10602"
+    },
+    {
+        "constituecy": "212",
+        "id": "1055",
+        "name": " LYADUYWA/IZAVA ",
+        "count": "14899"
+    },
+    {
+        "constituecy": "212",
+        "id": "1056",
+        "name": " WEST SABATIA ",
+        "count": "11930"
+    },
+    {
+        "constituecy": "212",
+        "id": "1057",
+        "name": " CHAVAKALI ",
+        "count": "10564"
+    },
+    {
+        "constituecy": "212",
+        "id": "1058",
+        "name": " NORTH MARAGOLI ",
+        "count": "10314"
+    },
+    {
+        "constituecy": "212",
+        "id": "1059",
+        "name": " WODANGA ",
+        "count": "11351"
+    },
+    {
+        "constituecy": "212",
+        "id": "1060",
+        "name": " BUSALI ",
+        "count": "11817"
+    },
+    {
+        "constituecy": "213",
+        "id": "1061",
+        "name": " SHIRU ",
+        "count": "12686"
+    },
+    {
+        "constituecy": "213",
+        "id": "1062",
+        "name": " GISAMBAI ",
+        "count": "10216"
+    },
+    {
+        "constituecy": "213",
+        "id": "1063",
+        "name": " SHAMAKHOKHO ",
+        "count": "14503"
+    },
+    {
+        "constituecy": "213",
+        "id": "1064",
+        "name": " BANJA ",
+        "count": "11950"
+    },
+    {
+        "constituecy": "213",
+        "id": "1065",
+        "name": " MUHUDU ",
+        "count": "9183"
+    },
+    {
+        "constituecy": "213",
+        "id": "1066",
+        "name": " TAMBUA ",
+        "count": "10913"
+    },
+    {
+        "constituecy": "213",
+        "id": "1067",
+        "name": " JEPKOYAI ",
+        "count": "10933"
+    },
+    {
+        "constituecy": "214",
+        "id": "1068",
+        "name": " LUANDA TOWNSHIP ",
+        "count": "10486"
+    },
+    {
+        "constituecy": "214",
+        "id": "1069",
+        "name": " WEMILABI ",
+        "count": "11618"
+    },
+    {
+        "constituecy": "214",
+        "id": "1070",
+        "name": " MWIBONA ",
+        "count": "10132"
+    },
+    {
+        "constituecy": "214",
+        "id": "1071",
+        "name": " LUANDA SOUTH ",
+        "count": "11484"
+    },
+    {
+        "constituecy": "214",
+        "id": "1072",
+        "name": " EMABUNGO ",
+        "count": "12590"
+    },
+    {
+        "constituecy": "215",
+        "id": "1073",
+        "name": " NORTH EAST BUNYORE ",
+        "count": "16648"
+    },
+    {
+        "constituecy": "215",
+        "id": "1074",
+        "name": " CENTRAL BUNYORE ",
+        "count": "16731"
+    },
+    {
+        "constituecy": "215",
+        "id": "1075",
+        "name": " WEST BUNYORE ",
+        "count": "16806"
+    },
+    {
+        "constituecy": "216",
+        "id": "1076",
+        "name": " CHEPTAIS ",
+        "count": "13342"
+    },
+    {
+        "constituecy": "216",
+        "id": "1077",
+        "name": " CHESIKAKI ",
+        "count": "11375"
+    },
+    {
+        "constituecy": "216",
+        "id": "1078",
+        "name": " CHEPYUK ",
+        "count": "11075"
+    },
+    {
+        "constituecy": "216",
+        "id": "1079",
+        "name": " KAPKATENY ",
+        "count": "12141"
+    },
+    {
+        "constituecy": "216",
+        "id": "1080",
+        "name": " KAPTAMA ",
+        "count": "13714"
+    },
+    {
+        "constituecy": "216",
+        "id": "1081",
+        "name": " ELGON ",
+        "count": "14512"
+    },
+    {
+        "constituecy": "217",
+        "id": "1082",
+        "name": " NAMWELA ",
+        "count": "13686"
+    },
+    {
+        "constituecy": "217",
+        "id": "1083",
+        "name": " MALAKISI/SOUTH KULISIRU ",
+        "count": "17728"
+    },
+    {
+        "constituecy": "217",
+        "id": "1084",
+        "name": " LWANDANYI ",
+        "count": "17303"
+    },
+    {
+        "constituecy": "218",
+        "id": "1085",
+        "name": " KABUCHAI/CHWELE ",
+        "count": "18288"
+    },
+    {
+        "constituecy": "218",
+        "id": "1086",
+        "name": " WEST NALONDO ",
+        "count": "16198"
+    },
+    {
+        "constituecy": "218",
+        "id": "1087",
+        "name": " BWAKE/LUUYA ",
+        "count": "15366"
+    },
+    {
+        "constituecy": "218",
+        "id": "1088",
+        "name": " MUKUYUNI ",
+        "count": "17369"
+    },
+    {
+        "constituecy": "219",
+        "id": "1089",
+        "name": " SOUTH BUKUSU ",
+        "count": "11587"
+    },
+    {
+        "constituecy": "219",
+        "id": "1090",
+        "name": " BUMULA ",
+        "count": "13425"
+    },
+    {
+        "constituecy": "219",
+        "id": "1091",
+        "name": " KHASOKO ",
+        "count": "9270"
+    },
+    {
+        "constituecy": "219",
+        "id": "1092",
+        "name": " KABULA ",
+        "count": "9817"
+    },
+    {
+        "constituecy": "219",
+        "id": "1093",
+        "name": " KIMAETI ",
+        "count": "15546"
+    },
+    {
+        "constituecy": "219",
+        "id": "1094",
+        "name": " WEST BUKUSU ",
+        "count": "9769"
+    },
+    {
+        "constituecy": "219",
+        "id": "1095",
+        "name": " SIBOTI ",
+        "count": "12633"
+    },
+    {
+        "constituecy": "220",
+        "id": "1096",
+        "name": " BUKEMBE WEST ",
+        "count": "10831"
+    },
+    {
+        "constituecy": "220",
+        "id": "1097",
+        "name": " BUKEMBE EAST ",
+        "count": "13035"
+    },
+    {
+        "constituecy": "220",
+        "id": "1098",
+        "name": " TOWNSHIP ",
+        "count": "17919"
+    },
+    {
+        "constituecy": "220",
+        "id": "1099",
+        "name": " KHALABA ",
+        "count": "14167"
+    },
+    {
+        "constituecy": "220",
+        "id": "1100",
+        "name": " MUSIKOMA ",
+        "count": "15826"
+    },
+    {
+        "constituecy": "220",
+        "id": "1101",
+        "name": " EAST SANG'ALO ",
+        "count": "15555"
+    },
+    {
+        "constituecy": "220",
+        "id": "1102",
+        "name": " MARAKARU/TUUTI ",
+        "count": "16191"
+    },
+    {
+        "constituecy": "220",
+        "id": "1103",
+        "name": " WEST SANG'ALO ",
+        "count": "14809"
+    },
+    {
+        "constituecy": "221",
+        "id": "1104",
+        "name": " MIHUU ",
+        "count": "17438"
+    },
+    {
+        "constituecy": "221",
+        "id": "1105",
+        "name": " NDIVISI ",
+        "count": "17755"
+    },
+    {
+        "constituecy": "221",
+        "id": "1106",
+        "name": " MARAKA ",
+        "count": "13757"
+    },
+    {
+        "constituecy": "222",
+        "id": "1107",
+        "name": " MISIKHU ",
+        "count": "14118"
+    },
+    {
+        "constituecy": "222",
+        "id": "1108",
+        "name": " SITIKHO ",
+        "count": "12540"
+    },
+    {
+        "constituecy": "222",
+        "id": "1109",
+        "name": " MATULO ",
+        "count": "16304"
+    },
+    {
+        "constituecy": "222",
+        "id": "1110",
+        "name": " BOKOLI ",
+        "count": "15670"
+    },
+    {
+        "constituecy": "223",
+        "id": "1111",
+        "name": " KIBINGEI ",
+        "count": "15664"
+    },
+    {
+        "constituecy": "223",
+        "id": "1112",
+        "name": " KIMILILI ",
+        "count": "19062"
+    },
+    {
+        "constituecy": "223",
+        "id": "1113",
+        "name": " MAENI ",
+        "count": "11452"
+    },
+    {
+        "constituecy": "223",
+        "id": "1114",
+        "name": " KAMUKUYWA ",
+        "count": "15409"
+    },
+    {
+        "constituecy": "224",
+        "id": "1115",
+        "name": " MBAKALO ",
+        "count": "13311"
+    },
+    {
+        "constituecy": "224",
+        "id": "1116",
+        "name": " NAITIRI/KABUYEFWE ",
+        "count": "16232"
+    },
+    {
+        "constituecy": "224",
+        "id": "1117",
+        "name": " MILIMA ",
+        "count": "15700"
+    },
+    {
+        "constituecy": "224",
+        "id": "1118",
+        "name": " NDALU/ TABANI ",
+        "count": "11250"
+    },
+    {
+        "constituecy": "224",
+        "id": "1119",
+        "name": " TONGAREN ",
+        "count": "15124"
+    },
+    {
+        "constituecy": "224",
+        "id": "1120",
+        "name": " SOYSAMBU/ MITUA ",
+        "count": "13335"
+    },
+    {
+        "constituecy": "225",
+        "id": "1121",
+        "name": " MALABA CENTRAL ",
+        "count": "13248"
+    },
+    {
+        "constituecy": "225",
+        "id": "1122",
+        "name": " MALABA NORTH ",
+        "count": "8401"
+    },
+    {
+        "constituecy": "225",
+        "id": "1123",
+        "name": " ANG'URAI SOUTH ",
+        "count": "9821"
+    },
+    {
+        "constituecy": "225",
+        "id": "1124",
+        "name": " ANG'URAI NORTH ",
+        "count": "10148"
+    },
+    {
+        "constituecy": "225",
+        "id": "1125",
+        "name": " ANG'URAI EAST ",
+        "count": "7764"
+    },
+    {
+        "constituecy": "225",
+        "id": "1126",
+        "name": " MALABA SOUTH ",
+        "count": "10413"
+    },
+    {
+        "constituecy": "226",
+        "id": "1127",
+        "name": " ANG'OROM ",
+        "count": "13730"
+    },
+    {
+        "constituecy": "226",
+        "id": "1128",
+        "name": " CHAKOL SOUTH ",
+        "count": "15351"
+    },
+    {
+        "constituecy": "226",
+        "id": "1129",
+        "name": " CHAKOL NORTH ",
+        "count": "9450"
+    },
+    {
+        "constituecy": "226",
+        "id": "1130",
+        "name": " AMUKURA WEST ",
+        "count": "8862"
+    },
+    {
+        "constituecy": "226",
+        "id": "1131",
+        "name": " AMUKURA EAST ",
+        "count": "11549"
+    },
+    {
+        "constituecy": "226",
+        "id": "1132",
+        "name": " AMUKURA CENTRAL ",
+        "count": "12326"
+    },
+    {
+        "constituecy": "227",
+        "id": "1133",
+        "name": " NAMBALE TOWNSHIP ",
+        "count": "17638"
+    },
+    {
+        "constituecy": "227",
+        "id": "1134",
+        "name": " BUKHAYO NORTH/WALTSI ",
+        "count": "10945"
+    },
+    {
+        "constituecy": "227",
+        "id": "1135",
+        "name": " BUKHAYO EAST ",
+        "count": "11614"
+    },
+    {
+        "constituecy": "227",
+        "id": "1136",
+        "name": " BUKHAYO CENTRAL ",
+        "count": "10348"
+    },
+    {
+        "constituecy": "228",
+        "id": "1137",
+        "name": " BUKHAYO WEST ",
+        "count": "17548"
+    },
+    {
+        "constituecy": "228",
+        "id": "1138",
+        "name": " MAYENJE ",
+        "count": "8184"
+    },
+    {
+        "constituecy": "228",
+        "id": "1139",
+        "name": " MATAYOS SOUTH ",
+        "count": "15980"
+    },
+    {
+        "constituecy": "228",
+        "id": "1140",
+        "name": " BUSIBWABO ",
+        "count": "6500"
+    },
+    {
+        "constituecy": "228",
+        "id": "1141",
+        "name": " BURUMBA ",
+        "count": "19496"
+    },
+    {
+        "constituecy": "229",
+        "id": "1142",
+        "name": " MARACHI WEST ",
+        "count": "11575"
+    },
+    {
+        "constituecy": "229",
+        "id": "1143",
+        "name": " KINGANDOLE ",
+        "count": "9906"
+    },
+    {
+        "constituecy": "229",
+        "id": "1144",
+        "name": " MARACHI CENTRAL ",
+        "count": "11685"
+    },
+    {
+        "constituecy": "229",
+        "id": "1145",
+        "name": " MARACHI EAST ",
+        "count": "11105"
+    },
+    {
+        "constituecy": "229",
+        "id": "1146",
+        "name": " MARACHI NORTH ",
+        "count": "12937"
+    },
+    {
+        "constituecy": "229",
+        "id": "1147",
+        "name": " ELUGULU ",
+        "count": "10169"
+    },
+    {
+        "constituecy": "230",
+        "id": "1148",
+        "name": " NAMBOBOTO NAMBUKU ",
+        "count": "15900"
+    },
+    {
+        "constituecy": "230",
+        "id": "1149",
+        "name": " NANGINA ",
+        "count": "12527"
+    },
+    {
+        "constituecy": "230",
+        "id": "1150",
+        "name": " AGENG'A NANGUBA ",
+        "count": "14284"
+    },
+    {
+        "constituecy": "230",
+        "id": "1151",
+        "name": " BWIRI ",
+        "count": "11320"
+    },
+    {
+        "constituecy": "231",
+        "id": "1152",
+        "name": " BUNYALA CENTRAL ",
+        "count": "7725"
+    },
+    {
+        "constituecy": "231",
+        "id": "1153",
+        "name": " BUNYALA NORTH ",
+        "count": "13637"
+    },
+    {
+        "constituecy": "231",
+        "id": "1154",
+        "name": " BUNYALA WEST ",
+        "count": "14863"
+    },
+    {
+        "constituecy": "231",
+        "id": "1155",
+        "name": " BUNYALA SOUTH ",
+        "count": "9807"
+    },
+    {
+        "constituecy": "232",
+        "id": "1156",
+        "name": " WEST UGENYA ",
+        "count": "18973"
+    },
+    {
+        "constituecy": "232",
+        "id": "1157",
+        "name": " UKWALA ",
+        "count": "14870"
+    },
+    {
+        "constituecy": "232",
+        "id": "1158",
+        "name": " NORTH UGENYA ",
+        "count": "16987"
+    },
+    {
+        "constituecy": "232",
+        "id": "1159",
+        "name": " EAST UGENYA ",
+        "count": "18197"
+    },
+    {
+        "constituecy": "233",
+        "id": "1160",
+        "name": " SIDINDI ",
+        "count": "14980"
+    },
+    {
+        "constituecy": "233",
+        "id": "1161",
+        "name": " SIGOMERE ",
+        "count": "18052"
+    },
+    {
+        "constituecy": "233",
+        "id": "1162",
+        "name": " UGUNJA ",
+        "count": "27082"
+    },
+    {
+        "constituecy": "234",
+        "id": "1163",
+        "name": " USONGA ",
+        "count": "9273"
+    },
+    {
+        "constituecy": "234",
+        "id": "1164",
+        "name": " WEST ALEGO ",
+        "count": "19154"
+    },
+    {
+        "constituecy": "234",
+        "id": "1165",
+        "name": " CENTRAL ALEGO ",
+        "count": "18893"
+    },
+    {
+        "constituecy": "234",
+        "id": "1166",
+        "name": " SIAYA TOWNSHIP ",
+        "count": "26832"
+    },
+    {
+        "constituecy": "234",
+        "id": "1167",
+        "name": " NORTH ALEGO ",
+        "count": "19005"
+    },
+    {
+        "constituecy": "234",
+        "id": "1168",
+        "name": " SOUTH EAST ALEGO ",
+        "count": "28845"
+    },
+    {
+        "constituecy": "235",
+        "id": "1169",
+        "name": " NORTH GEM ",
+        "count": "19321"
+    },
+    {
+        "constituecy": "235",
+        "id": "1170",
+        "name": " WEST GEM ",
+        "count": "14228"
+    },
+    {
+        "constituecy": "235",
+        "id": "1171",
+        "name": " CENTRAL GEM ",
+        "count": "13633"
+    },
+    {
+        "constituecy": "235",
+        "id": "1172",
+        "name": " YALA TOWNSHIP ",
+        "count": "13874"
+    },
+    {
+        "constituecy": "235",
+        "id": "1173",
+        "name": " EAST GEM ",
+        "count": "13952"
+    },
+    {
+        "constituecy": "235",
+        "id": "1174",
+        "name": " SOUTH GEM ",
+        "count": "18560"
+    },
+    {
+        "constituecy": "236",
+        "id": "1175",
+        "name": " WEST YIMBO ",
+        "count": "15638"
+    },
+    {
+        "constituecy": "236",
+        "id": "1176",
+        "name": " CENTRAL SAKWA ",
+        "count": "13782"
+    },
+    {
+        "constituecy": "236",
+        "id": "1177",
+        "name": " SOUTH SAKWA ",
+        "count": "14827"
+    },
+    {
+        "constituecy": "236",
+        "id": "1178",
+        "name": " YIMBO EAST ",
+        "count": "17008"
+    },
+    {
+        "constituecy": "236",
+        "id": "1179",
+        "name": " WEST SAKWA ",
+        "count": "21323"
+    },
+    {
+        "constituecy": "236",
+        "id": "1180",
+        "name": " NORTH SAKWA ",
+        "count": "21457"
+    },
+    {
+        "constituecy": "237",
+        "id": "1181",
+        "name": " EAST ASEMBO ",
+        "count": "21741"
+    },
+    {
+        "constituecy": "237",
+        "id": "1182",
+        "name": " WEST ASEMBO ",
+        "count": "21599"
+    },
+    {
+        "constituecy": "237",
+        "id": "1183",
+        "name": " NORTH UYOMA ",
+        "count": "13158"
+    },
+    {
+        "constituecy": "237",
+        "id": "1184",
+        "name": " SOUTH UYOMA ",
+        "count": "11140"
+    },
+    {
+        "constituecy": "237",
+        "id": "1185",
+        "name": " WEST UYOMA ",
+        "count": "17211"
+    },
+    {
+        "constituecy": "238",
+        "id": "1186",
+        "name": " KAJULU ",
+        "count": "26717"
+    },
+    {
+        "constituecy": "238",
+        "id": "1187",
+        "name": " KOLWA EAST ",
+        "count": "15294"
+    },
+    {
+        "constituecy": "238",
+        "id": "1188",
+        "name": " MANYATTA 'B' ",
+        "count": "15095"
+    },
+    {
+        "constituecy": "238",
+        "id": "1189",
+        "name": " NYALENDA 'A' ",
+        "count": "13765"
+    },
+    {
+        "constituecy": "238",
+        "id": "1190",
+        "name": " KOLWA CENTRAL ",
+        "count": "22306"
+    },
+    {
+        "constituecy": "239",
+        "id": "1191",
+        "name": " SOUTH WEST KISUMU ",
+        "count": "15592"
+    },
+    {
+        "constituecy": "239",
+        "id": "1192",
+        "name": " CENTRAL KISUMU ",
+        "count": "21829"
+    },
+    {
+        "constituecy": "239",
+        "id": "1193",
+        "name": " KISUMU NORTH ",
+        "count": "17599"
+    },
+    {
+        "constituecy": "239",
+        "id": "1194",
+        "name": " WEST KISUMU ",
+        "count": "13932"
+    },
+    {
+        "constituecy": "239",
+        "id": "1195",
+        "name": " NORTH WEST KISUMU ",
+        "count": "13975"
+    },
+    {
+        "constituecy": "240",
+        "id": "1196",
+        "name": " RAILWAYS ",
+        "count": "25365"
+    },
+    {
+        "constituecy": "240",
+        "id": "1197",
+        "name": " MIGOSI ",
+        "count": "18193"
+    },
+    {
+        "constituecy": "240",
+        "id": "1198",
+        "name": " SHAURIMOYO KALOLENI ",
+        "count": "17675"
+    },
+    {
+        "constituecy": "240",
+        "id": "1199",
+        "name": " MARKET MILIMANI ",
+        "count": "29278"
+    },
+    {
+        "constituecy": "240",
+        "id": "1200",
+        "name": " KONDELE ",
+        "count": "23019"
+    },
+    {
+        "constituecy": "240",
+        "id": "1201",
+        "name": " NYALENDA B ",
+        "count": "16619"
+    },
+    {
+        "constituecy": "241",
+        "id": "1202",
+        "name": " WEST SEME ",
+        "count": "17896"
+    },
+    {
+        "constituecy": "241",
+        "id": "1203",
+        "name": " CENTRAL SEME ",
+        "count": "14995"
+    },
+    {
+        "constituecy": "241",
+        "id": "1204",
+        "name": " EAST SEME ",
+        "count": "13920"
+    },
+    {
+        "constituecy": "241",
+        "id": "1205",
+        "name": " NORTH SEME ",
+        "count": "15234"
+    },
+    {
+        "constituecy": "242",
+        "id": "1206",
+        "name": " EAST KANO/WAWIDHI ",
+        "count": "10146"
+    },
+    {
+        "constituecy": "242",
+        "id": "1207",
+        "name": " AWASI/ONJIKO ",
+        "count": "18448"
+    },
+    {
+        "constituecy": "242",
+        "id": "1208",
+        "name": " AHERO ",
+        "count": "18131"
+    },
+    {
+        "constituecy": "242",
+        "id": "1209",
+        "name": " KABONYO/KANYAGWAL ",
+        "count": "13012"
+    },
+    {
+        "constituecy": "242",
+        "id": "1210",
+        "name": " KOBURA ",
+        "count": "21020"
+    },
+    {
+        "constituecy": "243",
+        "id": "1211",
+        "name": " MIWANI ",
+        "count": "10846"
+    },
+    {
+        "constituecy": "243",
+        "id": "1212",
+        "name": " OMBEYI ",
+        "count": "13969"
+    },
+    {
+        "constituecy": "243",
+        "id": "1213",
+        "name": " MASOGO/NYANG'OMA ",
+        "count": "18629"
+    },
+    {
+        "constituecy": "243",
+        "id": "1214",
+        "name": " CHEMELIL ",
+        "count": "16933"
+    },
+    {
+        "constituecy": "243",
+        "id": "1215",
+        "name": " MUHORONI/KORU ",
+        "count": "19388"
+    },
+    {
+        "constituecy": "244",
+        "id": "1216",
+        "name": " SOUTH WEST NYAKACH ",
+        "count": "10003"
+    },
+    {
+        "constituecy": "244",
+        "id": "1217",
+        "name": " NORTH NYAKACH ",
+        "count": "21438"
+    },
+    {
+        "constituecy": "244",
+        "id": "1218",
+        "name": " CENTRAL NYAKACH ",
+        "count": "14199"
+    },
+    {
+        "constituecy": "244",
+        "id": "1219",
+        "name": " WEST NYAKACH ",
+        "count": "14900"
+    },
+    {
+        "constituecy": "244",
+        "id": "1220",
+        "name": " SOUTH EAST NYAKACH ",
+        "count": "17394"
+    },
+    {
+        "constituecy": "245",
+        "id": "1221",
+        "name": " WEST KASIPUL ",
+        "count": "14303"
+    },
+    {
+        "constituecy": "245",
+        "id": "1222",
+        "name": " SOUTH KASIPUL ",
+        "count": "14318"
+    },
+    {
+        "constituecy": "245",
+        "id": "1223",
+        "name": " CENTRAL KASIPUL ",
+        "count": "15476"
+    },
+    {
+        "constituecy": "245",
+        "id": "1224",
+        "name": " EAST KAMAGAK ",
+        "count": "9074"
+    },
+    {
+        "constituecy": "245",
+        "id": "1225",
+        "name": " WEST KAMAGAK ",
+        "count": "14342"
+    },
+    {
+        "constituecy": "246",
+        "id": "1226",
+        "name": " KABONDO EAST ",
+        "count": "17062"
+    },
+    {
+        "constituecy": "246",
+        "id": "1227",
+        "name": " KABONDO WEST ",
+        "count": "16927"
+    },
+    {
+        "constituecy": "246",
+        "id": "1228",
+        "name": " KOKWANYO/KAKELO ",
+        "count": "15402"
+    },
+    {
+        "constituecy": "246",
+        "id": "1229",
+        "name": " KOJWACH ",
+        "count": "10519"
+    },
+    {
+        "constituecy": "247",
+        "id": "1230",
+        "name": " WEST KARACHUONYO ",
+        "count": "11870"
+    },
+    {
+        "constituecy": "247",
+        "id": "1231",
+        "name": " NORTH KARACHUONYO ",
+        "count": "13731"
+    },
+    {
+        "constituecy": "247",
+        "id": "1232",
+        "name": " CENTRAL ",
+        "count": "12560"
+    },
+    {
+        "constituecy": "247",
+        "id": "1233",
+        "name": " KANYALUO ",
+        "count": "11255"
+    },
+    {
+        "constituecy": "247",
+        "id": "1234",
+        "name": " KIBIRI ",
+        "count": "12053"
+    },
+    {
+        "constituecy": "247",
+        "id": "1235",
+        "name": " WANGCHIENG ",
+        "count": "19362"
+    },
+    {
+        "constituecy": "247",
+        "id": "1236",
+        "name": " KENDU BAY TOWN ",
+        "count": "13350"
+    },
+    {
+        "constituecy": "248",
+        "id": "1237",
+        "name": " WEST GEM ",
+        "count": "12456"
+    },
+    {
+        "constituecy": "248",
+        "id": "1238",
+        "name": " EAST GEM ",
+        "count": "13448"
+    },
+    {
+        "constituecy": "248",
+        "id": "1239",
+        "name": " KAGAN ",
+        "count": "16000"
+    },
+    {
+        "constituecy": "248",
+        "id": "1240",
+        "name": " KOCHIA ",
+        "count": "16982"
+    },
+    {
+        "constituecy": "249",
+        "id": "1241",
+        "name": " HOMA BAY CENTRAL ",
+        "count": "21119"
+    },
+    {
+        "constituecy": "249",
+        "id": "1242",
+        "name": " HOMA BAY ARUJO ",
+        "count": "13283"
+    },
+    {
+        "constituecy": "249",
+        "id": "1243",
+        "name": " HOMA BAY WEST ",
+        "count": "8283"
+    },
+    {
+        "constituecy": "249",
+        "id": "1244",
+        "name": " HOMA BAY EAST ",
+        "count": "15650"
+    },
+    {
+        "constituecy": "250",
+        "id": "1245",
+        "name": " KWABWAI ",
+        "count": "16085"
+    },
+    {
+        "constituecy": "250",
+        "id": "1246",
+        "name": " KANYADOTO ",
+        "count": "9315"
+    },
+    {
+        "constituecy": "250",
+        "id": "1247",
+        "name": " KANYIKELA ",
+        "count": "5350"
+    },
+    {
+        "constituecy": "250",
+        "id": "1248",
+        "name": " KABUOCH NORTH ",
+        "count": "19358"
+    },
+    {
+        "constituecy": "250",
+        "id": "1249",
+        "name": " KABUOCH SOUTH/PALA ",
+        "count": "13741"
+    },
+    {
+        "constituecy": "250",
+        "id": "1250",
+        "name": " KANYAMWA KOLOGI ",
+        "count": "13399"
+    },
+    {
+        "constituecy": "250",
+        "id": "1251",
+        "name": " KANYAMWA KOSEWE ",
+        "count": "19486"
+    },
+    {
+        "constituecy": "251",
+        "id": "1252",
+        "name": " MFANGANO ISLAND ",
+        "count": "10569"
+    },
+    {
+        "constituecy": "251",
+        "id": "1253",
+        "name": " RUSINGA ISLAND ",
+        "count": "14320"
+    },
+    {
+        "constituecy": "251",
+        "id": "1254",
+        "name": " KASGUNGA ",
+        "count": "12876"
+    },
+    {
+        "constituecy": "251",
+        "id": "1255",
+        "name": " GEMBE ",
+        "count": "9941"
+    },
+    {
+        "constituecy": "251",
+        "id": "1256",
+        "name": " LAMBWE ",
+        "count": "12968"
+    },
+    {
+        "constituecy": "252",
+        "id": "1257",
+        "name": " GWASSI SOUTH ",
+        "count": "18433"
+    },
+    {
+        "constituecy": "252",
+        "id": "1258",
+        "name": " GWASSI NORTH ",
+        "count": "15405"
+    },
+    {
+        "constituecy": "252",
+        "id": "1259",
+        "name": " KAKSINGRI WEST ",
+        "count": "13960"
+    },
+    {
+        "constituecy": "252",
+        "id": "1260",
+        "name": " RUMA-KAKSINGRI ",
+        "count": "7040"
+    },
+    {
+        "constituecy": "253",
+        "id": "1261",
+        "name": " NORTH KAMAGAMBO ",
+        "count": "10426"
+    },
+    {
+        "constituecy": "253",
+        "id": "1262",
+        "name": " CENTRAL KAMAGAMBO ",
+        "count": "19077"
+    },
+    {
+        "constituecy": "253",
+        "id": "1263",
+        "name": " EAST KAMAGAMBO ",
+        "count": "16141"
+    },
+    {
+        "constituecy": "253",
+        "id": "1264",
+        "name": " SOUTH KAMAGAMBO ",
+        "count": "13537"
+    },
+    {
+        "constituecy": "254",
+        "id": "1265",
+        "name": " NORTH SAKWA ",
+        "count": "11768"
+    },
+    {
+        "constituecy": "254",
+        "id": "1266",
+        "name": " SOUTH SAKWA ",
+        "count": "17750"
+    },
+    {
+        "constituecy": "254",
+        "id": "1267",
+        "name": " WEST SAKWA ",
+        "count": "11831"
+    },
+    {
+        "constituecy": "254",
+        "id": "1268",
+        "name": " CENTRAL SAKWA ",
+        "count": "14623"
+    },
+    {
+        "constituecy": "255",
+        "id": "1269",
+        "name": " GOD JOPE ",
+        "count": "10344"
+    },
+    {
+        "constituecy": "255",
+        "id": "1270",
+        "name": " SUNA CENTRAL ",
+        "count": "18244"
+    },
+    {
+        "constituecy": "255",
+        "id": "1271",
+        "name": " KAKRAO ",
+        "count": "16948"
+    },
+    {
+        "constituecy": "255",
+        "id": "1272",
+        "name": " KWA ",
+        "count": "8929"
+    },
+    {
+        "constituecy": "256",
+        "id": "1273",
+        "name": " WIGA ",
+        "count": "13692"
+    },
+    {
+        "constituecy": "256",
+        "id": "1274",
+        "name": " WASWETA II ",
+        "count": "12007"
+    },
+    {
+        "constituecy": "256",
+        "id": "1275",
+        "name": " RAGANA-ORUBA ",
+        "count": "20216"
+    },
+    {
+        "constituecy": "256",
+        "id": "1276",
+        "name": " WASIMBETE ",
+        "count": "10771"
+    },
+    {
+        "constituecy": "257",
+        "id": "1277",
+        "name": " WEST KANYAMKAGO ",
+        "count": "14886"
+    },
+    {
+        "constituecy": "257",
+        "id": "1278",
+        "name": " NORTH KANYAMKAGO ",
+        "count": "16336"
+    },
+    {
+        "constituecy": "257",
+        "id": "1279",
+        "name": " CENTRAL KANYAMKAGO ",
+        "count": "10295"
+    },
+    {
+        "constituecy": "257",
+        "id": "1280",
+        "name": " SOUTH KANYAMKAGO ",
+        "count": "16057"
+    },
+    {
+        "constituecy": "257",
+        "id": "1281",
+        "name": " EAST KANYAMKAGO ",
+        "count": "7489"
+    },
+    {
+        "constituecy": "258",
+        "id": "1282",
+        "name": " KACHIEN'G ",
+        "count": "10551"
+    },
+    {
+        "constituecy": "258",
+        "id": "1283",
+        "name": " KANYASA ",
+        "count": "7748"
+    },
+    {
+        "constituecy": "258",
+        "id": "1284",
+        "name": " NORTH KADEM ",
+        "count": "15113"
+    },
+    {
+        "constituecy": "258",
+        "id": "1285",
+        "name": " MACALDER/KANYARWANDA ",
+        "count": "13187"
+    },
+    {
+        "constituecy": "258",
+        "id": "1286",
+        "name": " KALER ",
+        "count": "5727"
+    },
+    {
+        "constituecy": "258",
+        "id": "1287",
+        "name": " GOT KACHOLA ",
+        "count": "10923"
+    },
+    {
+        "constituecy": "258",
+        "id": "1288",
+        "name": " MUHURU ",
+        "count": "10183"
+    },
+    {
+        "constituecy": "259",
+        "id": "1289",
+        "name": " BUKIRA EAST ",
+        "count": "8957"
+    },
+    {
+        "constituecy": "259",
+        "id": "1290",
+        "name": " BUKIRA CENTRL/IKEREGE ",
+        "count": "7865"
+    },
+    {
+        "constituecy": "259",
+        "id": "1291",
+        "name": " ISIBANIA ",
+        "count": "9169"
+    },
+    {
+        "constituecy": "259",
+        "id": "1292",
+        "name": " MAKERERO ",
+        "count": "6056"
+    },
+    {
+        "constituecy": "259",
+        "id": "1293",
+        "name": " MASABA ",
+        "count": "9214"
+    },
+    {
+        "constituecy": "259",
+        "id": "1294",
+        "name": " TAGARE ",
+        "count": "9780"
+    },
+    {
+        "constituecy": "259",
+        "id": "1295",
+        "name": " NYAMOSENSE/KOMOSOKO ",
+        "count": "11203"
+    },
+    {
+        "constituecy": "260",
+        "id": "1296",
+        "name": " GOKEHARAKA/GETAMBWEGA ",
+        "count": "7962"
+    },
+    {
+        "constituecy": "260",
+        "id": "1297",
+        "name": " NTIMARU WEST ",
+        "count": "8628"
+    },
+    {
+        "constituecy": "260",
+        "id": "1298",
+        "name": " NTIMARU EAST ",
+        "count": "5591"
+    },
+    {
+        "constituecy": "260",
+        "id": "1299",
+        "name": " NYABASI EAST ",
+        "count": "8930"
+    },
+    {
+        "constituecy": "260",
+        "id": "1300",
+        "name": " NYABASI WEST ",
+        "count": "10865"
+    },
+    {
+        "constituecy": "261",
+        "id": "1301",
+        "name": " BOMARIBA ",
+        "count": "11167"
+    },
+    {
+        "constituecy": "261",
+        "id": "1302",
+        "name": " BOGIAKUMU ",
+        "count": "17744"
+    },
+    {
+        "constituecy": "261",
+        "id": "1303",
+        "name": " BOMORENDA ",
+        "count": "17363"
+    },
+    {
+        "constituecy": "261",
+        "id": "1304",
+        "name": " RIANA ",
+        "count": "18356"
+    },
+    {
+        "constituecy": "262",
+        "id": "1305",
+        "name": " TABAKA ",
+        "count": "16395"
+    },
+    {
+        "constituecy": "262",
+        "id": "1306",
+        "name": " BOIKANG'A ",
+        "count": "10127"
+    },
+    {
+        "constituecy": "262",
+        "id": "1307",
+        "name": " BOGETENGA ",
+        "count": "14408"
+    },
+    {
+        "constituecy": "262",
+        "id": "1308",
+        "name": " BORABU / CHITAGO ",
+        "count": "17760"
+    },
+    {
+        "constituecy": "262",
+        "id": "1309",
+        "name": " MOTICHO ",
+        "count": "12699"
+    },
+    {
+        "constituecy": "262",
+        "id": "1310",
+        "name": " GETENGA ",
+        "count": "7615"
+    },
+    {
+        "constituecy": "263",
+        "id": "1311",
+        "name": " BOMBABA BORABU ",
+        "count": "12474"
+    },
+    {
+        "constituecy": "263",
+        "id": "1312",
+        "name": " BOOCHI BORABU ",
+        "count": "8650"
+    },
+    {
+        "constituecy": "263",
+        "id": "1313",
+        "name": " BOKIMONGE ",
+        "count": "18795"
+    },
+    {
+        "constituecy": "263",
+        "id": "1314",
+        "name": " MAGENCHE ",
+        "count": "17072"
+    },
+    {
+        "constituecy": "264",
+        "id": "1315",
+        "name": " MASIGE WEST ",
+        "count": "12614"
+    },
+    {
+        "constituecy": "264",
+        "id": "1316",
+        "name": " MASIGE EAST ",
+        "count": "11667"
+    },
+    {
+        "constituecy": "264",
+        "id": "1317",
+        "name": " BASI CENTRAL ",
+        "count": "13122"
+    },
+    {
+        "constituecy": "264",
+        "id": "1318",
+        "name": " NYACHEKI ",
+        "count": "16988"
+    },
+    {
+        "constituecy": "264",
+        "id": "1319",
+        "name": " BASI BOGETAORIO ",
+        "count": "16319"
+    },
+    {
+        "constituecy": "264",
+        "id": "1320",
+        "name": " BOBASI CHACHE ",
+        "count": "12997"
+    },
+    {
+        "constituecy": "264",
+        "id": "1321",
+        "name": " SAMETA/MOKWERERO ",
+        "count": "11884"
+    },
+    {
+        "constituecy": "264",
+        "id": "1322",
+        "name": " BOBASI BOITANGARE ",
+        "count": "10469"
+    },
+    {
+        "constituecy": "265",
+        "id": "1323",
+        "name": " MAJOGE BASI ",
+        "count": "13016"
+    },
+    {
+        "constituecy": "265",
+        "id": "1324",
+        "name": " BOOCHI/TENDERE ",
+        "count": "17987"
+    },
+    {
+        "constituecy": "265",
+        "id": "1325",
+        "name": " BOSOTI/SENGERA ",
+        "count": "18298"
+    },
+    {
+        "constituecy": "266",
+        "id": "1326",
+        "name": " ICHUNI ",
+        "count": "15662"
+    },
+    {
+        "constituecy": "266",
+        "id": "1327",
+        "name": " NYAMASIBI ",
+        "count": "11782"
+    },
+    {
+        "constituecy": "266",
+        "id": "1328",
+        "name": " MASIMBA ",
+        "count": "14188"
+    },
+    {
+        "constituecy": "266",
+        "id": "1329",
+        "name": " GESUSU ",
+        "count": "14569"
+    },
+    {
+        "constituecy": "266",
+        "id": "1330",
+        "name": " KIAMOKAMA ",
+        "count": "12392"
+    },
+    {
+        "constituecy": "267",
+        "id": "1331",
+        "name": " BOBARACHO ",
+        "count": "19235"
+    },
+    {
+        "constituecy": "267",
+        "id": "1332",
+        "name": " KISII CENTRAL ",
+        "count": "24550"
+    },
+    {
+        "constituecy": "267",
+        "id": "1333",
+        "name": " KEUMBU ",
+        "count": "10022"
+    },
+    {
+        "constituecy": "267",
+        "id": "1334",
+        "name": " KIOGORO ",
+        "count": "10510"
+    },
+    {
+        "constituecy": "267",
+        "id": "1335",
+        "name": " BIRONGO ",
+        "count": "11320"
+    },
+    {
+        "constituecy": "267",
+        "id": "1336",
+        "name": " IBENO ",
+        "count": "12916"
+    },
+    {
+        "constituecy": "268",
+        "id": "1337",
+        "name": " MONYERERO ",
+        "count": "15350"
+    },
+    {
+        "constituecy": "268",
+        "id": "1338",
+        "name": " SENSI ",
+        "count": "15165"
+    },
+    {
+        "constituecy": "268",
+        "id": "1339",
+        "name": " MARANI ",
+        "count": "15466"
+    },
+    {
+        "constituecy": "268",
+        "id": "1340",
+        "name": " KEGOGI ",
+        "count": "10989"
+    },
+    {
+        "constituecy": "269",
+        "id": "1341",
+        "name": " BOGUSERO ",
+        "count": "12271"
+    },
+    {
+        "constituecy": "269",
+        "id": "1342",
+        "name": " BOGEKA ",
+        "count": "7774"
+    },
+    {
+        "constituecy": "269",
+        "id": "1343",
+        "name": " NYAKOE ",
+        "count": "12178"
+    },
+    {
+        "constituecy": "269",
+        "id": "1344",
+        "name": " KITUTU   CENTRAL ",
+        "count": "24345"
+    },
+    {
+        "constituecy": "269",
+        "id": "1345",
+        "name": " NYATIEKO ",
+        "count": "10340"
+    },
+    {
+        "constituecy": "270",
+        "id": "1346",
+        "name": " RIGOMA ",
+        "count": "19808"
+    },
+    {
+        "constituecy": "270",
+        "id": "1347",
+        "name": " GACHUBA ",
+        "count": "16245"
+    },
+    {
+        "constituecy": "270",
+        "id": "1348",
+        "name": " KEMERA ",
+        "count": "18264"
+    },
+    {
+        "constituecy": "270",
+        "id": "1349",
+        "name": " MAGOMBO ",
+        "count": "13683"
+    },
+    {
+        "constituecy": "270",
+        "id": "1350",
+        "name": " MANGA ",
+        "count": "19212"
+    },
+    {
+        "constituecy": "270",
+        "id": "1351",
+        "name": " GESIMA ",
+        "count": "19057"
+    },
+    {
+        "constituecy": "271",
+        "id": "1352",
+        "name": " NYAMAIYA ",
+        "count": "16431"
+    },
+    {
+        "constituecy": "271",
+        "id": "1353",
+        "name": " BOGICHORA ",
+        "count": "21267"
+    },
+    {
+        "constituecy": "271",
+        "id": "1354",
+        "name": " BOSAMARO ",
+        "count": "20028"
+    },
+    {
+        "constituecy": "271",
+        "id": "1355",
+        "name": " BONYAMATUTA ",
+        "count": "15455"
+    },
+    {
+        "constituecy": "271",
+        "id": "1356",
+        "name": " TOWNSHIP ",
+        "count": "15018"
+    },
+    {
+        "constituecy": "272",
+        "id": "1357",
+        "name": " ITIBO ",
+        "count": "13950"
+    },
+    {
+        "constituecy": "272",
+        "id": "1358",
+        "name": " BOMWAGAMO ",
+        "count": "10152"
+    },
+    {
+        "constituecy": "272",
+        "id": "1359",
+        "name": " BOKEIRA ",
+        "count": "13595"
+    },
+    {
+        "constituecy": "272",
+        "id": "1360",
+        "name": " MAGWAGWA ",
+        "count": "12780"
+    },
+    {
+        "constituecy": "272",
+        "id": "1361",
+        "name": " EKERENYO ",
+        "count": "14273"
+    },
+    {
+        "constituecy": "273",
+        "id": "1362",
+        "name": " MEKENENE ",
+        "count": "10730"
+    },
+    {
+        "constituecy": "273",
+        "id": "1363",
+        "name": " KIABONYORU ",
+        "count": "22625"
+    },
+    {
+        "constituecy": "273",
+        "id": "1364",
+        "name": " NYANSIONGO ",
+        "count": "16050"
+    },
+    {
+        "constituecy": "273",
+        "id": "1365",
+        "name": " ESISE ",
+        "count": "14660"
+    },
+    {
+        "constituecy": "274",
+        "id": "1366",
+        "name": " KITISURU ",
+        "count": "29237"
+    },
+    {
+        "constituecy": "274",
+        "id": "1367",
+        "name": " PARKLANDS/HIGHRIDGE ",
+        "count": "37144"
+    },
+    {
+        "constituecy": "274",
+        "id": "1368",
+        "name": " KARURA ",
+        "count": "29548"
+    },
+    {
+        "constituecy": "274",
+        "id": "1369",
+        "name": " KANGEMI ",
+        "count": "32551"
+    },
+    {
+        "constituecy": "274",
+        "id": "1370",
+        "name": " MOUNTAIN VIEW ",
+        "count": "32259"
+    },
+    {
+        "constituecy": "275",
+        "id": "1371",
+        "name": " KILIMANI ",
+        "count": "38927"
+    },
+    {
+        "constituecy": "275",
+        "id": "1372",
+        "name": " KAWANGWARE ",
+        "count": "28468"
+    },
+    {
+        "constituecy": "275",
+        "id": "1373",
+        "name": " GATINA ",
+        "count": "34831"
+    },
+    {
+        "constituecy": "275",
+        "id": "1374",
+        "name": " KILELESHWA ",
+        "count": "26343"
+    },
+    {
+        "constituecy": "275",
+        "id": "1375",
+        "name": " KABIRO ",
+        "count": "29090"
+    },
+    {
+        "constituecy": "276",
+        "id": "1376",
+        "name": " MUTU-INI ",
+        "count": "13484"
+    },
+    {
+        "constituecy": "276",
+        "id": "1377",
+        "name": " NGANDO ",
+        "count": "24892"
+    },
+    {
+        "constituecy": "276",
+        "id": "1378",
+        "name": " RIRUTA ",
+        "count": "37766"
+    },
+    {
+        "constituecy": "276",
+        "id": "1379",
+        "name": " UTHIRU/RUTHIMITU ",
+        "count": "19657"
+    },
+    {
+        "constituecy": "276",
+        "id": "1380",
+        "name": " WAITHAKA ",
+        "count": "19131"
+    },
+    {
+        "constituecy": "277",
+        "id": "1381",
+        "name": " KAREN ",
+        "count": "34450"
+    },
+    {
+        "constituecy": "277",
+        "id": "1382",
+        "name": " NAIROBI WEST ",
+        "count": "18386"
+    },
+    {
+        "constituecy": "277",
+        "id": "1383",
+        "name": " MUGUMU-INI ",
+        "count": "37864"
+    },
+    {
+        "constituecy": "277",
+        "id": "1384",
+        "name": " SOUTH C ",
+        "count": "33149"
+    },
+    {
+        "constituecy": "277",
+        "id": "1385",
+        "name": " NYAYO HIGHRISE ",
+        "count": "21800"
+    },
+    {
+        "constituecy": "278",
+        "id": "1386",
+        "name": " LAINI SABA ",
+        "count": "19378"
+    },
+    {
+        "constituecy": "278",
+        "id": "1387",
+        "name": " LINDI ",
+        "count": "19082"
+    },
+    {
+        "constituecy": "278",
+        "id": "1388",
+        "name": " MAKINA ",
+        "count": "28408"
+    },
+    {
+        "constituecy": "278",
+        "id": "1389",
+        "name": " WOODLEY/KENYATTA GOLF COURSE ",
+        "count": "28972"
+    },
+    {
+        "constituecy": "278",
+        "id": "1390",
+        "name": " SARANGOMBE ",
+        "count": "32442"
+    },
+    {
+        "constituecy": "279",
+        "id": "1391",
+        "name": " GITHURAI ",
+        "count": "35899"
+    },
+    {
+        "constituecy": "279",
+        "id": "1392",
+        "name": " KAHAWA WEST ",
+        "count": "38586"
+    },
+    {
+        "constituecy": "279",
+        "id": "1393",
+        "name": " ZIMMERMAN ",
+        "count": "30701"
+    },
+    {
+        "constituecy": "279",
+        "id": "1394",
+        "name": " ROYSAMBU ",
+        "count": "31158"
+    },
+    {
+        "constituecy": "279",
+        "id": "1395",
+        "name": " KAHAWA ",
+        "count": "17428"
+    },
+    {
+        "constituecy": "280",
+        "id": "1396",
+        "name": " CLAY CITY ",
+        "count": "34387"
+    },
+    {
+        "constituecy": "280",
+        "id": "1397",
+        "name": " MWIKI ",
+        "count": "27837"
+    },
+    {
+        "constituecy": "280",
+        "id": "1398",
+        "name": " KASARANI ",
+        "count": "27525"
+    },
+    {
+        "constituecy": "280",
+        "id": "1399",
+        "name": " NJIRU ",
+        "count": "28140"
+    },
+    {
+        "constituecy": "280",
+        "id": "1400",
+        "name": " RUAI ",
+        "count": "37361"
+    },
+    {
+        "constituecy": "281",
+        "id": "1401",
+        "name": " BABA DOGO ",
+        "count": "29419"
+    },
+    {
+        "constituecy": "281",
+        "id": "1402",
+        "name": " UTALII ",
+        "count": "27599"
+    },
+    {
+        "constituecy": "281",
+        "id": "1403",
+        "name": " MATHARE NORTH ",
+        "count": "29334"
+    },
+    {
+        "constituecy": "281",
+        "id": "1404",
+        "name": " LUCKY SUMMER ",
+        "count": "20690"
+    },
+    {
+        "constituecy": "281",
+        "id": "1405",
+        "name": " KOROGOCHO ",
+        "count": "17440"
+    },
+    {
+        "constituecy": "282",
+        "id": "1406",
+        "name": " IMARA DAIMA ",
+        "count": "38096"
+    },
+    {
+        "constituecy": "282",
+        "id": "1407",
+        "name": " KWA NJENGA ",
+        "count": "28554"
+    },
+    {
+        "constituecy": "282",
+        "id": "1408",
+        "name": " KWA REUBEN ",
+        "count": "33591"
+    },
+    {
+        "constituecy": "282",
+        "id": "1409",
+        "name": " PIPELINE ",
+        "count": "37900"
+    },
+    {
+        "constituecy": "282",
+        "id": "1410",
+        "name": " KWARE ",
+        "count": "29812"
+    },
+    {
+        "constituecy": "283",
+        "id": "1411",
+        "name": " KARIOBANGI NORTH ",
+        "count": "24500"
+    },
+    {
+        "constituecy": "283",
+        "id": "1412",
+        "name": " DANDORA AREA I ",
+        "count": "20543"
+    },
+    {
+        "constituecy": "283",
+        "id": "1413",
+        "name": " DANDORA AREA II ",
+        "count": "19761"
+    },
+    {
+        "constituecy": "283",
+        "id": "1414",
+        "name": " DANDORA AREA III ",
+        "count": "21247"
+    },
+    {
+        "constituecy": "283",
+        "id": "1415",
+        "name": " DANDORA AREA IV ",
+        "count": "27293"
+    },
+    {
+        "constituecy": "284",
+        "id": "1416",
+        "name": " KAYOLE NORTH ",
+        "count": "25563"
+    },
+    {
+        "constituecy": "284",
+        "id": "1417",
+        "name": " KAYOLE CENTRAL ",
+        "count": "26855"
+    },
+    {
+        "constituecy": "284",
+        "id": "1418",
+        "name": " KAYOLE SOUTH ",
+        "count": "41154"
+    },
+    {
+        "constituecy": "284",
+        "id": "1419",
+        "name": " KOMAROCK ",
+        "count": "33127"
+    },
+    {
+        "constituecy": "284",
+        "id": "1420",
+        "name": " MATOPENI/SPRING VALLEY ",
+        "count": "19193"
+    },
+    {
+        "constituecy": "285",
+        "id": "1421",
+        "name": " UPPER SAVANNAH ",
+        "count": "28928"
+    },
+    {
+        "constituecy": "285",
+        "id": "1422",
+        "name": " LOWER SAVANNAH ",
+        "count": "30104"
+    },
+    {
+        "constituecy": "285",
+        "id": "1423",
+        "name": " EMBAKASI ",
+        "count": "46291"
+    },
+    {
+        "constituecy": "285",
+        "id": "1424",
+        "name": " UTAWALA ",
+        "count": "25707"
+    },
+    {
+        "constituecy": "285",
+        "id": "1425",
+        "name": " MIHANGO ",
+        "count": "23569"
+    },
+    {
+        "constituecy": "286",
+        "id": "1426",
+        "name": " UMOJA I ",
+        "count": "40554"
+    },
+    {
+        "constituecy": "286",
+        "id": "1427",
+        "name": " UMOJA II ",
+        "count": "39562"
+    },
+    {
+        "constituecy": "286",
+        "id": "1428",
+        "name": " MOWLEM ",
+        "count": "23423"
+    },
+    {
+        "constituecy": "286",
+        "id": "1429",
+        "name": " KARIOBANGI SOUTH ",
+        "count": "38339"
+    },
+    {
+        "constituecy": "287",
+        "id": "1430",
+        "name": " MARINGO/HAMZA ",
+        "count": "39821"
+    },
+    {
+        "constituecy": "287",
+        "id": "1431",
+        "name": " VIWANDANI ",
+        "count": "24650"
+    },
+    {
+        "constituecy": "287",
+        "id": "1432",
+        "name": " HARAMBEE ",
+        "count": "36498"
+    },
+    {
+        "constituecy": "287",
+        "id": "1433",
+        "name": " MAKONGENI ",
+        "count": "28658"
+    },
+    {
+        "constituecy": "288",
+        "id": "1434",
+        "name": " PUMWANI ",
+        "count": "39130"
+    },
+    {
+        "constituecy": "288",
+        "id": "1435",
+        "name": " EASTLEIGH NORTH ",
+        "count": "27523"
+    },
+    {
+        "constituecy": "288",
+        "id": "1436",
+        "name": " EASTLEIGH SOUTH ",
+        "count": "28019"
+    },
+    {
+        "constituecy": "288",
+        "id": "1437",
+        "name": " AIRBASE ",
+        "count": "16352"
+    },
+    {
+        "constituecy": "288",
+        "id": "1438",
+        "name": " CALIFORNIA ",
+        "count": "17492"
+    },
+    {
+        "constituecy": "289",
+        "id": "1439",
+        "name": " NAIROBI CENTRAL ",
+        "count": "52186"
+    },
+    {
+        "constituecy": "289",
+        "id": "1440",
+        "name": " NGARA ",
+        "count": "27816"
+    },
+    {
+        "constituecy": "289",
+        "id": "1441",
+        "name": " PANGANI ",
+        "count": "18494"
+    },
+    {
+        "constituecy": "289",
+        "id": "1442",
+        "name": " ZIWANI/KARIOKOR ",
+        "count": "16790"
+    },
+    {
+        "constituecy": "289",
+        "id": "1443",
+        "name": " LANDIMAWE ",
+        "count": "20436"
+    },
+    {
+        "constituecy": "289",
+        "id": "1444",
+        "name": " NAIROBI SOUTH ",
+        "count": "33853"
+    },
+    {
+        "constituecy": "290",
+        "id": "1445",
+        "name": " HOSPITAL ",
+        "count": "12512"
+    },
+    {
+        "constituecy": "290",
+        "id": "1446",
+        "name": " MABATINI ",
+        "count": "20976"
+    },
+    {
+        "constituecy": "290",
+        "id": "1447",
+        "name": " HURUMA ",
+        "count": "23018"
+    },
+    {
+        "constituecy": "290",
+        "id": "1448",
+        "name": " NGEI ",
+        "count": "24699"
+    },
+    {
+        "constituecy": "290",
+        "id": "1449",
+        "name": " MLANGO KUBWA ",
+        "count": "22765"
+    },
+    {
+        "constituecy": "290",
+        "id": "1450",
+        "name": " KIAMAIKO ",
+        "count": "19193"
+    }
+]

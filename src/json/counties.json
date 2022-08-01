@@ -1,0 +1,237 @@
+[
+  {
+    "id": "1",
+    "name": "MOMBASA",
+    "count": "641913"
+  },
+  {
+    "id": "2",
+    "name": "KWALE",
+    "count": "328253"
+  },
+  {
+    "id": "3",
+    "name": "KILIFI",
+    "count": "588602"
+  },
+  {
+    "id": "4",
+    "name": "TANA RIVER",
+    "count": "141096"
+  },
+  {
+    "id": "5",
+    "name": "LAMU",
+    "count": "81453"
+  },
+  {
+    "id": "6",
+    "name": "TAITA TAVETA",
+    "count": "181827"
+  },
+  {
+    "id": "7",
+    "name": "GARISSA",
+    "count": "201473"
+  },
+  {
+    "id": "8",
+    "name": "WAJIR",
+    "count": "207758"
+  },
+  {
+    "id": "9",
+    "name": "MANDERA",
+    "count": "217030"
+  },
+  {
+    "id": "10",
+    "name": "MARSABIT",
+    "count": "166912"
+  },
+  {
+    "id": "11",
+    "name": "ISIOLO",
+    "count": "89504"
+  },
+  {
+    "id": "12",
+    "name": "MERU",
+    "count": "772139"
+  },
+  {
+    "id": "13",
+    "name": "THARAKA NITHI",
+    "count": ""
+  },
+  {
+    "id": "14",
+    "name": "EMBU",
+    "count": "334302"
+  },
+  {
+    "id": "15",
+    "name": "KITUI",
+    "count": "532758"
+  },
+  {
+    "id": "16",
+    "name": "MACHAKOS",
+    "count": "687565"
+  },
+  {
+    "id": "17",
+    "name": "MAKUENI",
+    "count": "479401"
+  },
+  {
+    "id": "18",
+    "name": "NYANDARUA",
+    "count": "361165"
+  },
+  {
+    "id": "19",
+    "name": "NYERI",
+    "count": "481632"
+  },
+  {
+    "id": "20",
+    "name": "KIRINYAGA",
+    "count": "376001"
+  },
+  {
+    "id": "21",
+    "name": "MURANG'A",
+    "count": "620929"
+  },
+  {
+    "id": "22",
+    "name": "KIAMBU",
+    "count": "1275008"
+  },
+  {
+    "id": "23",
+    "name": "TURKANA",
+    "count": "238528"
+  },
+  {
+    "id": "24",
+    "name": "WEST POKOT",
+    "count": "220026"
+  },
+  {
+    "id": "25",
+    "name": "SAMBURU",
+    "count": "100014"
+  },
+  {
+    "id": "26",
+    "name": "TRANS NZOIA",
+    "count": "398981"
+  },
+  {
+    "id": "27",
+    "name": "UASIN GISHU",
+    "count": "506138"
+  },
+  {
+    "id": "28",
+    "name": "ELGEYO/MARAKWET",
+    "count": "213884"
+  },
+  {
+    "id": "29",
+    "name": "NANDI",
+    "count": "406288"
+  },
+  {
+    "id": "30",
+    "name": "BARINGO",
+    "count": "281053"
+  },
+  {
+    "id": "31",
+    "name": "LAIKIPIA",
+    "count": "263012"
+  },
+  {
+    "id": "32",
+    "name": "NAKURU",
+    "count": "1054856"
+  },
+  {
+    "id": "33",
+    "name": "NAROK",
+    "count": "398784"
+  },
+  {
+    "id": "34",
+    "name": "KAJIADO",
+    "count": "463273"
+  },
+  {
+    "id": "35",
+    "name": "KERICHO",
+    "count": "428067"
+  },
+  {
+    "id": "36",
+    "name": "BOMET",
+    "count": "376985"
+  },
+  {
+    "id": "37",
+    "name": "KAKAMEGA",
+    "count": "844551"
+  },
+  {
+    "id": "38",
+    "name": "VIHIGA",
+    "count": "310043"
+  },
+  {
+    "id": "39",
+    "name": "BUNGOMA",
+    "count": "646598"
+  },
+  {
+    "id": "40",
+    "name": "BUSIA",
+    "count": "416756"
+  },
+  {
+    "id": "41",
+    "name": "SIAYA",
+    "count": "533595"
+  },
+  {
+    "id": "42",
+    "name": "KISUMU",
+    "count": "606754"
+  },
+  {
+    "id": "43",
+    "name": "HOMA BAY",
+    "count": "551071"
+  },
+  {
+    "id": "44",
+    "name": "MIGORI",
+    "count": "469019"
+  },
+  {
+    "id": "45",
+    "name": "KISII",
+    "count": "637010"
+  },
+  {
+    "id": "46",
+    "name": "NYAMIRA",
+    "count": "323283"
+  },
+  {
+    "id": "47",
+    "name": "NAIROBI CITY",
+    "count": "2415310"
+  }
+]
