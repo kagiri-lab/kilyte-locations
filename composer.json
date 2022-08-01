@@ -2,7 +2,7 @@
     "name": "kilyte/locations",
     "autoload": {
         "psr-4": {
-            "locations\\": "./src/"
+            "kilyte\\locations\\": "./src/"
         }
     },
     "authors": [

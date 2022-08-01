@@ -1,7 +1,7 @@
 <?php
 
 
-namespace locations\controllers;
+namespace kilyte\locations\controllers;
 
 use stdClass;
 
