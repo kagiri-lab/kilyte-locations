@@ -26,6 +26,11 @@ class LocationController extends LoadController
         return new stdClass;
     }
 
+    public function list_counties(): stdClass{
+        $counties = $this->counties();
+        return $counties;
+    }
+
     public function get_constituency($constituency_id): stdClass
     {
         if (!empty($constituency_id)) {
